@@ -70,34 +70,22 @@
     <string name="miwok_family_grandfather">paapa</string>
 
     <!-- Miwok translation for number one -->
-    <string name="miwok_number_one">lutti</string>
+    <string name="miwok_number_one">Cereal Box</string>
 
     <!-- Miwok translation for number two -->
-    <string name="miwok_number_two">otiiko</string>
+    <string name="miwok_number_two">Chicken</string>
 
     <!-- Miwok translation for number three -->
-    <string name="miwok_number_three">tolookosu</string>
+    <string name="miwok_number_three">Spiral pasta</string>
 
     <!-- Miwok translation for number four -->
-    <string name="miwok_number_four">oyyisa</string>
+    <string name="miwok_number_four">2 day old lasagna</string>
 
     <!-- Miwok translation for number five -->
-    <string name="miwok_number_five">massokka</string>
+    <string name="miwok_number_five">Milk</string>
 
     <!-- Miwok translation for number six -->
-    <string name="miwok_number_six">temmokka</string>
-
-    <!-- Miwok translation for number seven -->
-    <string name="miwok_number_seven">kenekaku</string>
-
-    <!-- Miwok translation for number eight -->
-    <string name="miwok_number_eight">kawinta</string>
-
-    <!-- Miwok translation for number nine -->
-    <string name="miwok_number_nine">wo\'e</string>
-
-    <!-- Miwok translation for number ten -->
-    <string name="miwok_number_ten">na\'aacha</string>
+    <string name="miwok_number_six">Beef</string>
 
     <!-- Miwok translation for phrase "Where are you going?" -->
     <string name="miwok_phrase_where_are_you_going">minto wuksus</string>

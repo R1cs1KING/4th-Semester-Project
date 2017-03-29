@@ -32,33 +32,37 @@
     <android.support.v4.view.ViewPager
         android:id="@+id/viewpager"
         android:layout_width="match_parent"
-        android:layout_height="389dp" />
+        android:layout_height="440dp"
+        android:layout_weight="1.04" />
 
     <LinearLayout
     android:layout_width="match_parent"
-    android:layout_height="123dp"
-    android:paddingBottom="-60dp"
-        android:gravity="bottom"
+    android:layout_height="wrap_content"
+    android:paddingBottom="-100dp"
+    android:gravity="bottom"
+    android:background="@color/alternative_color"
     android:orientation="horizontal">
 
         <Button
-            android:text="Button"
+            android:text="List"
             android:layout_width="122dp"
             android:layout_weight="1"
+            android:background="@drawable/fancy_button"
             android:layout_height="wrap_content"
             android:id="@+id/button2" />
 
         <Button
-        android:text="Button"
+        android:text="Messages"
         android:layout_width="127dp"
         android:id="@+id/button"
-
+        android:background="@drawable/fancy_button"
         android:layout_height="wrap_content"
-            android:layout_weight="1" />
+        android:layout_weight="1" />
 
         <Button
-            android:text="Button"
+            android:text="Map"
             android:layout_width="120dp"
+            android:background="@drawable/fancy_button"
             android:id="@+id/button3"
             android:layout_height="wrap_content" />
     </LinearLayout>

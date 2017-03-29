@@ -17,5 +17,7 @@
     android:id="@+id/list"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="800px"
+    android:layout_height="850px"
+    android:divider="@drawable/list_divider"
+    android:dividerHeight="1px"
     android:drawSelectorOnTop="true"/>
