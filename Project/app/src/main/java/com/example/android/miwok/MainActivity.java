@@ -19,6 +19,8 @@ import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
+import android.view.Menu;
+import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -47,5 +49,28 @@ public class MainActivity extends AppCompatActivity {
         //   3. Set the tab layout's tab names with the view pager's adapter's titles
         //      by calling onPageTitle()
         tabLayout.setupWithViewPager(viewPager);
+
+
+    }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+       /* switch (item.getItemId()) {
+            case R.id.settings:
+                // User chose the "Settings" item, show the app settings UI...
+                return true;
+
+            case R.id.add:
+                // User chose the "Favorite" action, mark the current item
+                // as a favorite...
+                return true;
+
+            default:
+                // If we got here, the user's action was not recognized.
+                // Invoke the superclass to handle it.
+                return super.onOptionsItemSelected(item);
+
+        }*/
+       getMenuInflater().inflate(R.menu.action_menu, menu);
+        return true;
     }
 }
