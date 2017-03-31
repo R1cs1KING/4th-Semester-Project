@@ -16,6 +16,9 @@
 package com.example.android.miwok;
 
 
+import android.content.Context;
+import android.media.AudioManager;
+import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.view.LayoutInflater;
@@ -29,9 +32,9 @@ import java.util.ArrayList;
 /**
  * {@link Fragment} that displays a list of number vocabulary words.
  */
-public class FreeFoodFragment extends Fragment {
+public class NumbersFragment extends Fragment {
 
-    public FreeFoodFragment() {
+    public NumbersFragment() {
         // Required empty public constructor
     }
 
@@ -42,16 +45,22 @@ public class FreeFoodFragment extends Fragment {
 
         // Create a list of words
         final ArrayList<Word> words = new ArrayList<Word>();
-        words.add(new Word(R.string.number_one, R.string.product_one, R.drawable.c));
-        words.add(new Word(R.string.number_two, R.string.product_two, R.drawable.ch));
-        words.add(new Word(R.string.number_three, R.string.product_three, R.drawable.p));
-        words.add(new Word(R.string.number_four, R.string.product_four, R.drawable.l));
-        words.add(new Word(R.string.number_five, R.string.product_five, R.drawable.m));
-        words.add(new Word(R.string.number_six, R.string.product_six, R.drawable.b));
+        words.add(new Word(R.string.number_one, R.string.miwok_number_one,
+                R.drawable.c, R.raw.number_one));
+        words.add(new Word(R.string.number_two, R.string.miwok_number_two,
+                R.drawable.ch, R.raw.number_two));
+        words.add(new Word(R.string.number_three, R.string.miwok_number_three,
+                R.drawable.p, R.raw.number_three));
+        words.add(new Word(R.string.number_four, R.string.miwok_number_four,
+                R.drawable.l, R.raw.number_four));
+        words.add(new Word(R.string.number_five, R.string.miwok_number_five,
+                R.drawable.m, R.raw.number_five));
+        words.add(new Word(R.string.number_six, R.string.miwok_number_six,
+                R.drawable.b, R.raw.number_six));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
-        WordAdapter adapter = new WordAdapter(getActivity(), words, R.color.category_freefood);
+        WordAdapter adapter = new WordAdapter(getActivity(), words, R.color.category_numbers);
 
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the

@@ -47,11 +47,11 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     @Override
     public Fragment getItem(int position) {
         if (position == 0) {
-            return new FreeFoodFragment();
+            return new NumbersFragment();
         } else if (position == 1) {
-            return new PicnicFragment();
+            return new FamilyFragment();
         } else {
-            return new CharityFragment();
+            return new ColorsFragment();
         }
     }
 
