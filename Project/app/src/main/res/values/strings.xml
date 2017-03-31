@@ -30,4 +30,6 @@
 
     <string name="action_sign_in_short">Sign in</string>
 
+    <string name="signout">Sign Out</string>
+
 </resources>
