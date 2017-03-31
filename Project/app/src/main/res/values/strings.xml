@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">PickFood</string>
+
+    <string name="category_picnic">Picnic</string>
+
+    <string name="category_freefood">Free food</string>
+
+    <string name="category_charity">Charity</string>
+
+    <string name="number_one">I did not like the cereal, so I am giving it away</string>
+
+    <string name="number_two">I bought too much chicken, so...</string>
+
+    <string name="number_three">There was a sale for pasta, I bought extra pasta, but I dont need it</string>
+
+    <string name="number_four">I made lasagna, but got bored of it...</string>
+
+    <string name="number_five">I am allergic to milk :D</string>
+
+    <string name="number_six">I am vegan</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="action_search">Search</string>
+
+    <string name="about">About</string>
+
+</resources>
