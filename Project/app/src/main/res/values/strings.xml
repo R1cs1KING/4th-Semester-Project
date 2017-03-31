@@ -26,4 +26,8 @@
 
     <string name="about">About</string>
 
+    <string name="prompt_email">e-mail</string>
+
+    <string name="action_sign_in_short">Sign in</string>
+
 </resources>

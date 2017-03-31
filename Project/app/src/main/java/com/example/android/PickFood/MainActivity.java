@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
         tabLayout.setupWithViewPager(viewPager);
 
 
+
     }
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
