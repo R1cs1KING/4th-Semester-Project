@@ -32,4 +32,22 @@
 
     <string name="signout">Sign Out</string>
 
+    <string name="register">Sign up</string>
+
+    <string name="email">E-mail:</string>
+
+    <string name="type_email">Type your e-mail address</string>
+
+    <string name="password">Password:</string>
+
+    <string name="type_password">Type your password</string>
+
+    <string name="repassword">Password again:</string>
+
+    <string name="type_repassword">Type your password again</string>
+
+    <string name="proceed">Proceed</string>
+
+    <string name="cancel">Cancel</string>
+
 </resources>

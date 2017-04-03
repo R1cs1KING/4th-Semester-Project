@@ -27,7 +27,7 @@ public class LogIn extends AppCompatActivity{
     private FirebaseAuth.AuthStateListener mAuthListener;
 
     private EditText mEmail, mPassword;
-    private Button btnSignIn, btnSignOut;
+    private Button btnSignIn, btnSignOut, btnRegister;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,6 +38,7 @@ public class LogIn extends AppCompatActivity{
         mPassword = (EditText) findViewById(R.id.password);
         btnSignIn = (Button) findViewById(R.id.email_sign_in_button);
         btnSignOut = (Button) findViewById(R.id.email_sign_out_button);
+        btnRegister = (Button) findViewById(R.id.btn_register);
 
         mAuth = FirebaseAuth.getInstance();
 
@@ -78,6 +79,14 @@ public class LogIn extends AppCompatActivity{
                     mAuth.signOut();
                     toastMessage("Signing out...");
                 }
+        });
+
+        btnRegister.setOnClickListener(new View.OnClickListener(){
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(LogIn.this, RegisterUser.class);
+                startActivity(intent);
+            }
         });
     }
 
