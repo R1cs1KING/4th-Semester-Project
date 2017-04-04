@@ -53,6 +53,10 @@ public class MainActivity extends AppCompatActivity {
                 finish();
                 return true;
 
+            case R.id.add:
+                startActivity(new Intent(MainActivity.this, AddItem.class));
+                finish();
+                return true;
         }
         return super.onOptionsItemSelected(item);
     }

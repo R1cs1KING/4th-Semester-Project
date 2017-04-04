@@ -50,4 +50,26 @@
 
     <string name="cancel">Cancel</string>
 
+    <string name="insert_name">Insert name:</string>
+
+    <string name="type_title">Type name</string>
+
+    <string name="insert_description">Insert description:</string>
+
+    <string name="type_insert_description">Type description</string>
+
+    <string name="insert_location">Insert location:</string>
+
+    <string name="type_insert_location">Type location</string>
+
+    <string name="insert_picture">Upload picture</string>
+
+    <string name="category">Choose category</string>
+
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Picnic</item>
+        <item>Charity</item>
+    </string-array>
+
 </resources>
