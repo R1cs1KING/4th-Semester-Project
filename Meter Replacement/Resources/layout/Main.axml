@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:weightSum="100">
+    <ImageView
+        android:src="@drawable/logo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:id="@+id/imageView1"
+        android:background="#FFF" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10" />
+    <TextView
+        android:text="Type the ID below:"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:textColor="@android:color/background_dark"
+        android:paddingLeft="25dp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:id="@+id/editText1"
+        android:editable="true"
+        android:background="@android:color/white"
+        android:textColorHint="@android:color/darker_gray"
+        android:textColor="@android:color/black"
+        android:hint="ID"
+        android:paddingLeft="25dp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10" />
+    <Button
+        android:text="Login"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:id="@+id/button1"
+        android:background="@android:color/holo_blue_light" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20" />
+    <Button
+        android:text="Settings"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="15"
+        android:id="@+id/button2"
+        android:background="@android:color/holo_blue_light"
+        android:gravity="center" />
+</LinearLayout>
