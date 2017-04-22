@@ -13,6 +13,31 @@ c:\users\r1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Rep
 c:\users\r1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\uploadflags.txt
 c:\users\r1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\res\values\theme.xml
 c:\users\r1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\res\layout\menu.xml
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Common.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Iid.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Messaging.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Iid.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Messaging.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\res\values\goog_svcs_json.xml
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\res\layout\replacementdata.xml
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\res\layout\camera.xml
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll.mdb
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Java.Interop.dll.mdb
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Microsoft.CSharp.dll.mdb
@@ -41,29 +66,11 @@ C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Rep
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Compat.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Core.UI.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Fragment.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.v4.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Common.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Iid.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Messaging.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.csprojResolveAssemblyReference.cache
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Iid.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Messaging.dll
-C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\res\values\goog_svcs_json.xml
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\zxing.portable.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\ZXingNetMobile.dll
+C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.xml
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll.mdb
 C:\Users\R1cs1\documents\visual studio 2015\Projects\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll.mdb

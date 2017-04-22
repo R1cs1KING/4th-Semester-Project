@@ -17,9 +17,12 @@ namespace Meter_Replacement
             var btn = FindViewById(Resource.Id.button1);
             // SetContentView (Resource.Layout.Main);
 
-            btn.Click += (s, e) => {
+            /*btn.Click += (s, e) => {
                 Intent nextActivity = new Intent(this, typeof(MenuActivity));
                 StartActivity(nextActivity);
+            };*/
+            btn.Click += delegate {
+                StartActivity(typeof(MenuActivity));
             };
         }
     }

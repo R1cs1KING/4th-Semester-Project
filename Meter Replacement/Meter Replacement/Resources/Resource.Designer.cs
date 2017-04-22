@@ -26,6 +26,9 @@ namespace Meter_Replacement
 		
 		public static void UpdateIdValues()
 		{
+			global::ZXing.Mobile.Resource.Id.contentFrame = global::Meter_Replacement.Resource.Id.contentFrame;
+			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::Meter_Replacement.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::Meter_Replacement.Resource.Layout.zxingscannerfragmentlayout;
 		}
 		
 		public partial class Attribute
@@ -63,23 +66,47 @@ namespace Meter_Replacement
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f070002
-			public const int button1 = 2131165186;
-			
 			// aapt resource value: 0x7f070003
-			public const int button2 = 2131165187;
-			
-			// aapt resource value: 0x7f070001
-			public const int editText1 = 2131165185;
-			
-			// aapt resource value: 0x7f070000
-			public const int imageView1 = 2131165184;
+			public const int button1 = 2131165187;
 			
 			// aapt resource value: 0x7f070004
-			public const int textView1 = 2131165188;
+			public const int button2 = 2131165188;
 			
 			// aapt resource value: 0x7f070005
-			public const int textView2 = 2131165189;
+			public const int button3 = 2131165189;
+			
+			// aapt resource value: 0x7f070006
+			public const int button4 = 2131165190;
+			
+			// aapt resource value: 0x7f070007
+			public const int button5 = 2131165191;
+			
+			// aapt resource value: 0x7f07000d
+			public const int contentFrame = 2131165197;
+			
+			// aapt resource value: 0x7f070002
+			public const int editText1 = 2131165186;
+			
+			// aapt resource value: 0x7f07000a
+			public const int editText2 = 2131165194;
+			
+			// aapt resource value: 0x7f07000b
+			public const int editText3 = 2131165195;
+			
+			// aapt resource value: 0x7f07000c
+			public const int editText4 = 2131165196;
+			
+			// aapt resource value: 0x7f070001
+			public const int imageView1 = 2131165185;
+			
+			// aapt resource value: 0x7f070000
+			public const int myButton = 2131165184;
+			
+			// aapt resource value: 0x7f070008
+			public const int textView1 = 2131165192;
+			
+			// aapt resource value: 0x7f070009
+			public const int textView2 = 2131165193;
 			
 			static Id()
 			{
@@ -111,13 +138,22 @@ namespace Meter_Replacement
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int Camera = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Menu = 2130903041;
+			public const int Main = 2130903041;
 			
 			// aapt resource value: 0x7f030002
-			public const int ReplacementData = 2130903042;
+			public const int Menu = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int ReplacementData = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int zxingscanneractivitylayout = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int zxingscannerfragmentlayout = 2130903045;
 			
 			static Layout()
 			{
