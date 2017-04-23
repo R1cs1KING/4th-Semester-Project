@@ -4,7 +4,9 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.CAMERA" />
   <application android:label="Meter_Replacement" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="Camera" android:name="md5b748c5750f961e3d379e9866038137a7.CameraActivity" />
     <activity android:icon="@drawable/icon" android:label="Meter_Replacement" android:name="md5b748c5750f961e3d379e9866038137a7.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
@@ -12,6 +14,8 @@
       </intent-filter>
     </activity>
     <activity android:icon="@drawable/icon" android:label="Menu" android:name="md5b748c5750f961e3d379e9866038137a7.MenuActivity" />
+    <activity android:icon="@drawable/icon" android:label="Report" android:name="md5b748c5750f961e3d379e9866038137a7.ReplacementDataActivity" />
+    <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md5e2ed3c6b13fcfff19371c0219cb2ee1f.ZxingActivity" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Meter_Replacement.Meter_Replacement.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
