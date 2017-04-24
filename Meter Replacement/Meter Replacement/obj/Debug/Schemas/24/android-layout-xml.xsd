@@ -5,7 +5,7 @@
   <xs:import schemaLocation="schemas.android.com.tools.xsd" namespace="http://schemas.android.com/tools" />
   <xs:annotation>
     <xs:documentation>v24</xs:documentation>
-    <xs:documentation>22/04/2017 17:27:04</xs:documentation>
+    <xs:documentation>24/04/2017 13:52:34</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -142,6 +142,8 @@
       <xs:element ref="android.support.v4.view.PagerTitleStrip" />
       <xs:element ref="android.support.v4.view.PagerTabStrip" />
       <xs:element ref="android.support.v4.app.FragmentTabHost" />
+      <xs:element ref="ZXing.Mobile.ZXingSurfaceView" />
+      <xs:element ref="ZXing.Mobile.ZxingOverlayView" />
       <xs:element ref="merge" />
     </xs:choice>
   </xs:group>
@@ -2218,6 +2220,26 @@
   <xs:complexType name="android.support.v4.app.FragmentTabHost">
     <xs:complexContent mixed="false">
       <xs:extension base="TabHost" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ZXing.Mobile.ZXingSurfaceView" type="ZXing.Mobile.ZXingSurfaceView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: ZXing.Mobile.ZXingSurfaceView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="ZXing.Mobile.ZXingSurfaceView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="SurfaceView" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ZXing.Mobile.ZxingOverlayView" type="ZXing.Mobile.ZxingOverlayView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: ZXing.Mobile.ZxingOverlayView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="ZXing.Mobile.ZxingOverlayView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="View" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="merge" type="merge">

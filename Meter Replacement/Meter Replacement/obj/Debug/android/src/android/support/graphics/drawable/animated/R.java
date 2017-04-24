@@ -2796,7 +2796,7 @@ containing a value of this type.
         public static final int clip_horizontal=0x7f0a0040;
         public static final int clip_vertical=0x7f0a0041;
         public static final int collapseActionView=0x7f0a002c;
-        public static final int contentFrame=0x7f0a00ab;
+        public static final int contentFrame=0x7f0a00ac;
         public static final int contentPanel=0x7f0a0055;
         public static final int custom=0x7f0a005c;
         public static final int customPanel=0x7f0a005b;
@@ -2813,6 +2813,7 @@ containing a value of this type.
         public static final int editText2=0x7f0a008a;
         public static final int editText3=0x7f0a00a9;
         public static final int editText4=0x7f0a00aa;
+        public static final int editText5=0x7f0a00ab;
         public static final int edit_query=0x7f0a006d;
         public static final int end=0x7f0a0029;
         public static final int end_padder=0x7f0a00a7;
@@ -2842,7 +2843,7 @@ containing a value of this type.
         public static final int line3=0x7f0a00a5;
         public static final int listMode=0x7f0a0018;
         public static final int list_item=0x7f0a004f;
-        public static final int masked=0x7f0a00ad;
+        public static final int masked=0x7f0a00ae;
         public static final int media_actions=0x7f0a0097;
         public static final int middle=0x7f0a002a;
         public static final int mini=0x7f0a0045;
@@ -2921,7 +2922,7 @@ containing a value of this type.
         public static final int up=0x7f0a0009;
         public static final int useLogo=0x7f0a0020;
         public static final int view_offset_helper=0x7f0a000e;
-        public static final int visible=0x7f0a00ac;
+        public static final int visible=0x7f0a00ad;
         public static final int wide=0x7f0a0014;
         public static final int withText=0x7f0a002f;
         public static final int wrap_content=0x7f0a0027;

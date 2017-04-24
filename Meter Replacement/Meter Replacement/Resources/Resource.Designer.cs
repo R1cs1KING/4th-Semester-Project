@@ -2420,8 +2420,8 @@ namespace Meter_Replacement
 			// aapt resource value: 0x7f0a002c
 			public const int collapseActionView = 2131361836;
 			
-			// aapt resource value: 0x7f0a00ab
-			public const int contentFrame = 2131361963;
+			// aapt resource value: 0x7f0a00ac
+			public const int contentFrame = 2131361964;
 			
 			// aapt resource value: 0x7f0a0055
 			public const int contentPanel = 2131361877;
@@ -2470,6 +2470,9 @@ namespace Meter_Replacement
 			
 			// aapt resource value: 0x7f0a00aa
 			public const int editText4 = 2131361962;
+			
+			// aapt resource value: 0x7f0a00ab
+			public const int editText5 = 2131361963;
 			
 			// aapt resource value: 0x7f0a006d
 			public const int edit_query = 2131361901;
@@ -2558,8 +2561,8 @@ namespace Meter_Replacement
 			// aapt resource value: 0x7f0a004f
 			public const int list_item = 2131361871;
 			
-			// aapt resource value: 0x7f0a00ad
-			public const int masked = 2131361965;
+			// aapt resource value: 0x7f0a00ae
+			public const int masked = 2131361966;
 			
 			// aapt resource value: 0x7f0a0097
 			public const int media_actions = 2131361943;
@@ -2795,8 +2798,8 @@ namespace Meter_Replacement
 			// aapt resource value: 0x7f0a000e
 			public const int view_offset_helper = 2131361806;
 			
-			// aapt resource value: 0x7f0a00ac
-			public const int visible = 2131361964;
+			// aapt resource value: 0x7f0a00ad
+			public const int visible = 2131361965;
 			
 			// aapt resource value: 0x7f0a0014
 			public const int wide = 2131361812;
