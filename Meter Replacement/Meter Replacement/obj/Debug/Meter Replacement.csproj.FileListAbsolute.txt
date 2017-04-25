@@ -153,31 +153,12 @@ C:\Users\R1cs1\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\
 C:\Users\R1cs1\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.xml
 C:\Users\R1cs1\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\camera.xml
 C:\Users\R1cs1\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll.mdb
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Auth.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.csprojResolveAssemblyReference.cache
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.pdb
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\Meter_Replacement.Meter_Replacement.apk
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\Meter_Replacement.Meter_Replacement-Signed.apk
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLite-net.dll
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCL.batteries.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLPlugin_esqlite3.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.batteries_green.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.batteries_v2.dll
@@ -207,12 +188,31 @@ C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacem
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLite-net.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Auth.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.pdb
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\android\bin\Meter_Replacement.Meter_Replacement.apk
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\menu.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\replacementdata.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\camera.xml
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\list_view_datatemplate.xml
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\replacementlist.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\layout\main.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\values\strings.xml
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\res\drawable\icon.png
@@ -252,5 +252,7 @@ C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacem
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.csprojResolveAssemblyReference.cache
+C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCL.batteries.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll.mdb
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll.mdb

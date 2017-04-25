@@ -12,12 +12,15 @@ using ZXing.Mobile;
 using Android.Util;
 using Meter_Replacement.Resources.Model;
 using Meter_Replacement.Resources.DataHelper;
+using Meter_Replacement.Resources;
 
 namespace Meter_Replacement
 {
     [Activity(Label = "Report", Icon = "@drawable/icon")]
     public class ReplacementDataActivity : Activity
     {
+        ListView lstData;
+        List<Watermeter> lstSource = new List<Watermeter>();
         DataBase db;
         TextView serialNumber;
         protected override void OnCreate(Bundle bundle)
@@ -29,7 +32,7 @@ namespace Meter_Replacement
             db.createDataBase();
             string folder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
             Log.Info("DB_PATH", folder);
-
+            lstData = FindViewById<ListView>(Resource.Id.listView);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.ReplacementData);
             var buttonScan = FindViewById(Resource.Id.button1);
@@ -43,7 +46,7 @@ namespace Meter_Replacement
             var edtReplacement = FindViewById<EditText>(Resource.Id.editText4);
             var edtComments = FindViewById<EditText>(Resource.Id.editText5);
             ///////////////////////////////////////////////////
-  
+            
             ///////////////////////////////////////////////////
             buttonScan.Click += async (sender, e) =>
             {
@@ -69,6 +72,15 @@ namespace Meter_Replacement
                 db.insertIntoTableWatermeter(watermeter);
                 Toast.MakeText(this, "Successfully added", ToastLength.Long).Show();
             };
+
         }
+
+        private void LoadData()
+        {
+            lstSource = db.selectTableWatermeter();
+            var adapter = new ListViewAdapter(this, lstSource);
+            lstData.Adapter = adapter;
+        }
+
     }
 }

@@ -19,12 +19,13 @@ namespace Meter_Replacement
         protected override void OnCreate(Bundle bundle)
         {
             base.OnCreate(bundle);
-
+            Toast.MakeText(this, "Logged in successfully", ToastLength.Long).Show();
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Menu);
             var btn = FindViewById(Resource.Id.button1);
             var btnCamera = FindViewById(Resource.Id.button2);
             var buttonScan = FindViewById(Resource.Id.button3);
+            var buttonList = FindViewById(Resource.Id.button4);
             // SetContentView (Resource.Layout.Main);
             MobileBarcodeScanner.Initialize(Application);
             btn.Click += (s, e) => {
@@ -42,6 +43,9 @@ namespace Meter_Replacement
 
                 if (result != null)
                     Console.WriteLine("Scanned Barcode: " + result.Text);
+            };
+            buttonList.Click += delegate {
+                StartActivity(typeof(ListActivity));
             };
         }
     }

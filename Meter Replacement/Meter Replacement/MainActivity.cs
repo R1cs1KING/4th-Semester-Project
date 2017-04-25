@@ -13,7 +13,7 @@ using Android.Support.Design.Widget;
 
 namespace Meter_Replacement
 {
-    [Activity(Label = "Meter_Replacement", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "Meter Replacement", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity, IOnClickListener, IOnCompleteListener
     {
         Button btnLogin;

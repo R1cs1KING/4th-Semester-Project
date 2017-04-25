@@ -11,17 +11,21 @@ using Android.Widget;
 using SQLite;
 using Android.Util;
 using Meter_Replacement.Resources.Model;
+using System.IO;
 
 namespace Meter_Replacement.Resources.DataHelper
 {
     public class DataBase
     {
+        
         string folder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
         public bool createDataBase()
         {
+            var dbName = "Watermeters.db";
             try
             {
-                using (var connection = new SQLiteConnection(System.IO.Path.Combine(folder, "Watermeter.db")))
+                
+                using (var connection = new SQLiteConnection(System.IO.Path.Combine(folder, dbName)))
                 {
                     connection.CreateTable<Watermeter>();
                     return true;
@@ -38,7 +42,7 @@ namespace Meter_Replacement.Resources.DataHelper
         {
             try
             {
-                using (var connection = new SQLiteConnection(System.IO.Path.Combine(folder, "Watermeter.db")))
+                using (var connection = new SQLiteConnection(System.IO.Path.Combine(folder, "Watermeters.db")))
                 {
                     connection.Insert(watermeter);
                     return true;
@@ -55,7 +59,7 @@ namespace Meter_Replacement.Resources.DataHelper
         {
             try
             {
-                using (var connection = new SQLiteConnection(System.IO.Path.Combine(folder, "Watermeter.db")))
+                using (var connection = new SQLiteConnection(System.IO.Path.Combine(folder, "Watermeters.db")))
                 {
                     return connection.Table<Watermeter>().ToList();
 
@@ -65,6 +69,18 @@ namespace Meter_Replacement.Resources.DataHelper
             {
                 Log.Info("SQLiteEx", ex.Message);
                 return null;
+            }
+        }
+
+        public static String doesDatabaseExist()
+        {
+            if (File.Exists("Watermeters.db"))
+            {
+                return "Yes";
+            }
+            else
+            {
+                return "No";
             }
         }
 

@@ -2,12 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Meter_Replacement.Meter_Replacement" android:versionCode="1" android:versionName="1.0">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.CAMERA" />
   <application android:label="Meter_Replacement" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
     <activity android:icon="@drawable/icon" android:label="Camera" android:name="md5b748c5750f961e3d379e9866038137a7.CameraActivity" />
-    <activity android:icon="@drawable/icon" android:label="Meter_Replacement" android:name="md5b748c5750f961e3d379e9866038137a7.MainActivity">
+    <activity android:icon="@drawable/icon" android:label="Report" android:name="md5b748c5750f961e3d379e9866038137a7.ListActivity" />
+    <activity android:icon="@drawable/icon" android:label="Meter Replacement" android:name="md5b748c5750f961e3d379e9866038137a7.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
