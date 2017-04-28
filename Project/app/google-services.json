@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "791615792566-aqdipt2lfmadhp4a92t9isld8t5les3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.PickFood",
+            "certificate_hash": "3360ebc277df725821e1f1629dd7333ab7e9f377"
+          }
+        },
+        {
           "client_id": "791615792566-iieksjk613arnl3ppj7m6164onb74v2i.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
