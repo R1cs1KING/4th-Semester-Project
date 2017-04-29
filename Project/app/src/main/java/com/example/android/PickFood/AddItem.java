@@ -1,6 +1,9 @@
 package com.example.android.PickFood;
 
+import android.content.Intent;
+import android.graphics.Bitmap;
 import android.os.Bundle;
+import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ArrayAdapter;
@@ -73,9 +76,18 @@ public class AddItem extends AppCompatActivity{
                 //Though we will need to add so it only would say that IF
                 //it really adds it or not.
                 toastMessage("Successfully added");
+            }
+        });
+
+        uploadPic.setOnClickListener(new View.OnClickListener()  {
+            @Override
+            public void onClick(View view){
+                Intent intent = new Intent (MediaStore.ACTION_IMAGE_CAPTURE);
+                startActivityForResult(intent, 0);
 
             }
         });
+
 
 
 
@@ -83,5 +95,12 @@ public class AddItem extends AppCompatActivity{
 
     private void toastMessage(String s) {
         Toast.makeText(this, s, Toast.LENGTH_SHORT).show();
+    }
+
+    @Override
+    protected void onActivityResult (int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        Bitmap bitmap = (Bitmap)data.getExtras().get("data");
+        mPicture.setImageBitmap(bitmap);
     }
 }
