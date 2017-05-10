@@ -8,7 +8,7 @@
 
     <string name="category_charity">Charity</string>
 
-    <string name="number_one">I did not like the cereal, so I am giving it away</string>
+    <string name="test">I did not like the cereal, so I am giving it away</string>
 
     <string name="number_two">I bought too much chicken, so...</string>
 
@@ -25,6 +25,8 @@
     <string name="action_search">Search</string>
 
     <string name="about">About</string>
+
+    <string name="from_gallery">From gallery</string>
 
     <string name="prompt_email">e-mail</string>
 

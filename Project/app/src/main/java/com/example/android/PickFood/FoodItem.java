@@ -9,13 +9,21 @@ public  class FoodItem {
     public String Name;
     public String Location;
     public String Description;
+    public String url;
 
-    public FoodItem(String type, String name, String location, String description)
+    public FoodItem()
+    {
+
+    }
+
+    public FoodItem(String type, String name, String location, String description, String url)
     {
         this.Type = type;
         this.Name = name;
         this.Location = location;
         this.Description = description;
-
+        this.url = url;
     }
+
+
 }

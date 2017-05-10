@@ -50,18 +50,35 @@
         android:layout_height="wrap_content"
         android:hint="@string/type_insert_description"/>
 
-    <Button
-        android:id="@+id/btn_upload"
+
+    <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/insert_picture"
-        android:onClick="gallery"/>
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_upload"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/insert_picture"
+            android:onClick="gallery"/>
+
+        <Button
+            android:text="@string/from_gallery"
+            android:layout_width="138dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/btn_gallery" />
+
+    </LinearLayout>
 
     <ImageView
         android:id="@+id/img"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:minHeight="100dp"/>
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:adjustViewBounds="true"
+        android:layout_marginLeft="5dp"
+        />
+
 
     <LinearLayout
         android:layout_width="wrap_content"

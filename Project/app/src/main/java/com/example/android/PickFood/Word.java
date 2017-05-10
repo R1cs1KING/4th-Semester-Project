@@ -17,26 +17,26 @@ package com.example.android.PickFood;
 
 public class Word {
 
-    private int NameID;
+    private String NameString;
 
-    private int DescriptionId;
+    private String DescriptionString;
 
     private int ImageResourceId = NO_IMAGE_PROVIDED;
 
     private static final int NO_IMAGE_PROVIDED = -1;
 
-    public Word(int Name, int Description, int imageResourceId) {
-        NameID = Name;
-        DescriptionId = Description;
+    public Word(String Name, String Description, int imageResourceId) {
+        NameString = Name;
+        DescriptionString = Description;
         ImageResourceId = imageResourceId;
     }
 
-    public int getDefaultTranslationId() {
-        return NameID;
+    public String getDefaultTranslationId() {
+        return NameString;
     }
 
-    public int getDescriptionId() {
-        return DescriptionId;
+    public String getDescriptionId() {
+        return DescriptionString;
     }
 
     public int getImageResourceId() {
