@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="80e1978cd9dc6beed66c1739a92167cedd2d0846">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\instant-run_b78f0facaa300e7d57dbea866ff3c23bc8528812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_27a13e45cb54e47d113da7cec94b628625e0ae71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_32a65849b4b3420b3d4e666862667552bd51796c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_81f8f15b639b61258ab2077e46087e702b7a65f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_1e009bc02b33662ebb0558c966aa07c914868f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_cf3c48046a22a877cdfffc22ea710ff6a5d9b656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_c7a71fafadf141c2899eda9208ea3ea5527b353e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_82172eba4a42de86e04b0d5e5b5403c65eab4c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b22f031a972a31751b610f719e930058af81a423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.0_3d2ebfc00f7e866f679943d004fd8e34db6a7679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.2.0_56d04da5e539e4aab9e8435a46139752d501f26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_c2ca710fd829ed78bb46eaf5a3898a3c3bc9ea4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.2.0_79f96d8bb940c4dacbd8a5c52d4fc0f200b00884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_5f0eb0604027da4fadec1e3056205a8a97dc3feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.2.0_c7a71fafadf141c2899eda9208ea3ea5527b353e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_d9ee8a54aa6e79e609ca74f9a972ab1ae6ed64d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_032e858787e62da40714da68fe02716f6416779c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_aae18aa1eccb45afb358153e192e590e13acf02e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.0_a93049ebbbf35d07f6765dd6f6ad9a975c680d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_fc4b86fe2d118eb5d008228560f704cd2550ec6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_e30c6ec027dd3c5aac0c9489847aa9cb1062e9c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0_e30c6ec027dd3c5aac0c9489847aa9cb1062e9c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="48532a016bb0dfbe7970c147ce784598a515406b">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.2.0_cf3c48046a22a877cdfffc22ea710ff6a5d9b656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_27a13e45cb54e47d113da7cec94b628625e0ae71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="94fca868854457ede6df15c902938468c71d579e">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.2.0_a93049ebbbf35d07f6765dd6f6ad9a975c680d9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0_32a65849b4b3420b3d4e666862667552bd51796c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="4ba139722e7b734b8a09d683984f0b573f1faca4">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_36303d112436a20c74214be00dc1d9ae3fc130b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.2.0_82172eba4a42de86e04b0d5e5b5403c65eab4c52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.2.0_1e009bc02b33662ebb0558c966aa07c914868f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_8e4bc0f49f032797806bc298c3438f6a9678a62f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.2.0_81f8f15b639b61258ab2077e46087e702b7a65f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_b22f031a972a31751b610f719e930058af81a423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0e301f24b283f14b564f660c9abe863af6be5896">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.2.0_3d2ebfc00f7e866f679943d004fd8e34db6a7679.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1df6d719c4e264d66bb98baa5cb637495b8cca66">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.2.0_56d04da5e539e4aab9e8435a46139752d501f26c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.2.0_5f0eb0604027da4fadec1e3056205a8a97dc3feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e1d31656bc9f1889283836e025e6cb703acd38a">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.2.0_79f96d8bb940c4dacbd8a5c52d4fc0f200b00884.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_8e4bc0f49f032797806bc298c3438f6a9678a62f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_fc4b86fe2d118eb5d008228560f704cd2550ec6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.2.0_032e858787e62da40714da68fe02716f6416779c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.2.0_c2ca710fd829ed78bb46eaf5a3898a3c3bc9ea4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_d9ee8a54aa6e79e609ca74f9a972ab1ae6ed64d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Aurelijus\Desktop\4th-Semester-Project\Project\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_aae18aa1eccb45afb358153e192e590e13acf02e.jar" />
+    </item>
+
+</items>
