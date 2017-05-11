@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary_color"
+    android:orientation="vertical"
+    tools:context="com.example.android.PickFood.MainActivity"
+    android:weightSum="1">
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tabs"
+        style="@style/CategoryTab"
+        android:layout_width="match_parent"
+        android:background="@color/alternative_color"
+        android:layout_height="wrap_content" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="440dp"
+        android:layout_weight="1.04" />
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingBottom="-100dp"
+    android:gravity="bottom"
+    android:background="@color/alternative_color"
+    android:orientation="horizontal">
+
+        <Button
+            android:text="List"
+            android:layout_width="122dp"
+            android:layout_weight="1"
+            android:background="@drawable/fancy_button"
+            android:textColor="@color/category_picnic"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2" />
+
+        <Button
+        android:text="Messages"
+        android:layout_width="127dp"
+        android:id="@+id/button"
+        android:background="@drawable/fancy_button"
+        android:layout_height="wrap_content"
+        android:textColor="@color/category_picnic"
+        android:layout_weight="1" />
+
+        <Button
+            android:text="Map"
+            android:layout_width="120dp"
+            android:background="@drawable/fancy_button"
+            android:id="@+id/button3"
+            android:textColor="@color/category_picnic"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>
