@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "791615792566",
+    "firebase_url": "https://pickfood-5c351.firebaseio.com",
+    "project_id": "pickfood-5c351",
+    "storage_bucket": "pickfood-5c351.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791615792566:android:e94319906cd64f4f",
+        "android_client_info": {
+          "package_name": "com.example.android.PickFood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791615792566-aqdipt2lfmadhp4a92t9isld8t5les3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.PickFood",
+            "certificate_hash": "3360ebc277df725821e1f1629dd7333ab7e9f377"
+          }
+        },
+        {
+          "client_id": "791615792566-iieksjk613arnl3ppj7m6164onb74v2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.PickFood",
+            "certificate_hash": "667f3e33de395d9ce7e53ea0a93b784cf7b9132a"
+          }
+        },
+        {
+          "client_id": "791615792566-dt6ao9v584afoph5a5l0v0c4n4vvn91v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxFoddlRX-4UTQJwFbrusTCpJ9Di5-Zqk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791615792566-dt6ao9v584afoph5a5l0v0c4n4vvn91v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
