@@ -1,8 +1,6 @@
 package com.example.android.PickFood;
 
 import android.content.Context;
-import android.net.Uri;
-import android.support.annotation.NonNull;
 import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,11 +10,8 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.google.android.gms.tasks.OnFailureListener;
-import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
-import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
@@ -45,13 +40,13 @@ public class WordAdapter extends ArrayAdapter<Word>  {
 
         Word currentWord = getItem(position);
 
-        TextView PickFoodTextView = (TextView) listItemView.findViewById(R.id.miwok_text_view);
+        TextView PickFoodTextView = (TextView) listItemView.findViewById(R.id.pickfood_text_view);
 
-        PickFoodTextView.setText(currentWord.getDescriptionId());
+        PickFoodTextView.setText(currentWord.getDefaultTranslationId());
 
         TextView defaultTextView = (TextView) listItemView.findViewById(R.id.default_text_view);
 
-        defaultTextView.setText(currentWord.getDefaultTranslationId());
+        defaultTextView.setText(currentWord.getDescriptionId());
 
         final ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
 
