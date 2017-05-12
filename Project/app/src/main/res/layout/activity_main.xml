@@ -37,12 +37,12 @@
             android:background="@drawable/fancy_button"
             android:textColor="@color/category_picnic"
             android:layout_height="wrap_content"
-            android:id="@+id/button2" />
+            android:id="@+id/buttonList" />
 
         <Button
         android:text="Messages"
         android:layout_width="127dp"
-        android:id="@+id/button"
+        android:id="@+id/buttonMessages"
         android:background="@drawable/fancy_button"
         android:layout_height="wrap_content"
         android:textColor="@color/category_picnic"
@@ -52,7 +52,7 @@
             android:text="Map"
             android:layout_width="120dp"
             android:background="@drawable/fancy_button"
-            android:id="@+id/button3"
+            android:id="@+id/buttonMap"
             android:textColor="@color/category_picnic"
             android:layout_height="wrap_content" />
     </LinearLayout>
