@@ -13,6 +13,7 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 import android.support.v4.content.FileProvider;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
@@ -24,6 +25,8 @@ import android.widget.TextView;
 import android.Manifest;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
@@ -51,19 +54,21 @@ public class AddItem extends AppCompatActivity{
     private ImageView mPicture;
     private Button proceed, cancel, uploadPic, fromGallery;
     FirebaseDatabase database = FirebaseDatabase.getInstance();
-
+    private FirebaseAuth mAuth;
     DatabaseReference mRef = database.getReferenceFromUrl("https://pickfood-5c351.firebaseio.com/");
-
+    private FirebaseAuth.AuthStateListener mAuthListener;
 
 
     FirebaseStorage storage = FirebaseStorage.getInstance();
     StorageReference storageRef = storage.getReferenceFromUrl("gs://pickfood-5c351.appspot.com");
     String id = "";
     String link = "";
-
+    String localOwner = "";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
+        mAuth = FirebaseAuth.getInstance();
         setContentView(R.layout.add_item);
         pd = new ProgressDialog(this);
         pd.setMessage("Uploading....");
@@ -143,6 +148,9 @@ public class AddItem extends AppCompatActivity{
                     //Uploading the image to the Firebase
                     UploadTask uploadTask = childRef.putFile(filePath);
 
+                    FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+                    localOwner = user.getEmail();
+
                     //Checks whether the task was successful or a fail
                     uploadTask.addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
                         @Override
@@ -165,7 +173,8 @@ public class AddItem extends AppCompatActivity{
                                             mName.getText().toString(),
                                             mLocation.getText().toString(),
                                             mDescription.getText().toString(),
-                                            link
+                                            link,
+                                            localOwner
                                     );
 
                                     //Accesses "foods" table and saves the entire object "food" to the table

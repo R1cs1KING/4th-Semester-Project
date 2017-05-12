@@ -15,4 +15,10 @@
 
     <color name="category_charity">#ffffff</color>
 
+    <color name="colorPrimary">#9ccc65</color>
+
+    <color name="colorPrimaryDark">#9ccc65</color>
+
+    <color name="colorAccent">#FF4081</color>
+
 </resources>
