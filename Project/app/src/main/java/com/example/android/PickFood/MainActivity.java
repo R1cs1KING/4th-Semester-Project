@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
 
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
 
-        chatButton = (Button) findViewById(R.id.button);
+        chatButton = (Button) findViewById(R.id.buttonMessages);
 
         CategoryAdapter adapter = new CategoryAdapter(this, getSupportFragmentManager());
 
