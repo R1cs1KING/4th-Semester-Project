@@ -17,20 +17,30 @@ package com.example.android.PickFood;
 
 public class Word {
 
-    private String NameString;
+    public String NameString;
 
-    private String DescriptionString;
+    public String DescriptionString;
 
-    private String urlString = "null";
+    public String urlString = "null";
 
-    private int ImageResourceId = NO_IMAGE_PROVIDED;
+    public String OwnerString;
 
-    private static final int NO_IMAGE_PROVIDED = -1;
+    public String TypeString;
 
-    public Word(String Name, String Description, String Url) {
+    public String LocationString;
+
+    public int ImageResourceId = NO_IMAGE_PROVIDED;
+
+    public static final int NO_IMAGE_PROVIDED = -1;
+
+    public Word(String Name, String Description, String Url,
+                String Owner, String Type, String Location) {
         NameString = Name;
         DescriptionString = Description;
         urlString = Url;
+        OwnerString = Owner;
+        TypeString = Type;
+        LocationString = Location;
     }
 
     public String getDefaultTranslationId() {
@@ -43,6 +53,18 @@ public class Word {
 
     public String getUrlString() {
         return urlString;
+    }
+
+    public String getOwnerString() {
+        return OwnerString;
+    }
+
+    public String getTypeString() {
+        return TypeString;
+    }
+
+    public String getLocationString() {
+        return LocationString;
     }
 
     public boolean hasImage() {

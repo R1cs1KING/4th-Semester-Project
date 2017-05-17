@@ -2,6 +2,9 @@ package com.example.android.PickFood;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.text.Html;
+import android.text.Spannable;
+import android.text.style.StyleSpan;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.EditText;
@@ -45,7 +48,7 @@ public class Chat extends AppCompatActivity {
         FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
         localEmail = user.getEmail();
         localEmail = EncodeString(localEmail);
-
+        UserDetails.chatWith = EncodeString(UserDetails.chatWith);
         final DatabaseReference reference1 = database.getReferenceFromUrl("https://pickfood-5c351.firebaseio.com/Messages/" + localEmail + "_" + UserDetails.chatWith);
         final DatabaseReference reference2 = database.getReferenceFromUrl("https://pickfood-5c351.firebaseio.com/Messages/" + UserDetails.chatWith + "_" + localEmail);
         localEmail = DecodeString(localEmail);
@@ -62,7 +65,7 @@ public class Chat extends AppCompatActivity {
                 if(!messageText.equals("")){
                     Map<String, String> map = new HashMap<String, String>();
                     map.put("message", messageText);
-                    map.put("user", UserDetails.username);
+                    map.put("user", localEmail);
                     reference1.push().setValue(map);
                     reference2.push().setValue(map);
                 }
@@ -75,12 +78,15 @@ public class Chat extends AppCompatActivity {
                 Map map = (Map<String, Object>) dataSnapshot.getValue();
                 String message = map.get("message").toString();
                 String userName = map.get("user").toString();
+                messageArea.setText("");
+                //final StyleSpan b = new StyleSpan(android.graphics.Typeface.BOLD);
 
-                if(userName.equals(UserDetails.username)){
-                    addMessageBox("You:-\n" + message, 1);
+                //identity.setSpan(b, 0, 6, Spannable.SPAN_INCLUSIVE_INCLUSIVE);
+                if(userName.equals(localEmail)){
+                    addMessageBox("<b>" + "You:\n" + "</b>" + message, 1);
                 }
                 else{
-                    addMessageBox(UserDetails.chatWith + ":-\n" + message, 2);
+                    addMessageBox("<b>" + DecodeString(UserDetails.chatWith) + "</b>" + ":\n" + message, 2);
                 }
             }
 
@@ -108,7 +114,7 @@ public class Chat extends AppCompatActivity {
 
     public void addMessageBox(String message, int type){
         TextView textView = new TextView(Chat.this);
-        textView.setText(message);
+        textView.setText(Html.fromHtml(message));
         LinearLayout.LayoutParams lp = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
         lp.setMargins(0, 0, 0, 10);
         textView.setLayoutParams(lp);

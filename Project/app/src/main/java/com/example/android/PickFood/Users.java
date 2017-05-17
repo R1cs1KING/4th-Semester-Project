@@ -7,6 +7,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
 
@@ -32,6 +33,7 @@ public class Users extends AppCompatActivity {
     int totalUsers = 0;
     ProgressDialog pd;
     String localEmail;
+    private Button listButton;
     FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,10 +44,12 @@ public class Users extends AppCompatActivity {
         //localEmail = DecodeString(localEmail);
         usersList = (ListView)findViewById(R.id.usersList);
         noUsersText = (TextView)findViewById(R.id.noUsersText);
-
+        listButton = (Button) findViewById(R.id.buttonList);
         pd = new ProgressDialog(Users.this);
         pd.setMessage("Loading...");
         pd.show();
+
+
 
         String url = "https://pickfood-5c351.firebaseio.com/Users.json";
 
@@ -67,8 +71,17 @@ public class Users extends AppCompatActivity {
         usersList.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                //UserDetails.chatWith = DecodeString(UserDetails.chatWith);
                 UserDetails.chatWith = al.get(position);
                 startActivity(new Intent(Users.this, Chat.class));
+            }
+        });
+
+       listButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Users.this, MainActivity.class));
+                finish();
             }
         });
     }
@@ -92,6 +105,7 @@ public class Users extends AppCompatActivity {
                 key = i.next().toString();
 
                 if(!key.equals(localEmail)) {
+                    key = DecodeString(key);
                     al.add(key);
                 }
 

@@ -10,11 +10,12 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
+import com.google.firebase.database.FirebaseDatabase;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DatabaseReference;
 
 public class RegisterUser extends AppCompatActivity implements View.OnClickListener {
 
@@ -24,7 +25,8 @@ public class RegisterUser extends AppCompatActivity implements View.OnClickListe
     private EditText editTextRePassword;
     private Button buttonSignup, buttonCancel;
     private ProgressDialog progressDialog;
-
+    FirebaseDatabase database = FirebaseDatabase.getInstance();
+    DatabaseReference mRef = database.getReferenceFromUrl("https://pickfood-5c351.firebaseio.com/");
 
     //defining firebaseauth object
     private FirebaseAuth firebaseAuth;
@@ -32,6 +34,8 @@ public class RegisterUser extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+
         setContentView(R.layout.register_user);
 
         //initializing firebase auth object
@@ -113,6 +117,8 @@ public class RegisterUser extends AppCompatActivity implements View.OnClickListe
         });
 
     }
+
+
 
     @Override
     public void onClick(View view) {

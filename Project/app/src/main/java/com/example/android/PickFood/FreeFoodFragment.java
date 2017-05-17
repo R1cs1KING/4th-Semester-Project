@@ -1,6 +1,9 @@
 package com.example.android.PickFood;
 
 
+import android.app.Dialog;
+import android.content.Context;
+import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
 import android.provider.SyncStateContract;
@@ -11,8 +14,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
+import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.ListView;
+import android.widget.TextView;
 
+import com.bumptech.glide.Glide;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.ChildEventListener;
@@ -45,8 +52,8 @@ public class FreeFoodFragment extends Fragment {
 
     StorageReference storageRef = storage.getReferenceFromUrl("gs://pickfood-5c351.appspot.com");
     DatabaseReference fb = mRef.child("Food");
-
-
+    final Context context = getActivity();
+    MainActivity activity = (MainActivity) getActivity();
     String test1 = "";
     String test2 = "";
     @Override
@@ -61,14 +68,16 @@ public class FreeFoodFragment extends Fragment {
         final ArrayList<FoodItem> foods = new ArrayList<>();
         final ArrayList<Word> words = new ArrayList<>();
         final String TAG = "Test";
+        final WordAdapter adapter = new WordAdapter(getActivity(), words, R.color.category_freefood);
+        final ListView listView = (ListView) rootView.findViewById(R.id.list);
+
+        listView.setAdapter(adapter);
 
         fb.addValueEventListener(new ValueEventListener() {
             public void onDataChange(DataSnapshot snapshot) {
-                WordAdapter adapter = new WordAdapter(getActivity(), words, R.color.category_freefood);
 
-                ListView listView = (ListView) rootView.findViewById(R.id.list);
 
-                listView.setAdapter(adapter);
+
                 foods.clear();
                 for (DataSnapshot postSnapshot: snapshot.getChildren()) {
                     FoodItem food = postSnapshot.getValue(FoodItem.class);
@@ -79,7 +88,8 @@ public class FreeFoodFragment extends Fragment {
 
 
 
-                    words.add(new Word(food.Name, food.Description, food.url));
+                    words.add(new Word(food.Name, food.Description,
+                            food.url, food.Location, food.Owner, food.Type));
                     test1 = food.Name;
                     test2 = food.Description;
 
@@ -91,13 +101,21 @@ public class FreeFoodFragment extends Fragment {
             }
         });
 
-        /*listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
-
+                Word word = (Word)listView.getAdapter().getItem(position);
+                System.out.println("TEST: " + word.NameString);
+                FoodItemLocal.Name = word.getDefaultTranslationId();
+                FoodItemLocal.Type = word.getTypeString();
+                FoodItemLocal.Description = word.DescriptionString;
+                FoodItemLocal.Owner = word.getOwnerString();
+                FoodItemLocal.Location = word.getLocationString();
+                FoodItemLocal.url = word.getUrlString();
+                startActivity(new Intent(getActivity(), FoodInformation.class));
             }
         });
-        */
+
         return rootView;
 
     }

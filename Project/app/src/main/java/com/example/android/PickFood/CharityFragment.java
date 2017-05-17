@@ -79,7 +79,8 @@ public class CharityFragment extends Fragment {
 
 
 
-                    words.add(new Word(food.Name, food.Description, food.url));
+                    words.add(new Word(food.Name, food.Description,
+                            food.url, food.Location, food.Owner, food.Type));
                     test1 = food.Name;
                     test2 = food.Description;
 

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:weightSum="5">
 
@@ -12,16 +13,16 @@
         android:layout_weight="2">
 
         <ImageView
-            android:id="@+id/img"
+            android:id="@+id/imgFood"
             android:layout_width="@dimen/list_item_height"
-            android:layout_height="@dimen/list_item_height"
-            android:layout_weight="1"/>
+            android:layout_height="132dp"
+
+            android:layout_weight="3.40" />
 
         <TextView
-            android:id="@+id/name"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="2"/>
+            android:id="@+id/foodInfo"
+            android:layout_width="281dp"
+            android:layout_height="match_parent" />
     </LinearLayout>
 
     <LinearLayout
@@ -75,19 +76,24 @@
 
         <Button
             android:layout_width="88dp"
+            android:text="Message"
             android:layout_height="44dp"
             android:layout_marginTop="25dp"
             android:layout_weight="1"
+            android:id="@+id/buttonMessageToPerson"
             android:layout_marginLeft="23dp"/>
 
         <TextView
             android:layout_width="0dp"
+            android:id="@+id/infoAboutUser"
             android:layout_height="0dp"
             android:layout_weight="1"/>
 
         <Button
+            android:text="Back"
             android:layout_width="88dp"
             android:layout_height="44dp"
+            android:id="@+id/buttonReturn"
             android:layout_marginTop="25dp"
             android:layout_weight="1"
             android:layout_marginRight="23dp"/>
