@@ -94,6 +94,12 @@ public class Users extends AppCompatActivity {
         return string.replace(",", ".");
     }
 
+    @Override
+    public void onBackPressed()
+    {
+        //Prevents the back button to do anything
+    }
+
     public void doOnSuccess(String s){
         try {
             JSONObject obj = new JSONObject(s);

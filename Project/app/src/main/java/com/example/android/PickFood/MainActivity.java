@@ -55,6 +55,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @Override
+    public void onBackPressed()
+    {
+        //Prevents the back button to do anything
+    }
+
+    @Override
     public boolean onOptionsItemSelected(MenuItem item) {
 
         //handle presses on the action bar items

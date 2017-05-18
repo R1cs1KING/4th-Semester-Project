@@ -226,6 +226,12 @@ public class AddItem extends AppCompatActivity{
         return image;
     }
 
+    @Override
+    public void onBackPressed()
+    {
+        //Prevents the back button to do anything
+    }
+
     private static File getOutputMediaFile(){
         File mediaStorageDir = new File(Environment.getExternalStoragePublicDirectory(
                 Environment.DIRECTORY_PICTURES), "PickFood");

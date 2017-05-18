@@ -35,6 +35,8 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 
+import static com.example.android.PickFood.R.id.img;
+
 public class FoodInformation extends AppCompatActivity {
 
     TextView text1, text2, text3;
@@ -66,8 +68,8 @@ public class FoodInformation extends AppCompatActivity {
                 "Type:" + FoodItemLocal.Type + "\n" +
                 "Location:" + FoodItemLocal.Location + "\n" +
                 "Description:" + FoodItemLocal.Description + "\n");
-        text2.setText("User: " + FoodItemLocal.Owner);
-        text3.setText("LOLOLOL");
+        text3.setText("User: " + FoodItemLocal.Owner);
+        //text3.setText("");
 
 
         image = (ImageView) findViewById(R.id.imgFood);
@@ -78,11 +80,8 @@ public class FoodInformation extends AppCompatActivity {
                 .load(FoodItemLocal.url)
                 .override(200, 200)
                 .into(image);
-        Glide
-                .with(FoodInformation.this)
-                .load(FoodItemLocal.url)
-                .override(200, 200)
-                .into(image2);
+
+        image2.setImageResource(R.drawable.profile);
         //Picasso.with(context).load(currentWord.getUrlString()).into(imageView);
         //imageView.setImageResource(currentWord.getUrlString());
 
