@@ -15,7 +15,7 @@ import com.google.firebase.auth.FirebaseAuth;
 
 public class MainActivity extends AppCompatActivity {
 
-    private Button chatButton;
+    private Button chatButton, mapButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,6 +27,8 @@ public class MainActivity extends AppCompatActivity {
         ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
 
         chatButton = (Button) findViewById(R.id.buttonMessages);
+
+        mapButton = (Button) findViewById(R.id.buttonMap);
 
         CategoryAdapter adapter = new CategoryAdapter(this, getSupportFragmentManager());
 
@@ -41,6 +43,13 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 startActivity(new Intent(MainActivity.this, Users.class));
                 finish();
+            }
+        });
+
+        mapButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, MapsActivity.class));
             }
         });
 

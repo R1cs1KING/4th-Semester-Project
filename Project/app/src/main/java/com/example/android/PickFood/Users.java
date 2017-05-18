@@ -33,7 +33,7 @@ public class Users extends AppCompatActivity {
     int totalUsers = 0;
     ProgressDialog pd;
     String localEmail;
-    private Button listButton;
+    private Button listButton, mapButton;
     FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -48,6 +48,7 @@ public class Users extends AppCompatActivity {
         pd = new ProgressDialog(Users.this);
         pd.setMessage("Loading...");
         pd.show();
+        mapButton = (Button) findViewById(R.id.buttonMap);
 
 
 
@@ -81,6 +82,14 @@ public class Users extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 startActivity(new Intent(Users.this, MainActivity.class));
+                finish();
+            }
+        });
+
+        mapButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Users.this, MapsActivity.class));
                 finish();
             }
         });
