@@ -1,5 +1,22 @@
 package com.example.android.PickFood;
 
+import android.app.ProgressDialog;
+import android.content.Context;
+import android.content.Intent;
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+import android.view.View;
+import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
+
+import com.bumptech.glide.Glide;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+
 import android.Manifest;
 import android.app.ProgressDialog;
 import android.content.Context;
@@ -35,11 +52,11 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 
-public class FoodInformation extends AppCompatActivity {
+public class FoodInformationTest extends AppCompatActivity {
 
-    TextView text1, text2, text3;
-    Button Back, Message;
-    ImageView image, image2;
+    private TextView text1, text2, text3;
+    private Button Back, Message;
+    private ImageView image, image2;
     ProgressDialog pd;
     FirebaseDatabase database = FirebaseDatabase.getInstance();
     private FirebaseAuth mAuth;
@@ -49,6 +66,7 @@ public class FoodInformation extends AppCompatActivity {
 
     FirebaseStorage storage = FirebaseStorage.getInstance();
     StorageReference storageRef = storage.getReferenceFromUrl("gs://pickfood-5c351.appspot.com");
+    final Context context = this;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -62,10 +80,10 @@ public class FoodInformation extends AppCompatActivity {
         Message = (Button) findViewById(R.id.buttonMessageToPerson);
         Back = (Button) findViewById(R.id.buttonReturn);
         text1.setText(
-                "Name:" + FoodItemLocal.Name + "\n" +
-                "Type:" + FoodItemLocal.Type + "\n" +
-                "Location:" + FoodItemLocal.Location + "\n" +
-                "Description:" + FoodItemLocal.Description + "\n");
+                "Name:" + FoodItemLocal.Location + "\n" +
+                        "Type:" + FoodItemLocal.Location + "\n" +
+                        "Location:" + FoodItemLocal.Location + "\n" +
+                        "Description:" + FoodItemLocal.Location + "\n");
         text2.setText("User: " + FoodItemLocal.Owner);
         text3.setText("LOLOLOL");
 
@@ -74,12 +92,12 @@ public class FoodInformation extends AppCompatActivity {
         image2 = (ImageView) findViewById(R.id.profilePicture);
 
         Glide
-                .with(FoodInformation.this)
+                .with(context)
                 .load(FoodItemLocal.url)
                 .override(200, 200)
                 .into(image);
         Glide
-                .with(FoodInformation.this)
+                .with(context)
                 .load(FoodItemLocal.url)
                 .override(200, 200)
                 .into(image2);
@@ -87,6 +105,10 @@ public class FoodInformation extends AppCompatActivity {
         //imageView.setImageResource(currentWord.getUrlString());
 
         image.setVisibility(View.VISIBLE);
+        mAuth = FirebaseAuth.getInstance();
+        setContentView(R.layout.activity_foodinformation);
+        pd = new ProgressDialog(this);
+        pd.setMessage("Uploading....");
 
         Back.setOnClickListener(new View.OnClickListener()  {
             @Override
@@ -100,7 +122,7 @@ public class FoodInformation extends AppCompatActivity {
         Message.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(FoodInformation.this, Chat.class));
+                startActivity(new Intent(FoodInformationTest.this, Chat.class));
                 UserDetails.chatWith = FoodItemLocal.Owner;
                 finish();
             }

@@ -39,6 +39,11 @@
             android:label="Register">
         </activity>
         <activity
+            android:name=".FoodInformationTest"
+            android:screenOrientation="portrait"
+            android:label="Register">
+        </activity>
+        <activity
             android:name="Chat"
             android:screenOrientation="portrait"
             android:label="Private messages">

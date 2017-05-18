@@ -37,6 +37,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import static com.example.android.PickFood.FoodItemLocal.url;
+
 
 public class FreeFoodFragment extends Fragment {
 
@@ -89,7 +91,7 @@ public class FreeFoodFragment extends Fragment {
 
 
                     words.add(new Word(food.Name, food.Description,
-                            food.url, food.Location, food.Owner, food.Type));
+                            food.url, food.Owner, food.Type, food.Location));
                     test1 = food.Name;
                     test2 = food.Description;
 
@@ -105,13 +107,14 @@ public class FreeFoodFragment extends Fragment {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long l) {
                 Word word = (Word)listView.getAdapter().getItem(position);
-                System.out.println("TEST: " + word.NameString);
-                FoodItemLocal.Name = word.getDefaultTranslationId();
-                FoodItemLocal.Type = word.getTypeString();
+                System.out.println("TEST1: " + word.NameString);
+                System.out.println("TEST2: " + word.OwnerString);
+                FoodItemLocal.Name = word.NameString;
+                FoodItemLocal.Type = word.TypeString;
                 FoodItemLocal.Description = word.DescriptionString;
-                FoodItemLocal.Owner = word.getOwnerString();
-                FoodItemLocal.Location = word.getLocationString();
-                FoodItemLocal.url = word.getUrlString();
+                FoodItemLocal.Owner = word.OwnerString;
+                FoodItemLocal.Location = word.LocationString;
+                FoodItemLocal.url = word.urlString;
                 startActivity(new Intent(getActivity(), FoodInformation.class));
             }
         });
