@@ -10,10 +10,12 @@ using Android.Views;
 using Android.Gms.Tasks;
 using System;
 using Android.Support.Design.Widget;
+using Android;
 
-namespace Meter_Replacement
+namespace PickFood
 {
-    [Activity(Label = "Meter Replacement", MainLauncher = true, Icon = "@drawable/icon")]
+    
+    [Activity(Label = "PickFood", MainLauncher = true, Icon = "@drawable/icon")]
     public class MainActivity : Activity, IOnClickListener, IOnCompleteListener
     {
         Button btnLogin;
@@ -34,7 +36,7 @@ namespace Meter_Replacement
             btnLogin = FindViewById<Button>(Resource.Id.button1);
             input_ID = FindViewById<EditText>(Resource.Id.editText1);
             input_Password = FindViewById<EditText>(Resource.Id.editText2);
-
+            
             btnLogin.Click += (s, e) => {
                 if (input_ID.Text != "" || input_Password.Text != "")
                 {
@@ -50,8 +52,8 @@ namespace Meter_Replacement
          private void InitFirebaseAuth()
           {
                var options = new FirebaseOptions.Builder()
-               .SetApplicationId("1:321577095986:android:f152c118893f1239")
-               .SetApiKey("AIzaSyBOhneF6dGRDom7W4DNAnNB59Aw1Pigy-o")
+               .SetApplicationId("1:791615792566:android:e94319906cd64f4f")
+               .SetApiKey("AIzaSyDzduIZse5q9JjXsZ2un9DugzYW-Y-oZCY")
                .Build();
         
                if (app == null)
@@ -74,15 +76,19 @@ namespace Meter_Replacement
           {
               if (task.IsSuccessful)
               {
-                  StartActivity(new Android.Content.Intent(this, typeof(MenuActivity)));
+                
+                  StartActivity(new Intent(this, typeof(MenuActivity)));
                   Finish();
-              }
-              else
+                   
+            }
+            else
               {
                 Toast.MakeText(this, "Login failed", ToastLength.Long).Show();
               }
           }
-          
-    }
+         
+
+            }
+           
 }
 

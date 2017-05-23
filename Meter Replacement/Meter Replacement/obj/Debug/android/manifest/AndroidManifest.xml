@@ -1,32 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Meter_Replacement.Meter_Replacement" android:versionCode="1" android:versionName="1.0">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.android.PickFood" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"></uses-permission>
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.CAMERA" />
-  <application android:label="Meter_Replacement" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:icon="@drawable/icon" android:label="Camera" android:name="md5b748c5750f961e3d379e9866038137a7.CameraActivity" />
-    <activity android:icon="@drawable/icon" android:label="Report" android:name="md5b748c5750f961e3d379e9866038137a7.ListActivity" />
-    <activity android:icon="@drawable/icon" android:label="Meter Replacement" android:name="md5b748c5750f961e3d379e9866038137a7.MainActivity">
+  <application android:label="PickFood" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:icon="@drawable/icon" android:label="Add offer" android:theme="@style/AppTheme" android:name="md57977de319fc674fea652fffdede67ce0.AddItem" />
+    <activity android:icon="@drawable/icon" android:label="Camera" android:name="md57977de319fc674fea652fffdede67ce0.CameraActivity" />
+    <activity android:icon="@drawable/icon" android:label="PickFood" android:name="md57977de319fc674fea652fffdede67ce0.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <activity android:icon="@drawable/icon" android:label="Menu" android:name="md5b748c5750f961e3d379e9866038137a7.MenuActivity" />
-    <activity android:icon="@drawable/icon" android:label="Report" android:name="md5b748c5750f961e3d379e9866038137a7.ReplacementDataActivity" />
+    <activity android:icon="@drawable/icon" android:label="Menu" android:name="md57977de319fc674fea652fffdede67ce0.MenuActivity" />
     <activity android:configChanges="keyboardHidden|orientation|screenLayout" android:label="Scanner" android:name="md5e2ed3c6b13fcfff19371c0219cb2ee1f.ZxingActivity" />
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Meter_Replacement.Meter_Replacement.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="com.example.android.PickFood.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
       <intent-filter>
         <action android:name="mono.android.intent.action.SEPPUKU" />
-        <category android:name="mono.android.intent.category.SEPPUKU.Meter_Replacement.Meter_Replacement" />
+        <category android:name="mono.android.intent.category.SEPPUKU.com.example.android.PickFood" />
       </intent-filter>
     </receiver>
-    <provider android:authorities="Meter_Replacement.Meter_Replacement.firebaseinitprovider" android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:initOrder="100" />
+    <provider android:authorities="com.example.android.PickFood.firebaseinitprovider" android:name="com.google.firebase.provider.FirebaseInitProvider" android:exported="false" android:initOrder="100" />
     <activity android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar" android:exported="false" />
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
   </application>

@@ -10,9 +10,11 @@ using Android.Content.PM;
 using Android.Provider;
 using Android.Net;
 using System.Collections.Generic;
+using Android;
 
-namespace Meter_Replacement
+namespace PickFood
 {
+    
     [Activity(Label = "Camera", Icon = "@drawable/icon")]
     class CameraActivity : Activity
     {
@@ -25,16 +27,14 @@ namespace Meter_Replacement
         {
             base.OnCreate(bundle);
 
-            // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Camera);
-
             if (IsThereAnAppToTakePictures())
             {
                 CreateDirectoryForPictures();
 
-                Button button = FindViewById<Button>(Resource.Id.myButton);
-                _imageView = FindViewById<ImageView>(Resource.Id.imageView1);
-                button.Click += TakeAPicture;
+             Button button = FindViewById<Button>(Resource.Id.myButton);
+             _imageView = FindViewById<ImageView>(Resource.Id.imageView1);
+             button.Click += TakeAPicture;
             }
         }
 
@@ -125,4 +125,5 @@ namespace Meter_Replacement
             return resizedBitmap;
         }
     }
+    
 }

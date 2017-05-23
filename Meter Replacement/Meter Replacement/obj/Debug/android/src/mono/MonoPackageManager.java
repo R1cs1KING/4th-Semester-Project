@@ -97,9 +97,13 @@ public class MonoPackageManager {
 
 class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
-		/* We need to ensure that "Meter Replacement.dll" comes first in this list. */
-		"Meter Replacement.dll",
+		/* We need to ensure that "PickFood.dll" comes first in this list. */
+		"PickFood.dll",
+		"crypto.dll",
 		"FastAndroidCamera.dll",
+		"Firebase.Xamarin.dll",
+		"JWT.dll",
+		"Newtonsoft.Json.dll",
 		"SQLite-net.dll",
 		"SQLitePCL.batteries.dll",
 		"SQLitePCL.raw.dll",
@@ -109,6 +113,10 @@ class MonoPackageManager_Resources {
 		"SQLitePCLRaw.core.dll",
 		"SQLitePCLRaw.lib.e_sqlite3.dll",
 		"SQLitePCLRaw.provider.e_sqlite3.dll",
+		"System.Reactive.Core.dll",
+		"System.Reactive.Interfaces.dll",
+		"System.Reactive.Linq.dll",
+		"System.Reactive.PlatformServices.dll",
 		"Xamarin.Android.Support.Animated.Vector.Drawable.dll",
 		"Xamarin.Android.Support.Compat.dll",
 		"Xamarin.Android.Support.Core.UI.dll",

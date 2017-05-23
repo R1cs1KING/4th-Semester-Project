@@ -9,14 +9,27 @@
 
         tools:context="com.example.android.PickFood.LogIn">
 
+        <LinearLayout
+            android:layout_height="150dp"
+            android:layout_width="match_parent">
+            <ImageView
+                android:id="@+id/logo"
+                android:src="@drawable/logo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+        </LinearLayout>
+
         <ScrollView
             android:id="@+id/login_form"
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
+
+
             <LinearLayout
                 android:id="@+id/email_login_form"
                 android:layout_width="match_parent"
+
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
 
@@ -58,6 +71,7 @@
                     style="?android:textAppearanceSmall"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+
                     android:layout_marginTop="16dp"
                     android:text="Sign out"
                     android:textStyle="bold"/>
@@ -66,6 +80,7 @@
                     android:id="@+id/btn_register"
                     style="?android:textAppearanceSmall"
                     android:layout_width="match_parent"
+
                     android:layout_height="wrap_content"
                     android:layout_marginTop="16dp"
                     android:text="@string/register"

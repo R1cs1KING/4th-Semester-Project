@@ -8,10 +8,10 @@
     android:weightSum="100">
     <ImageView
         android:src="@drawable/logo"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="20"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
         android:id="@+id/imageView1"
+        android:adjustViewBounds="true"
         android:background="#FFF" />
     <TextView
         android:layout_width="match_parent"
@@ -51,20 +51,11 @@
         android:layout_height="0dp"
         android:layout_weight="15"
         android:id="@+id/button1"
-        android:background="@android:color/holo_blue_light" />
+        android:background="#9ACD32" />
     <TextView
         android:layout_width="match_parent"
         android:layout_height="0dp"
         android:layout_weight="30"
         android:id="@+id/textView2"
         android:layout_marginRight="213.5dp" />
-    <Button
-        android:text="Settings"
-        android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="15"
-        android:id="@+id/button2"
-        android:background="@android:color/holo_blue_light"
-        android:gravity="center"
-        android:layout_marginTop="0.0dp" />
 </LinearLayout>

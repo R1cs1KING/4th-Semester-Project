@@ -2367,31 +2367,31 @@ containing a value of this type.
         public static final int abc_config_showMenuShortcutsWhenKeyboardPresent=0x7f0c0004;
     }
     public static final class color {
-        public static final int abc_background_cache_hint_selector_material_dark=0x7f08004f;
-        public static final int abc_background_cache_hint_selector_material_light=0x7f080050;
-        public static final int abc_btn_colored_borderless_text_material=0x7f080051;
-        public static final int abc_btn_colored_text_material=0x7f080052;
-        public static final int abc_color_highlight_material=0x7f080053;
-        public static final int abc_hint_foreground_material_dark=0x7f080054;
-        public static final int abc_hint_foreground_material_light=0x7f080055;
+        public static final int abc_background_cache_hint_selector_material_dark=0x7f080053;
+        public static final int abc_background_cache_hint_selector_material_light=0x7f080054;
+        public static final int abc_btn_colored_borderless_text_material=0x7f080055;
+        public static final int abc_btn_colored_text_material=0x7f080056;
+        public static final int abc_color_highlight_material=0x7f080057;
+        public static final int abc_hint_foreground_material_dark=0x7f080058;
+        public static final int abc_hint_foreground_material_light=0x7f080059;
         public static final int abc_input_method_navigation_guard=0x7f080009;
-        public static final int abc_primary_text_disable_only_material_dark=0x7f080056;
-        public static final int abc_primary_text_disable_only_material_light=0x7f080057;
-        public static final int abc_primary_text_material_dark=0x7f080058;
-        public static final int abc_primary_text_material_light=0x7f080059;
-        public static final int abc_search_url_text=0x7f08005a;
+        public static final int abc_primary_text_disable_only_material_dark=0x7f08005a;
+        public static final int abc_primary_text_disable_only_material_light=0x7f08005b;
+        public static final int abc_primary_text_material_dark=0x7f08005c;
+        public static final int abc_primary_text_material_light=0x7f08005d;
+        public static final int abc_search_url_text=0x7f08005e;
         public static final int abc_search_url_text_normal=0x7f08000a;
         public static final int abc_search_url_text_pressed=0x7f08000b;
         public static final int abc_search_url_text_selected=0x7f08000c;
-        public static final int abc_secondary_text_material_dark=0x7f08005b;
-        public static final int abc_secondary_text_material_light=0x7f08005c;
-        public static final int abc_tint_btn_checkable=0x7f08005d;
-        public static final int abc_tint_default=0x7f08005e;
-        public static final int abc_tint_edittext=0x7f08005f;
-        public static final int abc_tint_seek_thumb=0x7f080060;
-        public static final int abc_tint_spinner=0x7f080061;
-        public static final int abc_tint_switch_thumb=0x7f080062;
-        public static final int abc_tint_switch_track=0x7f080063;
+        public static final int abc_secondary_text_material_dark=0x7f08005f;
+        public static final int abc_secondary_text_material_light=0x7f080060;
+        public static final int abc_tint_btn_checkable=0x7f080061;
+        public static final int abc_tint_default=0x7f080062;
+        public static final int abc_tint_edittext=0x7f080063;
+        public static final int abc_tint_seek_thumb=0x7f080064;
+        public static final int abc_tint_spinner=0x7f080065;
+        public static final int abc_tint_switch_thumb=0x7f080066;
+        public static final int abc_tint_switch_track=0x7f080067;
         public static final int accent_material_dark=0x7f08000d;
         public static final int accent_material_light=0x7f08000e;
         public static final int background_floating_material_dark=0x7f08000f;
@@ -2407,18 +2407,22 @@ containing a value of this type.
         public static final int bright_foreground_material_light=0x7f080018;
         public static final int button_material_dark=0x7f080019;
         public static final int button_material_light=0x7f08001a;
-        public static final int common_google_signin_btn_text_dark=0x7f080064;
+        public static final int circularColor=0x7f080052;
+        public static final int colorAccent=0x7f080051;
+        public static final int colorPrimary=0x7f08004f;
+        public static final int colorPrimaryDark=0x7f080050;
+        public static final int common_google_signin_btn_text_dark=0x7f080068;
         public static final int common_google_signin_btn_text_dark_default=0x7f080000;
         public static final int common_google_signin_btn_text_dark_disabled=0x7f080001;
         public static final int common_google_signin_btn_text_dark_focused=0x7f080002;
         public static final int common_google_signin_btn_text_dark_pressed=0x7f080003;
-        public static final int common_google_signin_btn_text_light=0x7f080065;
+        public static final int common_google_signin_btn_text_light=0x7f080069;
         public static final int common_google_signin_btn_text_light_default=0x7f080004;
         public static final int common_google_signin_btn_text_light_disabled=0x7f080005;
         public static final int common_google_signin_btn_text_light_focused=0x7f080006;
         public static final int common_google_signin_btn_text_light_pressed=0x7f080007;
         public static final int design_bottom_navigation_shadow_color=0x7f080043;
-        public static final int design_error=0x7f080066;
+        public static final int design_error=0x7f08006a;
         public static final int design_fab_shadow_end_color=0x7f080044;
         public static final int design_fab_shadow_mid_color=0x7f080045;
         public static final int design_fab_shadow_start_color=0x7f080046;
@@ -2429,7 +2433,7 @@ containing a value of this type.
         public static final int design_snackbar_background_color=0x7f08004b;
         public static final int design_textinput_error_color_dark=0x7f08004c;
         public static final int design_textinput_error_color_light=0x7f08004d;
-        public static final int design_tint_password_toggle=0x7f080067;
+        public static final int design_tint_password_toggle=0x7f08006b;
         public static final int dim_foreground_disabled_material_dark=0x7f08001b;
         public static final int dim_foreground_disabled_material_light=0x7f08001c;
         public static final int dim_foreground_material_dark=0x7f08001d;
@@ -2469,8 +2473,8 @@ containing a value of this type.
         public static final int secondary_text_disabled_material_light=0x7f08003e;
         public static final int switch_thumb_disabled_material_dark=0x7f08003f;
         public static final int switch_thumb_disabled_material_light=0x7f080040;
-        public static final int switch_thumb_material_dark=0x7f080068;
-        public static final int switch_thumb_material_light=0x7f080069;
+        public static final int switch_thumb_material_dark=0x7f08006c;
+        public static final int switch_thumb_material_light=0x7f08006d;
         public static final int switch_thumb_normal_material_dark=0x7f080041;
         public static final int switch_thumb_normal_material_light=0x7f080042;
     }
@@ -2700,13 +2704,13 @@ containing a value of this type.
         public static final int abc_textfield_search_material=0x7f020051;
         public static final int abc_vector_test=0x7f020052;
         public static final int avd_hide_password=0x7f020053;
-        public static final int avd_hide_password_1=0x7f02007f;
-        public static final int avd_hide_password_2=0x7f020080;
-        public static final int avd_hide_password_3=0x7f020081;
+        public static final int avd_hide_password_1=0x7f020082;
+        public static final int avd_hide_password_2=0x7f020083;
+        public static final int avd_hide_password_3=0x7f020084;
         public static final int avd_show_password=0x7f020054;
-        public static final int avd_show_password_1=0x7f020082;
-        public static final int avd_show_password_2=0x7f020083;
-        public static final int avd_show_password_3=0x7f020084;
+        public static final int avd_show_password_1=0x7f020085;
+        public static final int avd_show_password_2=0x7f020086;
+        public static final int avd_show_password_3=0x7f020087;
         public static final int common_full_open_on_phone=0x7f020055;
         public static final int common_google_signin_btn_icon_dark=0x7f020056;
         public static final int common_google_signin_btn_icon_dark_disabled=0x7f020057;
@@ -2734,24 +2738,27 @@ containing a value of this type.
         public static final int design_ic_visibility_off=0x7f02006d;
         public static final int design_password_eye=0x7f02006e;
         public static final int design_snackbar_background=0x7f02006f;
-        public static final int icon=0x7f020070;
-        public static final int logo=0x7f020071;
-        public static final int navigation_empty_icon=0x7f020072;
-        public static final int notification_action_background=0x7f020073;
-        public static final int notification_bg=0x7f020074;
-        public static final int notification_bg_low=0x7f020075;
-        public static final int notification_bg_low_normal=0x7f020076;
-        public static final int notification_bg_low_pressed=0x7f020077;
-        public static final int notification_bg_normal=0x7f020078;
-        public static final int notification_bg_normal_pressed=0x7f020079;
-        public static final int notification_icon_background=0x7f02007a;
-        public static final int notification_template_icon_bg=0x7f02007d;
-        public static final int notification_template_icon_low_bg=0x7f02007e;
-        public static final int notification_tile_bg=0x7f02007b;
-        public static final int notify_panel_notification_icon_bg=0x7f02007c;
+        public static final int ic_new=0x7f020070;
+        public static final int ic_remove=0x7f020071;
+        public static final int ic_save=0x7f020072;
+        public static final int icon=0x7f020073;
+        public static final int logo=0x7f020074;
+        public static final int navigation_empty_icon=0x7f020075;
+        public static final int notification_action_background=0x7f020076;
+        public static final int notification_bg=0x7f020077;
+        public static final int notification_bg_low=0x7f020078;
+        public static final int notification_bg_low_normal=0x7f020079;
+        public static final int notification_bg_low_pressed=0x7f02007a;
+        public static final int notification_bg_normal=0x7f02007b;
+        public static final int notification_bg_normal_pressed=0x7f02007c;
+        public static final int notification_icon_background=0x7f02007d;
+        public static final int notification_template_icon_bg=0x7f020080;
+        public static final int notification_template_icon_low_bg=0x7f020081;
+        public static final int notification_tile_bg=0x7f02007e;
+        public static final int notify_panel_notification_icon_bg=0x7f02007f;
     }
     public static final class id {
-        public static final int action0=0x7f0a0097;
+        public static final int action0=0x7f0a009c;
         public static final int action_bar=0x7f0a006b;
         public static final int action_bar_activity_content=0x7f0a0001;
         public static final int action_bar_container=0x7f0a006a;
@@ -2759,19 +2766,19 @@ containing a value of this type.
         public static final int action_bar_spinner=0x7f0a0002;
         public static final int action_bar_subtitle=0x7f0a0049;
         public static final int action_bar_title=0x7f0a0048;
-        public static final int action_container=0x7f0a0094;
+        public static final int action_container=0x7f0a0099;
         public static final int action_context_bar=0x7f0a006c;
-        public static final int action_divider=0x7f0a009b;
-        public static final int action_image=0x7f0a0095;
+        public static final int action_divider=0x7f0a00a0;
+        public static final int action_image=0x7f0a009a;
         public static final int action_menu_divider=0x7f0a0003;
         public static final int action_menu_presenter=0x7f0a0004;
         public static final int action_mode_bar=0x7f0a0068;
         public static final int action_mode_bar_stub=0x7f0a0067;
         public static final int action_mode_close_button=0x7f0a004a;
-        public static final int action_text=0x7f0a0096;
-        public static final int actions=0x7f0a00a4;
+        public static final int action_text=0x7f0a009b;
+        public static final int actions=0x7f0a00a9;
         public static final int activity_chooser_view_content=0x7f0a004b;
-        public static final int activity_main=0x7f0a008b;
+        public static final int activity_main=0x7f0a0092;
         public static final int add=0x7f0a0021;
         public static final int adjust_height=0x7f0a000f;
         public static final int adjust_width=0x7f0a0010;
@@ -2781,43 +2788,39 @@ containing a value of this type.
         public static final int auto=0x7f0a0015;
         public static final int beginning=0x7f0a0028;
         public static final int bottom=0x7f0a0030;
-        public static final int button1=0x7f0a008e;
-        public static final int button2=0x7f0a0090;
-        public static final int button3=0x7f0a0091;
-        public static final int button4=0x7f0a0092;
-        public static final int button5=0x7f0a0093;
-        public static final int buttonList=0x7f0a00af;
+        public static final int button1=0x7f0a0095;
+        public static final int button2=0x7f0a0097;
+        public static final int button4=0x7f0a0098;
         public static final int buttonPanel=0x7f0a0052;
-        public static final int cancel_action=0x7f0a0098;
+        public static final int cancel_action=0x7f0a009d;
         public static final int center=0x7f0a0037;
         public static final int center_horizontal=0x7f0a0038;
         public static final int center_vertical=0x7f0a0039;
         public static final int checkbox=0x7f0a0062;
-        public static final int chronometer=0x7f0a00a0;
+        public static final int chronometer=0x7f0a00a5;
+        public static final int circularProgress=0x7f0a0080;
         public static final int clip_horizontal=0x7f0a0040;
         public static final int clip_vertical=0x7f0a0041;
         public static final int collapseActionView=0x7f0a002c;
-        public static final int contentFrame=0x7f0a00b1;
+        public static final int contentFrame=0x7f0a00b0;
         public static final int contentPanel=0x7f0a0055;
         public static final int custom=0x7f0a005c;
         public static final int customPanel=0x7f0a005b;
         public static final int dark=0x7f0a0016;
         public static final int decor_content_parent=0x7f0a0069;
         public static final int default_activity_button=0x7f0a004e;
-        public static final int design_bottom_sheet=0x7f0a007f;
-        public static final int design_menu_item_action_area=0x7f0a0086;
-        public static final int design_menu_item_action_area_stub=0x7f0a0085;
-        public static final int design_menu_item_text=0x7f0a0084;
-        public static final int design_navigation_view=0x7f0a0083;
+        public static final int description=0x7f0a007c;
+        public static final int design_bottom_sheet=0x7f0a0086;
+        public static final int design_menu_item_action_area=0x7f0a008d;
+        public static final int design_menu_item_action_area_stub=0x7f0a008c;
+        public static final int design_menu_item_text=0x7f0a008b;
+        public static final int design_navigation_view=0x7f0a008a;
         public static final int disableHome=0x7f0a001b;
-        public static final int editText1=0x7f0a008c;
-        public static final int editText2=0x7f0a008d;
-        public static final int editText3=0x7f0a00ac;
-        public static final int editText4=0x7f0a00ad;
-        public static final int editText5=0x7f0a00ae;
+        public static final int editText1=0x7f0a0093;
+        public static final int editText2=0x7f0a0094;
         public static final int edit_query=0x7f0a006d;
         public static final int end=0x7f0a0029;
-        public static final int end_padder=0x7f0a00aa;
+        public static final int end_padder=0x7f0a00af;
         public static final int enterAlways=0x7f0a0032;
         public static final int enterAlwaysCollapsed=0x7f0a0033;
         public static final int exitUntilCollapsed=0x7f0a0034;
@@ -2830,34 +2833,42 @@ containing a value of this type.
         public static final int home=0x7f0a0005;
         public static final int homeAsUp=0x7f0a001c;
         public static final int icon=0x7f0a0050;
-        public static final int icon_group=0x7f0a00a5;
+        public static final int icon_group=0x7f0a00aa;
         public static final int icon_only=0x7f0a0012;
         public static final int ifRoom=0x7f0a002d;
         public static final int image=0x7f0a004d;
-        public static final int imageView1=0x7f0a007b;
-        public static final int info=0x7f0a00a1;
+        public static final int imageView1=0x7f0a0082;
+        public static final int info=0x7f0a00a6;
         public static final int item_touch_helper_previous_elevation=0x7f0a0000;
-        public static final int largeLabel=0x7f0a007d;
+        public static final int largeLabel=0x7f0a0084;
         public static final int left=0x7f0a003b;
         public static final int light=0x7f0a0017;
-        public static final int line1=0x7f0a00a6;
-        public static final int line3=0x7f0a00a8;
+        public static final int line1=0x7f0a00ab;
+        public static final int line3=0x7f0a00ad;
         public static final int listMode=0x7f0a0018;
-        public static final int listView=0x7f0a00b0;
+        public static final int list_data=0x7f0a007e;
+        public static final int list_description=0x7f0a0090;
         public static final int list_item=0x7f0a004f;
-        public static final int masked=0x7f0a00b3;
-        public static final int media_actions=0x7f0a009a;
+        public static final int list_location=0x7f0a0091;
+        public static final int list_name=0x7f0a008f;
+        public static final int location=0x7f0a007d;
+        public static final int masked=0x7f0a00b2;
+        public static final int media_actions=0x7f0a009f;
+        public static final int menu_add=0x7f0a00b3;
+        public static final int menu_remove=0x7f0a00b5;
+        public static final int menu_save=0x7f0a00b4;
         public static final int middle=0x7f0a002a;
         public static final int mini=0x7f0a0045;
         public static final int multiply=0x7f0a0022;
-        public static final int myButton=0x7f0a007a;
-        public static final int navigation_header_container=0x7f0a0082;
+        public static final int myButton=0x7f0a0081;
+        public static final int name=0x7f0a007b;
+        public static final int navigation_header_container=0x7f0a0089;
         public static final int never=0x7f0a002e;
         public static final int none=0x7f0a0011;
         public static final int normal=0x7f0a0019;
-        public static final int notification_background=0x7f0a00a3;
-        public static final int notification_main_column=0x7f0a009d;
-        public static final int notification_main_column_container=0x7f0a009c;
+        public static final int notification_background=0x7f0a00a8;
+        public static final int notification_main_column=0x7f0a00a2;
+        public static final int notification_main_column_container=0x7f0a00a1;
         public static final int parallax=0x7f0a003e;
         public static final int parentPanel=0x7f0a0054;
         public static final int pin=0x7f0a003f;
@@ -2865,8 +2876,8 @@ containing a value of this type.
         public static final int progress_horizontal=0x7f0a0007;
         public static final int radio=0x7f0a0064;
         public static final int right=0x7f0a003c;
-        public static final int right_icon=0x7f0a00a2;
-        public static final int right_side=0x7f0a009e;
+        public static final int right_icon=0x7f0a00a7;
+        public static final int right_side=0x7f0a00a3;
         public static final int screen=0x7f0a0023;
         public static final int scroll=0x7f0a0035;
         public static final int scrollIndicatorDown=0x7f0a005a;
@@ -2888,9 +2899,9 @@ containing a value of this type.
         public static final int showCustom=0x7f0a001d;
         public static final int showHome=0x7f0a001e;
         public static final int showTitle=0x7f0a001f;
-        public static final int smallLabel=0x7f0a007c;
-        public static final int snackbar_action=0x7f0a0081;
-        public static final int snackbar_text=0x7f0a0080;
+        public static final int smallLabel=0x7f0a0083;
+        public static final int snackbar_action=0x7f0a0088;
+        public static final int snackbar_text=0x7f0a0087;
         public static final int snap=0x7f0a0036;
         public static final int spacer=0x7f0a0053;
         public static final int split_action_bar=0x7f0a0008;
@@ -2899,35 +2910,33 @@ containing a value of this type.
         public static final int src_over=0x7f0a0026;
         public static final int standard=0x7f0a0013;
         public static final int start=0x7f0a003d;
-        public static final int status_bar_latest_event_content=0x7f0a0099;
+        public static final int status_bar_latest_event_content=0x7f0a009e;
         public static final int submenuarrow=0x7f0a0065;
         public static final int submit_area=0x7f0a0076;
         public static final int tabMode=0x7f0a001a;
-        public static final int text=0x7f0a00a9;
-        public static final int text2=0x7f0a00a7;
+        public static final int text=0x7f0a00ae;
+        public static final int text2=0x7f0a00ac;
         public static final int textSpacerNoButtons=0x7f0a0059;
         public static final int textSpacerNoTitle=0x7f0a0058;
-        public static final int textView1=0x7f0a00ab;
-        public static final int textView2=0x7f0a008f;
-        public static final int textViewList1=0x7f0a0088;
-        public static final int textViewList2=0x7f0a0089;
-        public static final int textViewList3=0x7f0a008a;
-        public static final int text_input_password_toggle=0x7f0a0087;
+        public static final int textView2=0x7f0a0096;
+        public static final int text_input_password_toggle=0x7f0a008e;
         public static final int textinput_counter=0x7f0a000c;
         public static final int textinput_error=0x7f0a000d;
-        public static final int time=0x7f0a009f;
+        public static final int time=0x7f0a00a4;
         public static final int title=0x7f0a0051;
         public static final int titleDividerNoCustom=0x7f0a0060;
         public static final int title_template=0x7f0a005e;
+        public static final int toolbar=0x7f0a007a;
         public static final int top=0x7f0a0031;
         public static final int topPanel=0x7f0a005d;
-        public static final int touch_outside=0x7f0a007e;
+        public static final int touch_outside=0x7f0a0085;
         public static final int transition_current_scene=0x7f0a000a;
         public static final int transition_scene_layoutid_cache=0x7f0a000b;
+        public static final int txtEmail=0x7f0a007f;
         public static final int up=0x7f0a0009;
         public static final int useLogo=0x7f0a0020;
         public static final int view_offset_helper=0x7f0a000e;
-        public static final int visible=0x7f0a00b2;
+        public static final int visible=0x7f0a00b1;
         public static final int wide=0x7f0a0014;
         public static final int withText=0x7f0a002f;
         public static final int wrap_content=0x7f0a0027;
@@ -2972,47 +2981,49 @@ containing a value of this type.
         public static final int abc_search_dropdown_item_icons_2line=0x7f030018;
         public static final int abc_search_view=0x7f030019;
         public static final int abc_select_dialog_material=0x7f03001a;
-        public static final int camera=0x7f03001b;
-        public static final int design_bottom_navigation_item=0x7f03001c;
-        public static final int design_bottom_sheet_dialog=0x7f03001d;
-        public static final int design_layout_snackbar=0x7f03001e;
-        public static final int design_layout_snackbar_include=0x7f03001f;
-        public static final int design_layout_tab_icon=0x7f030020;
-        public static final int design_layout_tab_text=0x7f030021;
-        public static final int design_menu_item_action_area=0x7f030022;
-        public static final int design_navigation_item=0x7f030023;
-        public static final int design_navigation_item_header=0x7f030024;
-        public static final int design_navigation_item_separator=0x7f030025;
-        public static final int design_navigation_item_subheader=0x7f030026;
-        public static final int design_navigation_menu=0x7f030027;
-        public static final int design_navigation_menu_item=0x7f030028;
-        public static final int design_text_input_password_icon=0x7f030029;
-        public static final int list_view_datatemplate=0x7f03002a;
-        public static final int main=0x7f03002b;
-        public static final int menu=0x7f03002c;
-        public static final int notification_action=0x7f03002d;
-        public static final int notification_action_tombstone=0x7f03002e;
-        public static final int notification_media_action=0x7f03002f;
-        public static final int notification_media_cancel_action=0x7f030030;
-        public static final int notification_template_big_media=0x7f030031;
-        public static final int notification_template_big_media_custom=0x7f030032;
-        public static final int notification_template_big_media_narrow=0x7f030033;
-        public static final int notification_template_big_media_narrow_custom=0x7f030034;
-        public static final int notification_template_custom_big=0x7f030035;
-        public static final int notification_template_icon_group=0x7f030036;
-        public static final int notification_template_lines_media=0x7f030037;
-        public static final int notification_template_media=0x7f030038;
-        public static final int notification_template_media_custom=0x7f030039;
-        public static final int notification_template_part_chronometer=0x7f03003a;
-        public static final int notification_template_part_time=0x7f03003b;
-        public static final int replacementdata=0x7f03003c;
-        public static final int replacementlist=0x7f03003d;
-        public static final int select_dialog_item_material=0x7f03003e;
-        public static final int select_dialog_multichoice_material=0x7f03003f;
-        public static final int select_dialog_singlechoice_material=0x7f030040;
-        public static final int support_simple_spinner_dropdown_item=0x7f030041;
-        public static final int zxingscanneractivitylayout=0x7f030042;
-        public static final int zxingscannerfragmentlayout=0x7f030043;
+        public static final int additem=0x7f03001b;
+        public static final int camera=0x7f03001c;
+        public static final int design_bottom_navigation_item=0x7f03001d;
+        public static final int design_bottom_sheet_dialog=0x7f03001e;
+        public static final int design_layout_snackbar=0x7f03001f;
+        public static final int design_layout_snackbar_include=0x7f030020;
+        public static final int design_layout_tab_icon=0x7f030021;
+        public static final int design_layout_tab_text=0x7f030022;
+        public static final int design_menu_item_action_area=0x7f030023;
+        public static final int design_navigation_item=0x7f030024;
+        public static final int design_navigation_item_header=0x7f030025;
+        public static final int design_navigation_item_separator=0x7f030026;
+        public static final int design_navigation_item_subheader=0x7f030027;
+        public static final int design_navigation_menu=0x7f030028;
+        public static final int design_navigation_menu_item=0x7f030029;
+        public static final int design_text_input_password_icon=0x7f03002a;
+        public static final int list_item=0x7f03002b;
+        public static final int main=0x7f03002c;
+        public static final int menu=0x7f03002d;
+        public static final int notification_action=0x7f03002e;
+        public static final int notification_action_tombstone=0x7f03002f;
+        public static final int notification_media_action=0x7f030030;
+        public static final int notification_media_cancel_action=0x7f030031;
+        public static final int notification_template_big_media=0x7f030032;
+        public static final int notification_template_big_media_custom=0x7f030033;
+        public static final int notification_template_big_media_narrow=0x7f030034;
+        public static final int notification_template_big_media_narrow_custom=0x7f030035;
+        public static final int notification_template_custom_big=0x7f030036;
+        public static final int notification_template_icon_group=0x7f030037;
+        public static final int notification_template_lines_media=0x7f030038;
+        public static final int notification_template_media=0x7f030039;
+        public static final int notification_template_media_custom=0x7f03003a;
+        public static final int notification_template_part_chronometer=0x7f03003b;
+        public static final int notification_template_part_time=0x7f03003c;
+        public static final int select_dialog_item_material=0x7f03003d;
+        public static final int select_dialog_multichoice_material=0x7f03003e;
+        public static final int select_dialog_singlechoice_material=0x7f03003f;
+        public static final int support_simple_spinner_dropdown_item=0x7f030040;
+        public static final int zxingscanneractivitylayout=0x7f030041;
+        public static final int zxingscannerfragmentlayout=0x7f030042;
+    }
+    public static final class menu {
+        public static final int menu_main=0x7f0d0000;
     }
     public static final class string {
         public static final int ApplicationName=0x7f07003b;
@@ -3082,6 +3093,7 @@ containing a value of this type.
         public static final int Animation_AppCompat_Dialog=0x7f0b00a1;
         public static final int Animation_AppCompat_DropDownUp=0x7f0b00a2;
         public static final int Animation_Design_BottomSheetDialog=0x7f0b0161;
+        public static final int AppTheme=0x7f0b017a;
         public static final int Base_AlertDialog_AppCompat=0x7f0b00a3;
         public static final int Base_AlertDialog_AppCompat_Light=0x7f0b00a4;
         public static final int Base_Animation_AppCompat_Dialog=0x7f0b00a5;
@@ -3236,6 +3248,8 @@ containing a value of this type.
         public static final int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0084;
         public static final int Base_Widget_Design_AppBarLayout=0x7f0b0162;
         public static final int Base_Widget_Design_TabLayout=0x7f0b0163;
+        public static final int CircularProgress=0x7f0b017b;
+        public static final int PickFood=0x7f0b017c;
         public static final int Platform_AppCompat=0x7f0b001e;
         public static final int Platform_AppCompat_Light=0x7f0b001f;
         public static final int Platform_ThemeOverlay_AppCompat=0x7f0b0085;
@@ -3357,7 +3371,7 @@ containing a value of this type.
         public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f0b010d;
         public static final int Theme_AppCompat_Light_NoActionBar=0x7f0b010e;
         public static final int Theme_AppCompat_NoActionBar=0x7f0b010f;
-        public static final int Theme_Custom=0x7f0b017a;
+        public static final int Theme_Custom=0x7f0b017d;
         public static final int Theme_Design=0x7f0b016b;
         public static final int Theme_Design_BottomSheetDialog=0x7f0b016c;
         public static final int Theme_Design_Light=0x7f0b016d;
@@ -3464,35 +3478,35 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background Meter_Replacement.Meter_Replacement:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit Meter_Replacement.Meter_Replacement:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked Meter_Replacement.Meter_Replacement:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd Meter_Replacement.Meter_Replacement:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions Meter_Replacement.Meter_Replacement:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft Meter_Replacement.Meter_Replacement:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight Meter_Replacement.Meter_Replacement:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart Meter_Replacement.Meter_Replacement:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation Meter_Replacement.Meter_Replacement:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout Meter_Replacement.Meter_Replacement:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions Meter_Replacement.Meter_Replacement:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider Meter_Replacement.Meter_Replacement:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation Meter_Replacement.Meter_Replacement:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height Meter_Replacement.Meter_Replacement:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll Meter_Replacement.Meter_Replacement:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator Meter_Replacement.Meter_Replacement:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout Meter_Replacement.Meter_Replacement:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon Meter_Replacement.Meter_Replacement:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle Meter_Replacement.Meter_Replacement:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding Meter_Replacement.Meter_Replacement:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo Meter_Replacement.Meter_Replacement:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode Meter_Replacement.Meter_Replacement:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme Meter_Replacement.Meter_Replacement:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding Meter_Replacement.Meter_Replacement:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle Meter_Replacement.Meter_Replacement:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle Meter_Replacement.Meter_Replacement:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle Meter_Replacement.Meter_Replacement:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title Meter_Replacement.Meter_Replacement:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle Meter_Replacement.Meter_Replacement:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.example.android.PickFood:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.example.android.PickFood:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.example.android.PickFood:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.example.android.PickFood:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.example.android.PickFood:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.example.android.PickFood:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.example.android.PickFood:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.example.android.PickFood:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.example.android.PickFood:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.example.android.PickFood:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.example.android.PickFood:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.example.android.PickFood:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.example.android.PickFood:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.example.android.PickFood:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.example.android.PickFood:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.example.android.PickFood:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.example.android.PickFood:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.example.android.PickFood:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.example.android.PickFood:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.example.android.PickFood:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.example.android.PickFood:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.example.android.PickFood:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.example.android.PickFood:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.example.android.PickFood:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.example.android.PickFood:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.example.android.PickFood:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.example.android.PickFood:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.example.android.PickFood:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.example.android.PickFood:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -3535,17 +3549,17 @@ containing a value of this type.
             0x7f010065
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#background}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:background
+          @attr name com.example.android.PickFood:background
         */
         public static final int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3553,11 +3567,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:backgroundSplit
+          @attr name com.example.android.PickFood:backgroundSplit
         */
         public static final int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3565,11 +3579,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:backgroundStacked
+          @attr name com.example.android.PickFood:backgroundStacked
         */
         public static final int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3581,11 +3595,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetEnd
+          @attr name com.example.android.PickFood:contentInsetEnd
         */
         public static final int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3597,11 +3611,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetEndWithActions
+          @attr name com.example.android.PickFood:contentInsetEndWithActions
         */
         public static final int ActionBar_contentInsetEndWithActions = 25;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3613,11 +3627,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetLeft
+          @attr name com.example.android.PickFood:contentInsetLeft
         */
         public static final int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3629,11 +3643,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetRight
+          @attr name com.example.android.PickFood:contentInsetRight
         */
         public static final int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3645,11 +3659,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetStart
+          @attr name com.example.android.PickFood:contentInsetStart
         */
         public static final int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3661,21 +3675,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetStartWithNavigation
+          @attr name com.example.android.PickFood:contentInsetStartWithNavigation
         */
         public static final int ActionBar_contentInsetStartWithNavigation = 24;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:customNavigationLayout
+          @attr name com.example.android.PickFood:customNavigationLayout
         */
         public static final int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3693,21 +3707,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:displayOptions
+          @attr name com.example.android.PickFood:displayOptions
         */
         public static final int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:divider
+          @attr name com.example.android.PickFood:divider
         */
         public static final int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3719,11 +3733,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:elevation
+          @attr name com.example.android.PickFood:elevation
         */
         public static final int ActionBar_elevation = 26;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#height}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3735,11 +3749,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:height
+          @attr name com.example.android.PickFood:height
         */
         public static final int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3749,51 +3763,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:hideOnContentScroll
+          @attr name com.example.android.PickFood:hideOnContentScroll
         */
         public static final int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:homeAsUpIndicator
+          @attr name com.example.android.PickFood:homeAsUpIndicator
         */
         public static final int ActionBar_homeAsUpIndicator = 28;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:homeLayout
+          @attr name com.example.android.PickFood:homeLayout
         */
         public static final int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:icon
+          @attr name com.example.android.PickFood:icon
         */
         public static final int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:indeterminateProgressStyle
+          @attr name com.example.android.PickFood:indeterminateProgressStyle
         */
         public static final int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3805,21 +3819,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:itemPadding
+          @attr name com.example.android.PickFood:itemPadding
         */
         public static final int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:logo
+          @attr name com.example.android.PickFood:logo
         */
         public static final int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3833,21 +3847,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:navigationMode
+          @attr name com.example.android.PickFood:navigationMode
         */
         public static final int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:popupTheme
+          @attr name com.example.android.PickFood:popupTheme
         */
         public static final int ActionBar_popupTheme = 27;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3859,21 +3873,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:progressBarPadding
+          @attr name com.example.android.PickFood:progressBarPadding
         */
         public static final int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:progressBarStyle
+          @attr name com.example.android.PickFood:progressBarStyle
         */
         public static final int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3883,21 +3897,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:subtitle
+          @attr name com.example.android.PickFood:subtitle
         */
         public static final int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:subtitleTextStyle
+          @attr name com.example.android.PickFood:subtitleTextStyle
         */
         public static final int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#title}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -3907,17 +3921,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:title
+          @attr name com.example.android.PickFood:title
         */
         public static final int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:titleTextStyle
+          @attr name com.example.android.PickFood:titleTextStyle
         */
         public static final int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -3969,12 +3983,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background Meter_Replacement.Meter_Replacement:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit Meter_Replacement.Meter_Replacement:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout Meter_Replacement.Meter_Replacement:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height Meter_Replacement.Meter_Replacement:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle Meter_Replacement.Meter_Replacement:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle Meter_Replacement.Meter_Replacement:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.example.android.PickFood:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.example.android.PickFood:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.example.android.PickFood:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.example.android.PickFood:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.example.android.PickFood:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.example.android.PickFood:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -3988,17 +4002,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010018, 0x7f010028
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#background}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:background
+          @attr name com.example.android.PickFood:background
         */
         public static final int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4006,21 +4020,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:backgroundSplit
+          @attr name com.example.android.PickFood:backgroundSplit
         */
         public static final int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:closeItemLayout
+          @attr name com.example.android.PickFood:closeItemLayout
         */
         public static final int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#height}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -4032,27 +4046,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:height
+          @attr name com.example.android.PickFood:height
         */
         public static final int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:subtitleTextStyle
+          @attr name com.example.android.PickFood:subtitleTextStyle
         */
         public static final int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:titleTextStyle
+          @attr name com.example.android.PickFood:titleTextStyle
         */
         public static final int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -4061,8 +4075,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable Meter_Replacement.Meter_Replacement:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount Meter_Replacement.Meter_Replacement:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.example.android.PickFood:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.example.android.PickFood:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -4071,17 +4085,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010029, 0x7f01002a
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:expandActivityOverflowButtonDrawable
+          @attr name com.example.android.PickFood:expandActivityOverflowButtonDrawable
         */
         public static final int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -4091,7 +4105,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:initialActivityCount
+          @attr name com.example.android.PickFood:initialActivityCount
         */
         public static final int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -4101,12 +4115,12 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout Meter_Replacement.Meter_Replacement:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout Meter_Replacement.Meter_Replacement:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout Meter_Replacement.Meter_Replacement:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout Meter_Replacement.Meter_Replacement:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_showTitle Meter_Replacement.Meter_Replacement:showTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout Meter_Replacement.Meter_Replacement:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.example.android.PickFood:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.example.android.PickFood:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.example.android.PickFood:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.example.android.PickFood:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_showTitle com.example.android.PickFood:showTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.example.android.PickFood:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -4127,47 +4141,47 @@ containing a value of this type.
         */
         public static final int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonPanelSideLayout
+          @attr name com.example.android.PickFood:buttonPanelSideLayout
         */
         public static final int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:listItemLayout
+          @attr name com.example.android.PickFood:listItemLayout
         */
         public static final int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:listLayout
+          @attr name com.example.android.PickFood:listLayout
         */
         public static final int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:multiChoiceItemLayout
+          @attr name com.example.android.PickFood:multiChoiceItemLayout
         */
         public static final int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#showTitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#showTitle}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
@@ -4177,17 +4191,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:showTitle
+          @attr name com.example.android.PickFood:showTitle
         */
         public static final int AlertDialog_showTitle = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:singleChoiceItemLayout
+          @attr name com.example.android.PickFood:singleChoiceItemLayout
         */
         public static final int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppBarLayout.
@@ -4197,8 +4211,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_elevation Meter_Replacement.Meter_Replacement:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_expanded Meter_Replacement.Meter_Replacement:expanded}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_elevation com.example.android.PickFood:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_expanded com.example.android.PickFood:expanded}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_android_background
            @see #AppBarLayout_elevation
@@ -4214,7 +4228,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppBarLayout_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#elevation}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4226,11 +4240,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:elevation
+          @attr name com.example.android.PickFood:elevation
         */
         public static final int AppBarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expanded}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expanded}
           attribute's value can be found in the {@link #AppBarLayout} array.
 
 
@@ -4240,7 +4254,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:expanded
+          @attr name com.example.android.PickFood:expanded
         */
         public static final int AppBarLayout_expanded = 2;
         /** Attributes that can be used with a AppBarLayoutStates.
@@ -4249,8 +4263,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed Meter_Replacement.Meter_Replacement:state_collapsed}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible Meter_Replacement.Meter_Replacement:state_collapsible}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.example.android.PickFood:state_collapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.example.android.PickFood:state_collapsible}</code></td><td></td></tr>
            </table>
            @see #AppBarLayoutStates_state_collapsed
            @see #AppBarLayoutStates_state_collapsible
@@ -4259,7 +4273,7 @@ containing a value of this type.
             0x7f0100ef, 0x7f0100f0
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#state_collapsed}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#state_collapsed}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4269,11 +4283,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:state_collapsed
+          @attr name com.example.android.PickFood:state_collapsed
         */
         public static final int AppBarLayoutStates_state_collapsed = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#state_collapsible}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#state_collapsible}
           attribute's value can be found in the {@link #AppBarLayoutStates} array.
 
 
@@ -4283,7 +4297,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:state_collapsible
+          @attr name com.example.android.PickFood:state_collapsible
         */
         public static final int AppBarLayoutStates_state_collapsible = 1;
         /** Attributes that can be used with a AppBarLayout_Layout.
@@ -4292,8 +4306,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags Meter_Replacement.Meter_Replacement:layout_scrollFlags}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator Meter_Replacement.Meter_Replacement:layout_scrollInterpolator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.example.android.PickFood:layout_scrollFlags}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.example.android.PickFood:layout_scrollInterpolator}</code></td><td></td></tr>
            </table>
            @see #AppBarLayout_Layout_layout_scrollFlags
            @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -4302,7 +4316,7 @@ containing a value of this type.
             0x7f0100f1, 0x7f0100f2
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_scrollFlags}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_scrollFlags}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
@@ -4318,17 +4332,17 @@ containing a value of this type.
 <tr><td><code>enterAlwaysCollapsed</code></td><td>0x8</td><td></td></tr>
 <tr><td><code>snap</code></td><td>0x10</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:layout_scrollFlags
+          @attr name com.example.android.PickFood:layout_scrollFlags
         */
         public static final int AppBarLayout_Layout_layout_scrollFlags = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_scrollInterpolator}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_scrollInterpolator}
           attribute's value can be found in the {@link #AppBarLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:layout_scrollInterpolator
+          @attr name com.example.android.PickFood:layout_scrollInterpolator
         */
         public static final int AppBarLayout_Layout_layout_scrollInterpolator = 1;
         /** Attributes that can be used with a AppCompatImageView.
@@ -4338,7 +4352,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatImageView_srcCompat Meter_Replacement.Meter_Replacement:srcCompat}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatImageView_srcCompat com.example.android.PickFood:srcCompat}</code></td><td></td></tr>
            </table>
            @see #AppCompatImageView_android_src
            @see #AppCompatImageView_srcCompat
@@ -4353,13 +4367,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatImageView_android_src = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#srcCompat}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#srcCompat}
           attribute's value can be found in the {@link #AppCompatImageView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:srcCompat
+          @attr name com.example.android.PickFood:srcCompat
         */
         public static final int AppCompatImageView_srcCompat = 1;
         /** Attributes that can be used with a AppCompatSeekBar.
@@ -4369,9 +4383,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMark Meter_Replacement.Meter_Replacement:tickMark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint Meter_Replacement.Meter_Replacement:tickMarkTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode Meter_Replacement.Meter_Replacement:tickMarkTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMark com.example.android.PickFood:tickMark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.example.android.PickFood:tickMarkTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.example.android.PickFood:tickMarkTintMode}</code></td><td></td></tr>
            </table>
            @see #AppCompatSeekBar_android_thumb
            @see #AppCompatSeekBar_tickMark
@@ -4388,17 +4402,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatSeekBar_android_thumb = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tickMark}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tickMark}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:tickMark
+          @attr name com.example.android.PickFood:tickMark
         */
         public static final int AppCompatSeekBar_tickMark = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tickMarkTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tickMarkTint}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4409,11 +4423,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tickMarkTint
+          @attr name com.example.android.PickFood:tickMarkTint
         */
         public static final int AppCompatSeekBar_tickMarkTint = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tickMarkTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tickMarkTintMode}
           attribute's value can be found in the {@link #AppCompatSeekBar} array.
 
 
@@ -4430,7 +4444,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:tickMarkTintMode
+          @attr name com.example.android.PickFood:tickMarkTintMode
         */
         public static final int AppCompatSeekBar_tickMarkTintMode = 3;
         /** Attributes that can be used with a AppCompatTextHelper.
@@ -4508,7 +4522,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps Meter_Replacement.Meter_Replacement:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.example.android.PickFood:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -4523,14 +4537,14 @@ containing a value of this type.
         */
         public static final int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAllCaps
+          @attr name com.example.android.PickFood:textAllCaps
         */
         public static final int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a AppCompatTheme.
@@ -4539,121 +4553,121 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarDivider Meter_Replacement.Meter_Replacement:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground Meter_Replacement.Meter_Replacement:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme Meter_Replacement.Meter_Replacement:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSize Meter_Replacement.Meter_Replacement:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle Meter_Replacement.Meter_Replacement:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarStyle Meter_Replacement.Meter_Replacement:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle Meter_Replacement.Meter_Replacement:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle Meter_Replacement.Meter_Replacement:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle Meter_Replacement.Meter_Replacement:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarTheme Meter_Replacement.Meter_Replacement:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme Meter_Replacement.Meter_Replacement:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle Meter_Replacement.Meter_Replacement:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle Meter_Replacement.Meter_Replacement:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance Meter_Replacement.Meter_Replacement:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor Meter_Replacement.Meter_Replacement:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeBackground Meter_Replacement.Meter_Replacement:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle Meter_Replacement.Meter_Replacement:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable Meter_Replacement.Meter_Replacement:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable Meter_Replacement.Meter_Replacement:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable Meter_Replacement.Meter_Replacement:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable Meter_Replacement.Meter_Replacement:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable Meter_Replacement.Meter_Replacement:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle Meter_Replacement.Meter_Replacement:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable Meter_Replacement.Meter_Replacement:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable Meter_Replacement.Meter_Replacement:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground Meter_Replacement.Meter_Replacement:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeStyle Meter_Replacement.Meter_Replacement:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable Meter_Replacement.Meter_Replacement:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle Meter_Replacement.Meter_Replacement:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle Meter_Replacement.Meter_Replacement:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle Meter_Replacement.Meter_Replacement:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle Meter_Replacement.Meter_Replacement:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons Meter_Replacement.Meter_Replacement:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle Meter_Replacement.Meter_Replacement:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme Meter_Replacement.Meter_Replacement:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.example.android.PickFood:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.example.android.PickFood:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.example.android.PickFood:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSize com.example.android.PickFood:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.example.android.PickFood:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.example.android.PickFood:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.example.android.PickFood:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.example.android.PickFood:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.example.android.PickFood:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.example.android.PickFood:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.example.android.PickFood:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.example.android.PickFood:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.example.android.PickFood:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.example.android.PickFood:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.example.android.PickFood:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.example.android.PickFood:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.example.android.PickFood:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.example.android.PickFood:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.example.android.PickFood:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.example.android.PickFood:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.example.android.PickFood:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.example.android.PickFood:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.example.android.PickFood:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.example.android.PickFood:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.example.android.PickFood:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.example.android.PickFood:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.example.android.PickFood:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.example.android.PickFood:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.example.android.PickFood:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.example.android.PickFood:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.example.android.PickFood:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.example.android.PickFood:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.example.android.PickFood:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.example.android.PickFood:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.example.android.PickFood:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle Meter_Replacement.Meter_Replacement:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle Meter_Replacement.Meter_Replacement:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle Meter_Replacement.Meter_Replacement:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle Meter_Replacement.Meter_Replacement:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle Meter_Replacement.Meter_Replacement:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle Meter_Replacement.Meter_Replacement:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle Meter_Replacement.Meter_Replacement:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyle Meter_Replacement.Meter_Replacement:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall Meter_Replacement.Meter_Replacement:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkboxStyle Meter_Replacement.Meter_Replacement:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle Meter_Replacement.Meter_Replacement:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorAccent Meter_Replacement.Meter_Replacement:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating Meter_Replacement.Meter_Replacement:colorBackgroundFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal Meter_Replacement.Meter_Replacement:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlActivated Meter_Replacement.Meter_Replacement:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight Meter_Replacement.Meter_Replacement:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorControlNormal Meter_Replacement.Meter_Replacement:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimary Meter_Replacement.Meter_Replacement:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark Meter_Replacement.Meter_Replacement:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal Meter_Replacement.Meter_Replacement:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_controlBackground Meter_Replacement.Meter_Replacement:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding Meter_Replacement.Meter_Replacement:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dialogTheme Meter_Replacement.Meter_Replacement:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal Meter_Replacement.Meter_Replacement:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dividerVertical Meter_Replacement.Meter_Replacement:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle Meter_Replacement.Meter_Replacement:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight Meter_Replacement.Meter_Replacement:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextBackground Meter_Replacement.Meter_Replacement:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextColor Meter_Replacement.Meter_Replacement:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_editTextStyle Meter_Replacement.Meter_Replacement:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator Meter_Replacement.Meter_Replacement:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle Meter_Replacement.Meter_Replacement:imageButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator Meter_Replacement.Meter_Replacement:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog Meter_Replacement.Meter_Replacement:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle Meter_Replacement.Meter_Replacement:listMenuViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle Meter_Replacement.Meter_Replacement:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight Meter_Replacement.Meter_Replacement:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge Meter_Replacement.Meter_Replacement:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall Meter_Replacement.Meter_Replacement:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft Meter_Replacement.Meter_Replacement:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight Meter_Replacement.Meter_Replacement:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelBackground Meter_Replacement.Meter_Replacement:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme Meter_Replacement.Meter_Replacement:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth Meter_Replacement.Meter_Replacement:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle Meter_Replacement.Meter_Replacement:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle Meter_Replacement.Meter_Replacement:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle Meter_Replacement.Meter_Replacement:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle Meter_Replacement.Meter_Replacement:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator Meter_Replacement.Meter_Replacement:ratingBarStyleIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall Meter_Replacement.Meter_Replacement:ratingBarStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_searchViewStyle Meter_Replacement.Meter_Replacement:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_seekBarStyle Meter_Replacement.Meter_Replacement:seekBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground Meter_Replacement.Meter_Replacement:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless Meter_Replacement.Meter_Replacement:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle Meter_Replacement.Meter_Replacement:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_spinnerStyle Meter_Replacement.Meter_Replacement:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_switchStyle Meter_Replacement.Meter_Replacement:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu Meter_Replacement.Meter_Replacement:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem Meter_Replacement.Meter_Replacement:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall Meter_Replacement.Meter_Replacement:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader Meter_Replacement.Meter_Replacement:textAppearancePopupMenuHeader}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle Meter_Replacement.Meter_Replacement:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle Meter_Replacement.Meter_Replacement:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu Meter_Replacement.Meter_Replacement:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem Meter_Replacement.Meter_Replacement:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl Meter_Replacement.Meter_Replacement:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle Meter_Replacement.Meter_Replacement:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_toolbarStyle Meter_Replacement.Meter_Replacement:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBar Meter_Replacement.Meter_Replacement:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay Meter_Replacement.Meter_Replacement:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay Meter_Replacement.Meter_Replacement:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor Meter_Replacement.Meter_Replacement:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor Meter_Replacement.Meter_Replacement:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor Meter_Replacement.Meter_Replacement:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor Meter_Replacement.Meter_Replacement:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor Meter_Replacement.Meter_Replacement:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor Meter_Replacement.Meter_Replacement:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTheme_windowNoTitle Meter_Replacement.Meter_Replacement:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.example.android.PickFood:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.example.android.PickFood:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.example.android.PickFood:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.example.android.PickFood:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.example.android.PickFood:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.example.android.PickFood:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.example.android.PickFood:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyle com.example.android.PickFood:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.example.android.PickFood:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.example.android.PickFood:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.example.android.PickFood:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorAccent com.example.android.PickFood:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.example.android.PickFood:colorBackgroundFloating}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.example.android.PickFood:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.example.android.PickFood:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.example.android.PickFood:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.example.android.PickFood:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimary com.example.android.PickFood:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.example.android.PickFood:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.example.android.PickFood:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_controlBackground com.example.android.PickFood:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.example.android.PickFood:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dialogTheme com.example.android.PickFood:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.example.android.PickFood:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dividerVertical com.example.android.PickFood:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.example.android.PickFood:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.example.android.PickFood:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextBackground com.example.android.PickFood:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextColor com.example.android.PickFood:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_editTextStyle com.example.android.PickFood:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.example.android.PickFood:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.example.android.PickFood:imageButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.example.android.PickFood:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.example.android.PickFood:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.example.android.PickFood:listMenuViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.example.android.PickFood:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.example.android.PickFood:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.example.android.PickFood:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.example.android.PickFood:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.example.android.PickFood:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.example.android.PickFood:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelBackground com.example.android.PickFood:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.example.android.PickFood:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.example.android.PickFood:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.example.android.PickFood:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.example.android.PickFood:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.example.android.PickFood:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.example.android.PickFood:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.example.android.PickFood:ratingBarStyleIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.example.android.PickFood:ratingBarStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.example.android.PickFood:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.example.android.PickFood:seekBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.example.android.PickFood:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.example.android.PickFood:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.example.android.PickFood:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.example.android.PickFood:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_switchStyle com.example.android.PickFood:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.example.android.PickFood:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.example.android.PickFood:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.example.android.PickFood:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.example.android.PickFood:textAppearancePopupMenuHeader}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.example.android.PickFood:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.example.android.PickFood:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.example.android.PickFood:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.example.android.PickFood:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.example.android.PickFood:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.example.android.PickFood:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.example.android.PickFood:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBar com.example.android.PickFood:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.example.android.PickFood:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.example.android.PickFood:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.example.android.PickFood:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.example.android.PickFood:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.example.android.PickFood:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.example.android.PickFood:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.example.android.PickFood:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.example.android.PickFood:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.example.android.PickFood:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #AppCompatTheme_actionBarDivider
            @see #AppCompatTheme_actionBarItemBackground
@@ -4803,37 +4817,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100a4, 0x7f0100a5, 0x7f0100a6
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarDivider
+          @attr name com.example.android.PickFood:actionBarDivider
         */
         public static final int AppCompatTheme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarItemBackground
+          @attr name com.example.android.PickFood:actionBarItemBackground
         */
         public static final int AppCompatTheme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarPopupTheme
+          @attr name com.example.android.PickFood:actionBarPopupTheme
         */
         public static final int AppCompatTheme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarSize}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4853,111 +4867,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:actionBarSize
+          @attr name com.example.android.PickFood:actionBarSize
         */
         public static final int AppCompatTheme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarSplitStyle
+          @attr name com.example.android.PickFood:actionBarSplitStyle
         */
         public static final int AppCompatTheme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarStyle
+          @attr name com.example.android.PickFood:actionBarStyle
         */
         public static final int AppCompatTheme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarTabBarStyle
+          @attr name com.example.android.PickFood:actionBarTabBarStyle
         */
         public static final int AppCompatTheme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarTabStyle
+          @attr name com.example.android.PickFood:actionBarTabStyle
         */
         public static final int AppCompatTheme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarTabTextStyle
+          @attr name com.example.android.PickFood:actionBarTabTextStyle
         */
         public static final int AppCompatTheme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarTheme
+          @attr name com.example.android.PickFood:actionBarTheme
         */
         public static final int AppCompatTheme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionBarWidgetTheme
+          @attr name com.example.android.PickFood:actionBarWidgetTheme
         */
         public static final int AppCompatTheme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionButtonStyle
+          @attr name com.example.android.PickFood:actionButtonStyle
         */
         public static final int AppCompatTheme_actionButtonStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionDropDownStyle
+          @attr name com.example.android.PickFood:actionDropDownStyle
         */
         public static final int AppCompatTheme_actionDropDownStyle = 46;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionMenuTextAppearance
+          @attr name com.example.android.PickFood:actionMenuTextAppearance
         */
         public static final int AppCompatTheme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -4965,181 +4979,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionMenuTextColor
+          @attr name com.example.android.PickFood:actionMenuTextColor
         */
         public static final int AppCompatTheme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeBackground
+          @attr name com.example.android.PickFood:actionModeBackground
         */
         public static final int AppCompatTheme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeCloseButtonStyle
+          @attr name com.example.android.PickFood:actionModeCloseButtonStyle
         */
         public static final int AppCompatTheme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeCloseDrawable
+          @attr name com.example.android.PickFood:actionModeCloseDrawable
         */
         public static final int AppCompatTheme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeCopyDrawable
+          @attr name com.example.android.PickFood:actionModeCopyDrawable
         */
         public static final int AppCompatTheme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeCutDrawable
+          @attr name com.example.android.PickFood:actionModeCutDrawable
         */
         public static final int AppCompatTheme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeFindDrawable
+          @attr name com.example.android.PickFood:actionModeFindDrawable
         */
         public static final int AppCompatTheme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModePasteDrawable
+          @attr name com.example.android.PickFood:actionModePasteDrawable
         */
         public static final int AppCompatTheme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModePopupWindowStyle
+          @attr name com.example.android.PickFood:actionModePopupWindowStyle
         */
         public static final int AppCompatTheme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeSelectAllDrawable
+          @attr name com.example.android.PickFood:actionModeSelectAllDrawable
         */
         public static final int AppCompatTheme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeShareDrawable
+          @attr name com.example.android.PickFood:actionModeShareDrawable
         */
         public static final int AppCompatTheme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeSplitBackground
+          @attr name com.example.android.PickFood:actionModeSplitBackground
         */
         public static final int AppCompatTheme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeStyle
+          @attr name com.example.android.PickFood:actionModeStyle
         */
         public static final int AppCompatTheme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionModeWebSearchDrawable
+          @attr name com.example.android.PickFood:actionModeWebSearchDrawable
         */
         public static final int AppCompatTheme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionOverflowButtonStyle
+          @attr name com.example.android.PickFood:actionOverflowButtonStyle
         */
         public static final int AppCompatTheme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionOverflowMenuStyle
+          @attr name com.example.android.PickFood:actionOverflowMenuStyle
         */
         public static final int AppCompatTheme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:activityChooserViewStyle
+          @attr name com.example.android.PickFood:activityChooserViewStyle
         */
         public static final int AppCompatTheme_activityChooserViewStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:alertDialogButtonGroupStyle
+          @attr name com.example.android.PickFood:alertDialogButtonGroupStyle
         */
         public static final int AppCompatTheme_alertDialogButtonGroupStyle = 94;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5149,27 +5163,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:alertDialogCenterButtons
+          @attr name com.example.android.PickFood:alertDialogCenterButtons
         */
         public static final int AppCompatTheme_alertDialogCenterButtons = 95;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:alertDialogStyle
+          @attr name com.example.android.PickFood:alertDialogStyle
         */
         public static final int AppCompatTheme_alertDialogStyle = 93;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:alertDialogTheme
+          @attr name com.example.android.PickFood:alertDialogTheme
         */
         public static final int AppCompatTheme_alertDialogTheme = 96;
         /**
@@ -5185,117 +5199,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int AppCompatTheme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:autoCompleteTextViewStyle
+          @attr name com.example.android.PickFood:autoCompleteTextViewStyle
         */
         public static final int AppCompatTheme_autoCompleteTextViewStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:borderlessButtonStyle
+          @attr name com.example.android.PickFood:borderlessButtonStyle
         */
         public static final int AppCompatTheme_borderlessButtonStyle = 55;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonBarButtonStyle
+          @attr name com.example.android.PickFood:buttonBarButtonStyle
         */
         public static final int AppCompatTheme_buttonBarButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonBarNegativeButtonStyle
+          @attr name com.example.android.PickFood:buttonBarNegativeButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNegativeButtonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonBarNeutralButtonStyle
+          @attr name com.example.android.PickFood:buttonBarNeutralButtonStyle
         */
         public static final int AppCompatTheme_buttonBarNeutralButtonStyle = 100;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonBarPositiveButtonStyle
+          @attr name com.example.android.PickFood:buttonBarPositiveButtonStyle
         */
         public static final int AppCompatTheme_buttonBarPositiveButtonStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonBarStyle
+          @attr name com.example.android.PickFood:buttonBarStyle
         */
         public static final int AppCompatTheme_buttonBarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonStyle
+          @attr name com.example.android.PickFood:buttonStyle
         */
         public static final int AppCompatTheme_buttonStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:buttonStyleSmall
+          @attr name com.example.android.PickFood:buttonStyleSmall
         */
         public static final int AppCompatTheme_buttonStyleSmall = 103;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:checkboxStyle
+          @attr name com.example.android.PickFood:checkboxStyle
         */
         public static final int AppCompatTheme_checkboxStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:checkedTextViewStyle
+          @attr name com.example.android.PickFood:checkedTextViewStyle
         */
         public static final int AppCompatTheme_checkedTextViewStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorAccent}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5306,11 +5320,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorAccent
+          @attr name com.example.android.PickFood:colorAccent
         */
         public static final int AppCompatTheme_colorAccent = 85;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorBackgroundFloating}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorBackgroundFloating}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5321,11 +5335,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorBackgroundFloating
+          @attr name com.example.android.PickFood:colorBackgroundFloating
         */
         public static final int AppCompatTheme_colorBackgroundFloating = 92;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5336,11 +5350,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorButtonNormal
+          @attr name com.example.android.PickFood:colorButtonNormal
         */
         public static final int AppCompatTheme_colorButtonNormal = 89;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5351,11 +5365,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorControlActivated
+          @attr name com.example.android.PickFood:colorControlActivated
         */
         public static final int AppCompatTheme_colorControlActivated = 87;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5366,11 +5380,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorControlHighlight
+          @attr name com.example.android.PickFood:colorControlHighlight
         */
         public static final int AppCompatTheme_colorControlHighlight = 88;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5381,11 +5395,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorControlNormal
+          @attr name com.example.android.PickFood:colorControlNormal
         */
         public static final int AppCompatTheme_colorControlNormal = 86;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorPrimary}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5396,11 +5410,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorPrimary
+          @attr name com.example.android.PickFood:colorPrimary
         */
         public static final int AppCompatTheme_colorPrimary = 83;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5411,11 +5425,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorPrimaryDark
+          @attr name com.example.android.PickFood:colorPrimaryDark
         */
         public static final int AppCompatTheme_colorPrimaryDark = 84;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5426,21 +5440,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:colorSwitchThumbNormal
+          @attr name com.example.android.PickFood:colorSwitchThumbNormal
         */
         public static final int AppCompatTheme_colorSwitchThumbNormal = 90;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#controlBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:controlBackground
+          @attr name com.example.android.PickFood:controlBackground
         */
         public static final int AppCompatTheme_controlBackground = 91;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5452,51 +5466,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:dialogPreferredPadding
+          @attr name com.example.android.PickFood:dialogPreferredPadding
         */
         public static final int AppCompatTheme_dialogPreferredPadding = 44;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dialogTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:dialogTheme
+          @attr name com.example.android.PickFood:dialogTheme
         */
         public static final int AppCompatTheme_dialogTheme = 43;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:dividerHorizontal
+          @attr name com.example.android.PickFood:dividerHorizontal
         */
         public static final int AppCompatTheme_dividerHorizontal = 57;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dividerVertical}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:dividerVertical
+          @attr name com.example.android.PickFood:dividerVertical
         */
         public static final int AppCompatTheme_dividerVertical = 56;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:dropDownListViewStyle
+          @attr name com.example.android.PickFood:dropDownListViewStyle
         */
         public static final int AppCompatTheme_dropDownListViewStyle = 75;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5508,21 +5522,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:dropdownListPreferredItemHeight
+          @attr name com.example.android.PickFood:dropdownListPreferredItemHeight
         */
         public static final int AppCompatTheme_dropdownListPreferredItemHeight = 47;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#editTextBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:editTextBackground
+          @attr name com.example.android.PickFood:editTextBackground
         */
         public static final int AppCompatTheme_editTextBackground = 64;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#editTextColor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5530,81 +5544,81 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:editTextColor
+          @attr name com.example.android.PickFood:editTextColor
         */
         public static final int AppCompatTheme_editTextColor = 63;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#editTextStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:editTextStyle
+          @attr name com.example.android.PickFood:editTextStyle
         */
         public static final int AppCompatTheme_editTextStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:homeAsUpIndicator
+          @attr name com.example.android.PickFood:homeAsUpIndicator
         */
         public static final int AppCompatTheme_homeAsUpIndicator = 49;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#imageButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#imageButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:imageButtonStyle
+          @attr name com.example.android.PickFood:imageButtonStyle
         */
         public static final int AppCompatTheme_imageButtonStyle = 65;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:listChoiceBackgroundIndicator
+          @attr name com.example.android.PickFood:listChoiceBackgroundIndicator
         */
         public static final int AppCompatTheme_listChoiceBackgroundIndicator = 82;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:listDividerAlertDialog
+          @attr name com.example.android.PickFood:listDividerAlertDialog
         */
         public static final int AppCompatTheme_listDividerAlertDialog = 45;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listMenuViewStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listMenuViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:listMenuViewStyle
+          @attr name com.example.android.PickFood:listMenuViewStyle
         */
         public static final int AppCompatTheme_listMenuViewStyle = 114;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:listPopupWindowStyle
+          @attr name com.example.android.PickFood:listPopupWindowStyle
         */
         public static final int AppCompatTheme_listPopupWindowStyle = 76;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5616,11 +5630,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:listPreferredItemHeight
+          @attr name com.example.android.PickFood:listPreferredItemHeight
         */
         public static final int AppCompatTheme_listPreferredItemHeight = 70;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5632,11 +5646,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:listPreferredItemHeightLarge
+          @attr name com.example.android.PickFood:listPreferredItemHeightLarge
         */
         public static final int AppCompatTheme_listPreferredItemHeightLarge = 72;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5648,11 +5662,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:listPreferredItemHeightSmall
+          @attr name com.example.android.PickFood:listPreferredItemHeightSmall
         */
         public static final int AppCompatTheme_listPreferredItemHeightSmall = 71;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5664,11 +5678,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:listPreferredItemPaddingLeft
+          @attr name com.example.android.PickFood:listPreferredItemPaddingLeft
         */
         public static final int AppCompatTheme_listPreferredItemPaddingLeft = 73;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5680,31 +5694,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:listPreferredItemPaddingRight
+          @attr name com.example.android.PickFood:listPreferredItemPaddingRight
         */
         public static final int AppCompatTheme_listPreferredItemPaddingRight = 74;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#panelBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:panelBackground
+          @attr name com.example.android.PickFood:panelBackground
         */
         public static final int AppCompatTheme_panelBackground = 79;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:panelMenuListTheme
+          @attr name com.example.android.PickFood:panelMenuListTheme
         */
         public static final int AppCompatTheme_panelMenuListTheme = 81;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5716,211 +5730,211 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:panelMenuListWidth
+          @attr name com.example.android.PickFood:panelMenuListWidth
         */
         public static final int AppCompatTheme_panelMenuListWidth = 80;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:popupMenuStyle
+          @attr name com.example.android.PickFood:popupMenuStyle
         */
         public static final int AppCompatTheme_popupMenuStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:popupWindowStyle
+          @attr name com.example.android.PickFood:popupWindowStyle
         */
         public static final int AppCompatTheme_popupWindowStyle = 62;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:radioButtonStyle
+          @attr name com.example.android.PickFood:radioButtonStyle
         */
         public static final int AppCompatTheme_radioButtonStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:ratingBarStyle
+          @attr name com.example.android.PickFood:ratingBarStyle
         */
         public static final int AppCompatTheme_ratingBarStyle = 108;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#ratingBarStyleIndicator}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#ratingBarStyleIndicator}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:ratingBarStyleIndicator
+          @attr name com.example.android.PickFood:ratingBarStyleIndicator
         */
         public static final int AppCompatTheme_ratingBarStyleIndicator = 109;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#ratingBarStyleSmall}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#ratingBarStyleSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:ratingBarStyleSmall
+          @attr name com.example.android.PickFood:ratingBarStyleSmall
         */
         public static final int AppCompatTheme_ratingBarStyleSmall = 110;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:searchViewStyle
+          @attr name com.example.android.PickFood:searchViewStyle
         */
         public static final int AppCompatTheme_searchViewStyle = 69;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#seekBarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#seekBarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:seekBarStyle
+          @attr name com.example.android.PickFood:seekBarStyle
         */
         public static final int AppCompatTheme_seekBarStyle = 111;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:selectableItemBackground
+          @attr name com.example.android.PickFood:selectableItemBackground
         */
         public static final int AppCompatTheme_selectableItemBackground = 53;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:selectableItemBackgroundBorderless
+          @attr name com.example.android.PickFood:selectableItemBackgroundBorderless
         */
         public static final int AppCompatTheme_selectableItemBackgroundBorderless = 54;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:spinnerDropDownItemStyle
+          @attr name com.example.android.PickFood:spinnerDropDownItemStyle
         */
         public static final int AppCompatTheme_spinnerDropDownItemStyle = 48;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:spinnerStyle
+          @attr name com.example.android.PickFood:spinnerStyle
         */
         public static final int AppCompatTheme_spinnerStyle = 112;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#switchStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:switchStyle
+          @attr name com.example.android.PickFood:switchStyle
         */
         public static final int AppCompatTheme_switchStyle = 113;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearanceLargePopupMenu
+          @attr name com.example.android.PickFood:textAppearanceLargePopupMenu
         */
         public static final int AppCompatTheme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearanceListItem
+          @attr name com.example.android.PickFood:textAppearanceListItem
         */
         public static final int AppCompatTheme_textAppearanceListItem = 77;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearanceListItemSmall
+          @attr name com.example.android.PickFood:textAppearanceListItemSmall
         */
         public static final int AppCompatTheme_textAppearanceListItemSmall = 78;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearancePopupMenuHeader}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearancePopupMenuHeader}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearancePopupMenuHeader
+          @attr name com.example.android.PickFood:textAppearancePopupMenuHeader
         */
         public static final int AppCompatTheme_textAppearancePopupMenuHeader = 42;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearanceSearchResultSubtitle
+          @attr name com.example.android.PickFood:textAppearanceSearchResultSubtitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultSubtitle = 67;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearanceSearchResultTitle
+          @attr name com.example.android.PickFood:textAppearanceSearchResultTitle
         */
         public static final int AppCompatTheme_textAppearanceSearchResultTitle = 66;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAppearanceSmallPopupMenu
+          @attr name com.example.android.PickFood:textAppearanceSmallPopupMenu
         */
         public static final int AppCompatTheme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5928,11 +5942,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textColorAlertDialogListItem
+          @attr name com.example.android.PickFood:textColorAlertDialogListItem
         */
         public static final int AppCompatTheme_textColorAlertDialogListItem = 97;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5940,31 +5954,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:textColorSearchUrl
+          @attr name com.example.android.PickFood:textColorSearchUrl
         */
         public static final int AppCompatTheme_textColorSearchUrl = 68;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:toolbarNavigationButtonStyle
+          @attr name com.example.android.PickFood:toolbarNavigationButtonStyle
         */
         public static final int AppCompatTheme_toolbarNavigationButtonStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:toolbarStyle
+          @attr name com.example.android.PickFood:toolbarStyle
         */
         public static final int AppCompatTheme_toolbarStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowActionBar}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5974,11 +5988,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowActionBar
+          @attr name com.example.android.PickFood:windowActionBar
         */
         public static final int AppCompatTheme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -5988,11 +6002,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowActionBarOverlay
+          @attr name com.example.android.PickFood:windowActionBarOverlay
         */
         public static final int AppCompatTheme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6002,11 +6016,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowActionModeOverlay
+          @attr name com.example.android.PickFood:windowActionModeOverlay
         */
         public static final int AppCompatTheme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6021,11 +6035,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowFixedHeightMajor
+          @attr name com.example.android.PickFood:windowFixedHeightMajor
         */
         public static final int AppCompatTheme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6040,11 +6054,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowFixedHeightMinor
+          @attr name com.example.android.PickFood:windowFixedHeightMinor
         */
         public static final int AppCompatTheme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6059,11 +6073,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowFixedWidthMajor
+          @attr name com.example.android.PickFood:windowFixedWidthMajor
         */
         public static final int AppCompatTheme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6078,11 +6092,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowFixedWidthMinor
+          @attr name com.example.android.PickFood:windowFixedWidthMinor
         */
         public static final int AppCompatTheme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6097,11 +6111,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowMinWidthMajor
+          @attr name com.example.android.PickFood:windowMinWidthMajor
         */
         public static final int AppCompatTheme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6116,11 +6130,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowMinWidthMinor
+          @attr name com.example.android.PickFood:windowMinWidthMinor
         */
         public static final int AppCompatTheme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #AppCompatTheme} array.
 
 
@@ -6130,7 +6144,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:windowNoTitle
+          @attr name com.example.android.PickFood:windowNoTitle
         */
         public static final int AppCompatTheme_windowNoTitle = 3;
         /** Attributes that can be used with a BottomNavigationView.
@@ -6139,11 +6153,11 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomNavigationView_elevation Meter_Replacement.Meter_Replacement:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemBackground Meter_Replacement.Meter_Replacement:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemIconTint Meter_Replacement.Meter_Replacement:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_itemTextColor Meter_Replacement.Meter_Replacement:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomNavigationView_menu Meter_Replacement.Meter_Replacement:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_elevation com.example.android.PickFood:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemBackground com.example.android.PickFood:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemIconTint com.example.android.PickFood:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_itemTextColor com.example.android.PickFood:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomNavigationView_menu com.example.android.PickFood:menu}</code></td><td></td></tr>
            </table>
            @see #BottomNavigationView_elevation
            @see #BottomNavigationView_itemBackground
@@ -6156,7 +6170,7 @@ containing a value of this type.
             0x7f01011c
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#elevation}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6168,21 +6182,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:elevation
+          @attr name com.example.android.PickFood:elevation
         */
         public static final int BottomNavigationView_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemBackground}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:itemBackground
+          @attr name com.example.android.PickFood:itemBackground
         */
         public static final int BottomNavigationView_itemBackground = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemIconTint}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6193,11 +6207,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:itemIconTint
+          @attr name com.example.android.PickFood:itemIconTint
         */
         public static final int BottomNavigationView_itemIconTint = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemTextColor}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
@@ -6208,17 +6222,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:itemTextColor
+          @attr name com.example.android.PickFood:itemTextColor
         */
         public static final int BottomNavigationView_itemTextColor = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#menu}
           attribute's value can be found in the {@link #BottomNavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:menu
+          @attr name com.example.android.PickFood:menu
         */
         public static final int BottomNavigationView_menu = 1;
         /** Attributes that can be used with a BottomSheetBehavior_Layout.
@@ -6227,9 +6241,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable Meter_Replacement.Meter_Replacement:behavior_hideable}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight Meter_Replacement.Meter_Replacement:behavior_peekHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed Meter_Replacement.Meter_Replacement:behavior_skipCollapsed}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.example.android.PickFood:behavior_hideable}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.example.android.PickFood:behavior_peekHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.example.android.PickFood:behavior_skipCollapsed}</code></td><td></td></tr>
            </table>
            @see #BottomSheetBehavior_Layout_behavior_hideable
            @see #BottomSheetBehavior_Layout_behavior_peekHeight
@@ -6239,7 +6253,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100f3, 0x7f0100f4, 0x7f0100f5
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#behavior_hideable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#behavior_hideable}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6249,11 +6263,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:behavior_hideable
+          @attr name com.example.android.PickFood:behavior_hideable
         */
         public static final int BottomSheetBehavior_Layout_behavior_hideable = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#behavior_peekHeight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#behavior_peekHeight}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6273,11 +6287,11 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>auto</code></td><td>-1</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:behavior_peekHeight
+          @attr name com.example.android.PickFood:behavior_peekHeight
         */
         public static final int BottomSheetBehavior_Layout_behavior_peekHeight = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#behavior_skipCollapsed}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#behavior_skipCollapsed}
           attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
 
 
@@ -6287,7 +6301,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:behavior_skipCollapsed
+          @attr name com.example.android.PickFood:behavior_skipCollapsed
         */
         public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed = 2;
         /** Attributes that can be used with a ButtonBarLayout.
@@ -6296,7 +6310,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ButtonBarLayout_allowStacking Meter_Replacement.Meter_Replacement:allowStacking}</code></td><td></td></tr>
+           <tr><td><code>{@link #ButtonBarLayout_allowStacking com.example.android.PickFood:allowStacking}</code></td><td></td></tr>
            </table>
            @see #ButtonBarLayout_allowStacking
          */
@@ -6304,7 +6318,7 @@ containing a value of this type.
             0x7f0100a7
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#allowStacking}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#allowStacking}
           attribute's value can be found in the {@link #ButtonBarLayout} array.
 
 
@@ -6314,7 +6328,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:allowStacking
+          @attr name com.example.android.PickFood:allowStacking
         */
         public static final int ButtonBarLayout_allowStacking = 0;
         /** Attributes that can be used with a CollapsingToolbarLayout.
@@ -6323,22 +6337,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity Meter_Replacement.Meter_Replacement:collapsedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance Meter_Replacement.Meter_Replacement:collapsedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim Meter_Replacement.Meter_Replacement:contentScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity Meter_Replacement.Meter_Replacement:expandedTitleGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin Meter_Replacement.Meter_Replacement:expandedTitleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom Meter_Replacement.Meter_Replacement:expandedTitleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd Meter_Replacement.Meter_Replacement:expandedTitleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart Meter_Replacement.Meter_Replacement:expandedTitleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop Meter_Replacement.Meter_Replacement:expandedTitleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance Meter_Replacement.Meter_Replacement:expandedTitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration Meter_Replacement.Meter_Replacement:scrimAnimationDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger Meter_Replacement.Meter_Replacement:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim Meter_Replacement.Meter_Replacement:statusBarScrim}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_title Meter_Replacement.Meter_Replacement:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled Meter_Replacement.Meter_Replacement:titleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId Meter_Replacement.Meter_Replacement:toolbarId}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.example.android.PickFood:collapsedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.example.android.PickFood:collapsedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.example.android.PickFood:contentScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.example.android.PickFood:expandedTitleGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.example.android.PickFood:expandedTitleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.example.android.PickFood:expandedTitleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.example.android.PickFood:expandedTitleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.example.android.PickFood:expandedTitleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.example.android.PickFood:expandedTitleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.example.android.PickFood:expandedTitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.example.android.PickFood:scrimAnimationDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.example.android.PickFood:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.example.android.PickFood:statusBarScrim}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_title com.example.android.PickFood:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.example.android.PickFood:titleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.example.android.PickFood:toolbarId}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_collapsedTitleGravity
            @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -6364,7 +6378,7 @@ containing a value of this type.
             0x7f010101, 0x7f010102, 0x7f010103, 0x7f010104
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#collapsedTitleGravity}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#collapsedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6385,21 +6399,21 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:collapsedTitleGravity
+          @attr name com.example.android.PickFood:collapsedTitleGravity
         */
         public static final int CollapsingToolbarLayout_collapsedTitleGravity = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#collapsedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#collapsedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:collapsedTitleTextAppearance
+          @attr name com.example.android.PickFood:collapsedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentScrim}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6410,11 +6424,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentScrim
+          @attr name com.example.android.PickFood:contentScrim
         */
         public static final int CollapsingToolbarLayout_contentScrim = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleGravity}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleGravity}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6435,11 +6449,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleGravity
+          @attr name com.example.android.PickFood:expandedTitleGravity
         */
         public static final int CollapsingToolbarLayout_expandedTitleGravity = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleMargin}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleMargin}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6451,11 +6465,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleMargin
+          @attr name com.example.android.PickFood:expandedTitleMargin
         */
         public static final int CollapsingToolbarLayout_expandedTitleMargin = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleMarginBottom}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleMarginBottom}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6467,11 +6481,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleMarginBottom
+          @attr name com.example.android.PickFood:expandedTitleMarginBottom
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginBottom = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleMarginEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleMarginEnd}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6483,11 +6497,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleMarginEnd
+          @attr name com.example.android.PickFood:expandedTitleMarginEnd
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginEnd = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleMarginStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleMarginStart}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6499,11 +6513,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleMarginStart
+          @attr name com.example.android.PickFood:expandedTitleMarginStart
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginStart = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleMarginTop}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleMarginTop}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6515,21 +6529,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleMarginTop
+          @attr name com.example.android.PickFood:expandedTitleMarginTop
         */
         public static final int CollapsingToolbarLayout_expandedTitleMarginTop = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#expandedTitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#expandedTitleTextAppearance}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:expandedTitleTextAppearance
+          @attr name com.example.android.PickFood:expandedTitleTextAppearance
         */
         public static final int CollapsingToolbarLayout_expandedTitleTextAppearance = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#scrimAnimationDuration}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#scrimAnimationDuration}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6539,11 +6553,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:scrimAnimationDuration
+          @attr name com.example.android.PickFood:scrimAnimationDuration
         */
         public static final int CollapsingToolbarLayout_scrimAnimationDuration = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#scrimVisibleHeightTrigger}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#scrimVisibleHeightTrigger}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6555,11 +6569,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:scrimVisibleHeightTrigger
+          @attr name com.example.android.PickFood:scrimVisibleHeightTrigger
         */
         public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#statusBarScrim}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#statusBarScrim}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6570,11 +6584,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:statusBarScrim
+          @attr name com.example.android.PickFood:statusBarScrim
         */
         public static final int CollapsingToolbarLayout_statusBarScrim = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#title}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#title}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6584,11 +6598,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:title
+          @attr name com.example.android.PickFood:title
         */
         public static final int CollapsingToolbarLayout_title = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleEnabled}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleEnabled}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
@@ -6598,17 +6612,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleEnabled
+          @attr name com.example.android.PickFood:titleEnabled
         */
         public static final int CollapsingToolbarLayout_titleEnabled = 15;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#toolbarId}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#toolbarId}
           attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:toolbarId
+          @attr name com.example.android.PickFood:toolbarId
         */
         public static final int CollapsingToolbarLayout_toolbarId = 10;
         /** Attributes that can be used with a CollapsingToolbarLayout_Layout.
@@ -6617,8 +6631,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode Meter_Replacement.Meter_Replacement:layout_collapseMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier Meter_Replacement.Meter_Replacement:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.example.android.PickFood:layout_collapseMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.example.android.PickFood:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
            </table>
            @see #CollapsingToolbarLayout_Layout_layout_collapseMode
            @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -6627,7 +6641,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010105, 0x7f010106
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_collapseMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_collapseMode}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6641,11 +6655,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>pin</code></td><td>1</td><td></td></tr>
 <tr><td><code>parallax</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:layout_collapseMode
+          @attr name com.example.android.PickFood:layout_collapseMode
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseMode = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_collapseParallaxMultiplier}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_collapseParallaxMultiplier}
           attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
 
 
@@ -6655,7 +6669,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:layout_collapseParallaxMultiplier
+          @attr name com.example.android.PickFood:layout_collapseParallaxMultiplier
         */
         public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = 1;
         /** Attributes that can be used with a ColorStateListItem.
@@ -6664,7 +6678,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ColorStateListItem_alpha Meter_Replacement.Meter_Replacement:alpha}</code></td><td></td></tr>
+           <tr><td><code>{@link #ColorStateListItem_alpha com.example.android.PickFood:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
            <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
            </table>
@@ -6676,7 +6690,7 @@ containing a value of this type.
             0x010101a5, 0x0101031f, 0x7f0100a8
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#alpha}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#alpha}
           attribute's value can be found in the {@link #ColorStateListItem} array.
 
 
@@ -6686,7 +6700,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:alpha
+          @attr name com.example.android.PickFood:alpha
         */
         public static final int ColorStateListItem_alpha = 2;
         /**
@@ -6708,8 +6722,8 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint Meter_Replacement.Meter_Replacement:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode Meter_Replacement.Meter_Replacement:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.example.android.PickFood:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.example.android.PickFood:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -6725,7 +6739,7 @@ containing a value of this type.
         */
         public static final int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6736,11 +6750,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:buttonTint
+          @attr name com.example.android.PickFood:buttonTint
         */
         public static final int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -6756,7 +6770,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:buttonTintMode
+          @attr name com.example.android.PickFood:buttonTintMode
         */
         public static final int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a CoordinatorLayout.
@@ -6765,8 +6779,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CoordinatorLayout_keylines Meter_Replacement.Meter_Replacement:keylines}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground Meter_Replacement.Meter_Replacement:statusBarBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_keylines com.example.android.PickFood:keylines}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.example.android.PickFood:statusBarBackground}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_keylines
            @see #CoordinatorLayout_statusBarBackground
@@ -6775,23 +6789,23 @@ containing a value of this type.
             0x7f010107, 0x7f010108
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#keylines}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#keylines}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:keylines
+          @attr name com.example.android.PickFood:keylines
         */
         public static final int CoordinatorLayout_keylines = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#statusBarBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#statusBarBackground}
           attribute's value can be found in the {@link #CoordinatorLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:statusBarBackground
+          @attr name com.example.android.PickFood:statusBarBackground
         */
         public static final int CoordinatorLayout_statusBarBackground = 1;
         /** Attributes that can be used with a CoordinatorLayout_Layout.
@@ -6801,12 +6815,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor Meter_Replacement.Meter_Replacement:layout_anchor}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity Meter_Replacement.Meter_Replacement:layout_anchorGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior Meter_Replacement.Meter_Replacement:layout_behavior}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges Meter_Replacement.Meter_Replacement:layout_dodgeInsetEdges}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge Meter_Replacement.Meter_Replacement:layout_insetEdge}</code></td><td></td></tr>
-           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline Meter_Replacement.Meter_Replacement:layout_keyline}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.example.android.PickFood:layout_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.example.android.PickFood:layout_anchorGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.example.android.PickFood:layout_behavior}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.example.android.PickFood:layout_dodgeInsetEdges}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.example.android.PickFood:layout_insetEdge}</code></td><td></td></tr>
+           <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.example.android.PickFood:layout_keyline}</code></td><td></td></tr>
            </table>
            @see #CoordinatorLayout_Layout_android_layout_gravity
            @see #CoordinatorLayout_Layout_layout_anchor
@@ -6827,17 +6841,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int CoordinatorLayout_Layout_android_layout_gravity = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_anchor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_anchor}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:layout_anchor
+          @attr name com.example.android.PickFood:layout_anchor
         */
         public static final int CoordinatorLayout_Layout_layout_anchor = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_anchorGravity}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_anchorGravity}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6862,11 +6876,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:layout_anchorGravity
+          @attr name com.example.android.PickFood:layout_anchorGravity
         */
         public static final int CoordinatorLayout_Layout_layout_anchorGravity = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_behavior}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_behavior}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6876,11 +6890,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:layout_behavior
+          @attr name com.example.android.PickFood:layout_behavior
         */
         public static final int CoordinatorLayout_Layout_layout_behavior = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_dodgeInsetEdges}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_dodgeInsetEdges}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6899,11 +6913,11 @@ containing a value of this type.
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 <tr><td><code>all</code></td><td>0x77</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:layout_dodgeInsetEdges
+          @attr name com.example.android.PickFood:layout_dodgeInsetEdges
         */
         public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_insetEdge}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_insetEdge}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6921,11 +6935,11 @@ containing a value of this type.
 <tr><td><code>start</code></td><td>0x00800003</td><td></td></tr>
 <tr><td><code>end</code></td><td>0x00800005</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:layout_insetEdge
+          @attr name com.example.android.PickFood:layout_insetEdge
         */
         public static final int CoordinatorLayout_Layout_layout_insetEdge = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout_keyline}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout_keyline}
           attribute's value can be found in the {@link #CoordinatorLayout_Layout} array.
 
 
@@ -6935,7 +6949,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:layout_keyline
+          @attr name com.example.android.PickFood:layout_keyline
         */
         public static final int CoordinatorLayout_Layout_layout_keyline = 3;
         /** Attributes that can be used with a DesignTheme.
@@ -6944,9 +6958,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme Meter_Replacement.Meter_Replacement:bottomSheetDialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_bottomSheetStyle Meter_Replacement.Meter_Replacement:bottomSheetStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #DesignTheme_textColorError Meter_Replacement.Meter_Replacement:textColorError}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.example.android.PickFood:bottomSheetDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.example.android.PickFood:bottomSheetStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #DesignTheme_textColorError com.example.android.PickFood:textColorError}</code></td><td></td></tr>
            </table>
            @see #DesignTheme_bottomSheetDialogTheme
            @see #DesignTheme_bottomSheetStyle
@@ -6956,27 +6970,27 @@ containing a value of this type.
             0x7f01010f, 0x7f010110, 0x7f010111
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#bottomSheetDialogTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#bottomSheetDialogTheme}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:bottomSheetDialogTheme
+          @attr name com.example.android.PickFood:bottomSheetDialogTheme
         */
         public static final int DesignTheme_bottomSheetDialogTheme = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#bottomSheetStyle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#bottomSheetStyle}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:bottomSheetStyle
+          @attr name com.example.android.PickFood:bottomSheetStyle
         */
         public static final int DesignTheme_bottomSheetStyle = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textColorError}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textColorError}
           attribute's value can be found in the {@link #DesignTheme} array.
 
 
@@ -6987,7 +7001,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:textColorError
+          @attr name com.example.android.PickFood:textColorError
         */
         public static final int DesignTheme_textColorError = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -6996,14 +7010,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength Meter_Replacement.Meter_Replacement:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength Meter_Replacement.Meter_Replacement:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength Meter_Replacement.Meter_Replacement:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color Meter_Replacement.Meter_Replacement:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize Meter_Replacement.Meter_Replacement:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars Meter_Replacement.Meter_Replacement:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars Meter_Replacement.Meter_Replacement:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness Meter_Replacement.Meter_Replacement:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.example.android.PickFood:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.example.android.PickFood:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.example.android.PickFood:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.example.android.PickFood:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.example.android.PickFood:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.example.android.PickFood:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.example.android.PickFood:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.example.android.PickFood:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -7019,7 +7033,7 @@ containing a value of this type.
             0x7f0100af, 0x7f0100b0, 0x7f0100b1, 0x7f0100b2
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7031,11 +7045,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:arrowHeadLength
+          @attr name com.example.android.PickFood:arrowHeadLength
         */
         public static final int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7047,11 +7061,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:arrowShaftLength
+          @attr name com.example.android.PickFood:arrowShaftLength
         */
         public static final int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7063,11 +7077,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:barLength
+          @attr name com.example.android.PickFood:barLength
         */
         public static final int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#color}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7078,11 +7092,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:color
+          @attr name com.example.android.PickFood:color
         */
         public static final int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7094,11 +7108,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:drawableSize
+          @attr name com.example.android.PickFood:drawableSize
         */
         public static final int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7110,11 +7124,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:gapBetweenBars
+          @attr name com.example.android.PickFood:gapBetweenBars
         */
         public static final int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7124,11 +7138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:spinBars
+          @attr name com.example.android.PickFood:spinBars
         */
         public static final int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -7140,7 +7154,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:thickness
+          @attr name com.example.android.PickFood:thickness
         */
         public static final int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a FloatingActionButton.
@@ -7149,14 +7163,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTint Meter_Replacement.Meter_Replacement:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode Meter_Replacement.Meter_Replacement:backgroundTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_borderWidth Meter_Replacement.Meter_Replacement:borderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_elevation Meter_Replacement.Meter_Replacement:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_fabSize Meter_Replacement.Meter_Replacement:fabSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ Meter_Replacement.Meter_Replacement:pressedTranslationZ}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_rippleColor Meter_Replacement.Meter_Replacement:rippleColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #FloatingActionButton_useCompatPadding Meter_Replacement.Meter_Replacement:useCompatPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTint com.example.android.PickFood:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.example.android.PickFood:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_borderWidth com.example.android.PickFood:borderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_elevation com.example.android.PickFood:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_fabSize com.example.android.PickFood:fabSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.example.android.PickFood:pressedTranslationZ}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_rippleColor com.example.android.PickFood:rippleColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.example.android.PickFood:useCompatPadding}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_backgroundTint
            @see #FloatingActionButton_backgroundTintMode
@@ -7172,7 +7186,7 @@ containing a value of this type.
             0x7f010113, 0x7f010114, 0x7f010115, 0x7f010116
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundTint}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7183,11 +7197,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:backgroundTint
+          @attr name com.example.android.PickFood:backgroundTint
         */
         public static final int FloatingActionButton_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7203,11 +7217,11 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:backgroundTintMode
+          @attr name com.example.android.PickFood:backgroundTintMode
         */
         public static final int FloatingActionButton_backgroundTintMode = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#borderWidth}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#borderWidth}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7219,11 +7233,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:borderWidth
+          @attr name com.example.android.PickFood:borderWidth
         */
         public static final int FloatingActionButton_borderWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#elevation}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7235,11 +7249,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:elevation
+          @attr name com.example.android.PickFood:elevation
         */
         public static final int FloatingActionButton_elevation = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#fabSize}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#fabSize}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7253,11 +7267,11 @@ containing a value of this type.
 <tr><td><code>normal</code></td><td>0</td><td></td></tr>
 <tr><td><code>mini</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:fabSize
+          @attr name com.example.android.PickFood:fabSize
         */
         public static final int FloatingActionButton_fabSize = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#pressedTranslationZ}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#pressedTranslationZ}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7269,11 +7283,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:pressedTranslationZ
+          @attr name com.example.android.PickFood:pressedTranslationZ
         */
         public static final int FloatingActionButton_pressedTranslationZ = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#rippleColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#rippleColor}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7284,11 +7298,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:rippleColor
+          @attr name com.example.android.PickFood:rippleColor
         */
         public static final int FloatingActionButton_rippleColor = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#useCompatPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#useCompatPadding}
           attribute's value can be found in the {@link #FloatingActionButton} array.
 
 
@@ -7298,7 +7312,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:useCompatPadding
+          @attr name com.example.android.PickFood:useCompatPadding
         */
         public static final int FloatingActionButton_useCompatPadding = 7;
         /** Attributes that can be used with a FloatingActionButton_Behavior_Layout.
@@ -7307,7 +7321,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide Meter_Replacement.Meter_Replacement:behavior_autoHide}</code></td><td></td></tr>
+           <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.example.android.PickFood:behavior_autoHide}</code></td><td></td></tr>
            </table>
            @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
          */
@@ -7315,7 +7329,7 @@ containing a value of this type.
             0x7f010117
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#behavior_autoHide}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#behavior_autoHide}
           attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
 
 
@@ -7325,7 +7339,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:behavior_autoHide
+          @attr name com.example.android.PickFood:behavior_autoHide
         */
         public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide = 0;
         /** Attributes that can be used with a ForegroundLinearLayout.
@@ -7336,7 +7350,7 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
            <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding Meter_Replacement.Meter_Replacement:foregroundInsidePadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.example.android.PickFood:foregroundInsidePadding}</code></td><td></td></tr>
            </table>
            @see #ForegroundLinearLayout_android_foreground
            @see #ForegroundLinearLayout_android_foregroundGravity
@@ -7358,7 +7372,7 @@ containing a value of this type.
         */
         public static final int ForegroundLinearLayout_android_foregroundGravity = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#foregroundInsidePadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#foregroundInsidePadding}
           attribute's value can be found in the {@link #ForegroundLinearLayout} array.
 
 
@@ -7368,7 +7382,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:foregroundInsidePadding
+          @attr name com.example.android.PickFood:foregroundInsidePadding
         */
         public static final int ForegroundLinearLayout_foregroundInsidePadding = 2;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -7382,10 +7396,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider Meter_Replacement.Meter_Replacement:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding Meter_Replacement.Meter_Replacement:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild Meter_Replacement.Meter_Replacement:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers Meter_Replacement.Meter_Replacement:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.example.android.PickFood:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.example.android.PickFood:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.example.android.PickFood:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.example.android.PickFood:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -7433,17 +7447,17 @@ containing a value of this type.
         */
         public static final int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:divider
+          @attr name com.example.android.PickFood:divider
         */
         public static final int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7455,11 +7469,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:dividerPadding
+          @attr name com.example.android.PickFood:dividerPadding
         */
         public static final int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7469,11 +7483,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:measureWithLargestChild
+          @attr name com.example.android.PickFood:measureWithLargestChild
         */
         public static final int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -7488,7 +7502,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:showDividers
+          @attr name com.example.android.PickFood:showDividers
         */
         public static final int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -7567,9 +7581,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #LoadingImageView_circleCrop Meter_Replacement.Meter_Replacement:circleCrop}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatio Meter_Replacement.Meter_Replacement:imageAspectRatio}</code></td><td></td></tr>
-           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust Meter_Replacement.Meter_Replacement:imageAspectRatioAdjust}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_circleCrop com.example.android.PickFood:circleCrop}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.example.android.PickFood:imageAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.example.android.PickFood:imageAspectRatioAdjust}</code></td><td></td></tr>
            </table>
            @see #LoadingImageView_circleCrop
            @see #LoadingImageView_imageAspectRatio
@@ -7579,7 +7593,7 @@ containing a value of this type.
             0x7f010000, 0x7f010001, 0x7f010002
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#circleCrop}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#circleCrop}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7589,11 +7603,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:circleCrop
+          @attr name com.example.android.PickFood:circleCrop
         */
         public static final int LoadingImageView_circleCrop = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#imageAspectRatio}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#imageAspectRatio}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7603,11 +7617,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:imageAspectRatio
+          @attr name com.example.android.PickFood:imageAspectRatio
         */
         public static final int LoadingImageView_imageAspectRatio = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#imageAspectRatioAdjust}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#imageAspectRatioAdjust}
           attribute's value can be found in the {@link #LoadingImageView} array.
 
 
@@ -7621,7 +7635,7 @@ containing a value of this type.
 <tr><td><code>adjust_width</code></td><td>1</td><td></td></tr>
 <tr><td><code>adjust_height</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:imageAspectRatioAdjust
+          @attr name com.example.android.PickFood:imageAspectRatioAdjust
         */
         public static final int LoadingImageView_imageAspectRatioAdjust = 0;
         /** Attributes that can be used with a MenuGroup.
@@ -7690,9 +7704,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout Meter_Replacement.Meter_Replacement:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass Meter_Replacement.Meter_Replacement:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass Meter_Replacement.Meter_Replacement:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.example.android.PickFood:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.example.android.PickFood:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.example.android.PickFood:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -7706,7 +7720,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction Meter_Replacement.Meter_Replacement:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.example.android.PickFood:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -7734,17 +7748,17 @@ containing a value of this type.
             0x7f0100b9
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:actionLayout
+          @attr name com.example.android.PickFood:actionLayout
         */
         public static final int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7754,11 +7768,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:actionProviderClass
+          @attr name com.example.android.PickFood:actionProviderClass
         */
         public static final int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7768,7 +7782,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:actionViewClass
+          @attr name com.example.android.PickFood:actionViewClass
         */
         public static final int MenuItem_actionViewClass = 15;
         /**
@@ -7850,7 +7864,7 @@ containing a value of this type.
         */
         public static final int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -7866,7 +7880,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:showAsAction
+          @attr name com.example.android.PickFood:showAsAction
         */
         public static final int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -7882,8 +7896,8 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing Meter_Replacement.Meter_Replacement:preserveIconSpacing}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_subMenuArrow Meter_Replacement.Meter_Replacement:subMenuArrow}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.example.android.PickFood:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_subMenuArrow com.example.android.PickFood:subMenuArrow}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -7943,7 +7957,7 @@ containing a value of this type.
         */
         public static final int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -7953,17 +7967,17 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:preserveIconSpacing
+          @attr name com.example.android.PickFood:preserveIconSpacing
         */
         public static final int MenuView_preserveIconSpacing = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subMenuArrow}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subMenuArrow}
           attribute's value can be found in the {@link #MenuView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:subMenuArrow
+          @attr name com.example.android.PickFood:subMenuArrow
         */
         public static final int MenuView_subMenuArrow = 8;
         /** Attributes that can be used with a NavigationView.
@@ -7975,13 +7989,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
            <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_elevation Meter_Replacement.Meter_Replacement:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_headerLayout Meter_Replacement.Meter_Replacement:headerLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemBackground Meter_Replacement.Meter_Replacement:itemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemIconTint Meter_Replacement.Meter_Replacement:itemIconTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextAppearance Meter_Replacement.Meter_Replacement:itemTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_itemTextColor Meter_Replacement.Meter_Replacement:itemTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #NavigationView_menu Meter_Replacement.Meter_Replacement:menu}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_elevation com.example.android.PickFood:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_headerLayout com.example.android.PickFood:headerLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemBackground com.example.android.PickFood:itemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemIconTint com.example.android.PickFood:itemIconTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextAppearance com.example.android.PickFood:itemTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_itemTextColor com.example.android.PickFood:itemTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #NavigationView_menu com.example.android.PickFood:menu}</code></td><td></td></tr>
            </table>
            @see #NavigationView_android_background
            @see #NavigationView_android_fitsSystemWindows
@@ -8018,7 +8032,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int NavigationView_android_maxWidth = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#elevation}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8030,31 +8044,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:elevation
+          @attr name com.example.android.PickFood:elevation
         */
         public static final int NavigationView_elevation = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#headerLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#headerLayout}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:headerLayout
+          @attr name com.example.android.PickFood:headerLayout
         */
         public static final int NavigationView_headerLayout = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemBackground}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:itemBackground
+          @attr name com.example.android.PickFood:itemBackground
         */
         public static final int NavigationView_itemBackground = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemIconTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemIconTint}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8065,21 +8079,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:itemIconTint
+          @attr name com.example.android.PickFood:itemIconTint
         */
         public static final int NavigationView_itemIconTint = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemTextAppearance}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:itemTextAppearance
+          @attr name com.example.android.PickFood:itemTextAppearance
         */
         public static final int NavigationView_itemTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#itemTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#itemTextColor}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
@@ -8090,17 +8104,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:itemTextColor
+          @attr name com.example.android.PickFood:itemTextColor
         */
         public static final int NavigationView_itemTextColor = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#menu}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#menu}
           attribute's value can be found in the {@link #NavigationView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:menu
+          @attr name com.example.android.PickFood:menu
         */
         public static final int NavigationView_menu = 4;
         /** Attributes that can be used with a PopupWindow.
@@ -8111,7 +8125,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor Meter_Replacement.Meter_Replacement:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.example.android.PickFood:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupAnimationStyle
            @see #PopupWindow_android_popupBackground
@@ -8133,7 +8147,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -8143,7 +8157,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:overlapAnchor
+          @attr name com.example.android.PickFood:overlapAnchor
         */
         public static final int PopupWindow_overlapAnchor = 2;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -8152,7 +8166,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor Meter_Replacement.Meter_Replacement:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.example.android.PickFood:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -8160,7 +8174,7 @@ containing a value of this type.
             0x7f0100bd
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -8170,7 +8184,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:state_above_anchor
+          @attr name com.example.android.PickFood:state_above_anchor
         */
         public static final int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a RecycleListView.
@@ -8179,8 +8193,8 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons Meter_Replacement.Meter_Replacement:paddingBottomNoButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle Meter_Replacement.Meter_Replacement:paddingTopNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.example.android.PickFood:paddingBottomNoButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.example.android.PickFood:paddingTopNoTitle}</code></td><td></td></tr>
            </table>
            @see #RecycleListView_paddingBottomNoButtons
            @see #RecycleListView_paddingTopNoTitle
@@ -8189,7 +8203,7 @@ containing a value of this type.
             0x7f0100be, 0x7f0100bf
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#paddingBottomNoButtons}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#paddingBottomNoButtons}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8201,11 +8215,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:paddingBottomNoButtons
+          @attr name com.example.android.PickFood:paddingBottomNoButtons
         */
         public static final int RecycleListView_paddingBottomNoButtons = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#paddingTopNoTitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#paddingTopNoTitle}
           attribute's value can be found in the {@link #RecycleListView} array.
 
 
@@ -8217,7 +8231,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:paddingTopNoTitle
+          @attr name com.example.android.PickFood:paddingTopNoTitle
         */
         public static final int RecycleListView_paddingTopNoTitle = 1;
         /** Attributes that can be used with a RecyclerView.
@@ -8228,10 +8242,10 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
            <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_layoutManager Meter_Replacement.Meter_Replacement:layoutManager}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_reverseLayout Meter_Replacement.Meter_Replacement:reverseLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_spanCount Meter_Replacement.Meter_Replacement:spanCount}</code></td><td></td></tr>
-           <tr><td><code>{@link #RecyclerView_stackFromEnd Meter_Replacement.Meter_Replacement:stackFromEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_layoutManager com.example.android.PickFood:layoutManager}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_reverseLayout com.example.android.PickFood:reverseLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_spanCount com.example.android.PickFood:spanCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #RecyclerView_stackFromEnd com.example.android.PickFood:stackFromEnd}</code></td><td></td></tr>
            </table>
            @see #RecyclerView_android_descendantFocusability
            @see #RecyclerView_android_orientation
@@ -8257,7 +8271,7 @@ containing a value of this type.
         */
         public static final int RecyclerView_android_orientation = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layoutManager}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layoutManager}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8267,11 +8281,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:layoutManager
+          @attr name com.example.android.PickFood:layoutManager
         */
         public static final int RecyclerView_layoutManager = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#reverseLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#reverseLayout}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8281,11 +8295,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:reverseLayout
+          @attr name com.example.android.PickFood:reverseLayout
         */
         public static final int RecyclerView_reverseLayout = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#spanCount}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#spanCount}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8295,11 +8309,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:spanCount
+          @attr name com.example.android.PickFood:spanCount
         */
         public static final int RecyclerView_spanCount = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#stackFromEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#stackFromEnd}
           attribute's value can be found in the {@link #RecyclerView} array.
 
 
@@ -8309,7 +8323,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:stackFromEnd
+          @attr name com.example.android.PickFood:stackFromEnd
         */
         public static final int RecyclerView_stackFromEnd = 5;
         /** Attributes that can be used with a ScrimInsetsFrameLayout.
@@ -8318,7 +8332,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground Meter_Replacement.Meter_Replacement:insetForeground}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.example.android.PickFood:insetForeground}</code></td><td></td></tr>
            </table>
            @see #ScrimInsetsFrameLayout_insetForeground
          */
@@ -8326,7 +8340,7 @@ containing a value of this type.
             0x7f01011f
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#insetForeground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#insetForeground}
           attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
 
 
@@ -8334,7 +8348,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:insetForeground
+          @attr name com.example.android.PickFood:insetForeground
         */
         public static final int ScrimInsetsFrameLayout_insetForeground = 0;
         /** Attributes that can be used with a ScrollingViewBehavior_Layout.
@@ -8343,7 +8357,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop Meter_Replacement.Meter_Replacement:behavior_overlapTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.example.android.PickFood:behavior_overlapTop}</code></td><td></td></tr>
            </table>
            @see #ScrollingViewBehavior_Layout_behavior_overlapTop
          */
@@ -8351,7 +8365,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010120
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#behavior_overlapTop}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#behavior_overlapTop}
           attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
 
 
@@ -8363,7 +8377,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:behavior_overlapTop
+          @attr name com.example.android.PickFood:behavior_overlapTop
         */
         public static final int ScrollingViewBehavior_Layout_behavior_overlapTop = 0;
         /** Attributes that can be used with a SearchView.
@@ -8376,19 +8390,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon Meter_Replacement.Meter_Replacement:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon Meter_Replacement.Meter_Replacement:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint Meter_Replacement.Meter_Replacement:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon Meter_Replacement.Meter_Replacement:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault Meter_Replacement.Meter_Replacement:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout Meter_Replacement.Meter_Replacement:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground Meter_Replacement.Meter_Replacement:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint Meter_Replacement.Meter_Replacement:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon Meter_Replacement.Meter_Replacement:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon Meter_Replacement.Meter_Replacement:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground Meter_Replacement.Meter_Replacement:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout Meter_Replacement.Meter_Replacement:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon Meter_Replacement.Meter_Replacement:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.example.android.PickFood:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.example.android.PickFood:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.example.android.PickFood:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.example.android.PickFood:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.example.android.PickFood:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.example.android.PickFood:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.example.android.PickFood:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.example.android.PickFood:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.example.android.PickFood:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.example.android.PickFood:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.example.android.PickFood:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.example.android.PickFood:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.example.android.PickFood:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -8440,27 +8454,27 @@ containing a value of this type.
         */
         public static final int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:closeIcon
+          @attr name com.example.android.PickFood:closeIcon
         */
         public static final int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:commitIcon
+          @attr name com.example.android.PickFood:commitIcon
         */
         public static final int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8470,21 +8484,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:defaultQueryHint
+          @attr name com.example.android.PickFood:defaultQueryHint
         */
         public static final int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:goIcon
+          @attr name com.example.android.PickFood:goIcon
         */
         public static final int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8494,31 +8508,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:iconifiedByDefault
+          @attr name com.example.android.PickFood:iconifiedByDefault
         */
         public static final int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:layout
+          @attr name com.example.android.PickFood:layout
         */
         public static final int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:queryBackground
+          @attr name com.example.android.PickFood:queryBackground
         */
         public static final int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -8528,57 +8542,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:queryHint
+          @attr name com.example.android.PickFood:queryHint
         */
         public static final int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:searchHintIcon
+          @attr name com.example.android.PickFood:searchHintIcon
         */
         public static final int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:searchIcon
+          @attr name com.example.android.PickFood:searchIcon
         */
         public static final int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:submitBackground
+          @attr name com.example.android.PickFood:submitBackground
         */
         public static final int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:suggestionRowLayout
+          @attr name com.example.android.PickFood:suggestionRowLayout
         */
         public static final int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:voiceIcon
+          @attr name com.example.android.PickFood:voiceIcon
         */
         public static final int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SignInButton.
@@ -8587,9 +8601,9 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SignInButton_buttonSize Meter_Replacement.Meter_Replacement:buttonSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_colorScheme Meter_Replacement.Meter_Replacement:colorScheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #SignInButton_scopeUris Meter_Replacement.Meter_Replacement:scopeUris}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_buttonSize com.example.android.PickFood:buttonSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_colorScheme com.example.android.PickFood:colorScheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #SignInButton_scopeUris com.example.android.PickFood:scopeUris}</code></td><td></td></tr>
            </table>
            @see #SignInButton_buttonSize
            @see #SignInButton_colorScheme
@@ -8599,7 +8613,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010003, 0x7f010004, 0x7f010005
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonSize}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonSize}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -8615,11 +8629,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>wide</code></td><td>1</td><td></td></tr>
 <tr><td><code>icon_only</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:buttonSize
+          @attr name com.example.android.PickFood:buttonSize
         */
         public static final int SignInButton_buttonSize = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#colorScheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#colorScheme}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
@@ -8635,18 +8649,18 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>light</code></td><td>1</td><td></td></tr>
 <tr><td><code>auto</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:colorScheme
+          @attr name com.example.android.PickFood:colorScheme
         */
         public static final int SignInButton_colorScheme = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#scopeUris}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#scopeUris}
           attribute's value can be found in the {@link #SignInButton} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
-          @attr name Meter_Replacement.Meter_Replacement:scopeUris
+          @attr name com.example.android.PickFood:scopeUris
         */
         public static final int SignInButton_scopeUris = 2;
         /** Attributes that can be used with a SnackbarLayout.
@@ -8656,8 +8670,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_elevation Meter_Replacement.Meter_Replacement:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth Meter_Replacement.Meter_Replacement:maxActionInlineWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_elevation com.example.android.PickFood:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.example.android.PickFood:maxActionInlineWidth}</code></td><td></td></tr>
            </table>
            @see #SnackbarLayout_android_maxWidth
            @see #SnackbarLayout_elevation
@@ -8673,7 +8687,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SnackbarLayout_android_maxWidth = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#elevation}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8685,11 +8699,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:elevation
+          @attr name com.example.android.PickFood:elevation
         */
         public static final int SnackbarLayout_elevation = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#maxActionInlineWidth}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#maxActionInlineWidth}
           attribute's value can be found in the {@link #SnackbarLayout} array.
 
 
@@ -8701,7 +8715,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:maxActionInlineWidth
+          @attr name com.example.android.PickFood:maxActionInlineWidth
         */
         public static final int SnackbarLayout_maxActionInlineWidth = 2;
         /** Attributes that can be used with a Spinner.
@@ -8714,7 +8728,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_entries android:entries}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme Meter_Replacement.Meter_Replacement:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.example.android.PickFood:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_entries
@@ -8751,13 +8765,13 @@ containing a value of this type.
         */
         public static final int Spinner_android_prompt = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:popupTheme
+          @attr name com.example.android.PickFood:popupTheme
         */
         public static final int Spinner_popupTheme = 4;
         /** Attributes that can be used with a SwitchCompat.
@@ -8769,17 +8783,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText Meter_Replacement.Meter_Replacement:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack Meter_Replacement.Meter_Replacement:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth Meter_Replacement.Meter_Replacement:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding Meter_Replacement.Meter_Replacement:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance Meter_Replacement.Meter_Replacement:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding Meter_Replacement.Meter_Replacement:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTint Meter_Replacement.Meter_Replacement:thumbTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTintMode Meter_Replacement.Meter_Replacement:thumbTintMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track Meter_Replacement.Meter_Replacement:track}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTint Meter_Replacement.Meter_Replacement:trackTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_trackTintMode Meter_Replacement.Meter_Replacement:trackTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.example.android.PickFood:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.example.android.PickFood:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.example.android.PickFood:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.example.android.PickFood:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.example.android.PickFood:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.example.android.PickFood:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTint com.example.android.PickFood:thumbTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTintMode com.example.android.PickFood:thumbTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.example.android.PickFood:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTint com.example.android.PickFood:trackTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_trackTintMode com.example.android.PickFood:trackTintMode}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -8821,7 +8835,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8831,11 +8845,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:showText
+          @attr name com.example.android.PickFood:showText
         */
         public static final int SwitchCompat_showText = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8845,11 +8859,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:splitTrack
+          @attr name com.example.android.PickFood:splitTrack
         */
         public static final int SwitchCompat_splitTrack = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8861,11 +8875,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:switchMinWidth
+          @attr name com.example.android.PickFood:switchMinWidth
         */
         public static final int SwitchCompat_switchMinWidth = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8877,21 +8891,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:switchPadding
+          @attr name com.example.android.PickFood:switchPadding
         */
         public static final int SwitchCompat_switchPadding = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:switchTextAppearance
+          @attr name com.example.android.PickFood:switchTextAppearance
         */
         public static final int SwitchCompat_switchTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8903,11 +8917,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:thumbTextPadding
+          @attr name com.example.android.PickFood:thumbTextPadding
         */
         public static final int SwitchCompat_thumbTextPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#thumbTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#thumbTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8918,11 +8932,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:thumbTint
+          @attr name com.example.android.PickFood:thumbTint
         */
         public static final int SwitchCompat_thumbTint = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#thumbTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#thumbTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8939,21 +8953,21 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:thumbTintMode
+          @attr name com.example.android.PickFood:thumbTintMode
         */
         public static final int SwitchCompat_thumbTintMode = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#track}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:track
+          @attr name com.example.android.PickFood:track
         */
         public static final int SwitchCompat_track = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#trackTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#trackTint}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8964,11 +8978,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:trackTint
+          @attr name com.example.android.PickFood:trackTint
         */
         public static final int SwitchCompat_trackTint = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#trackTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#trackTintMode}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -8985,7 +8999,7 @@ containing a value of this type.
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 <tr><td><code>add</code></td><td>16</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:trackTintMode
+          @attr name com.example.android.PickFood:trackTintMode
         */
         public static final int SwitchCompat_trackTintMode = 7;
         /** Attributes that can be used with a TabItem.
@@ -9029,22 +9043,22 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #TabLayout_tabBackground Meter_Replacement.Meter_Replacement:tabBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabContentStart Meter_Replacement.Meter_Replacement:tabContentStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabGravity Meter_Replacement.Meter_Replacement:tabGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorColor Meter_Replacement.Meter_Replacement:tabIndicatorColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabIndicatorHeight Meter_Replacement.Meter_Replacement:tabIndicatorHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMaxWidth Meter_Replacement.Meter_Replacement:tabMaxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMinWidth Meter_Replacement.Meter_Replacement:tabMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabMode Meter_Replacement.Meter_Replacement:tabMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPadding Meter_Replacement.Meter_Replacement:tabPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingBottom Meter_Replacement.Meter_Replacement:tabPaddingBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingEnd Meter_Replacement.Meter_Replacement:tabPaddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingStart Meter_Replacement.Meter_Replacement:tabPaddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabPaddingTop Meter_Replacement.Meter_Replacement:tabPaddingTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabSelectedTextColor Meter_Replacement.Meter_Replacement:tabSelectedTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextAppearance Meter_Replacement.Meter_Replacement:tabTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TabLayout_tabTextColor Meter_Replacement.Meter_Replacement:tabTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabBackground com.example.android.PickFood:tabBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabContentStart com.example.android.PickFood:tabContentStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabGravity com.example.android.PickFood:tabGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorColor com.example.android.PickFood:tabIndicatorColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.example.android.PickFood:tabIndicatorHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMaxWidth com.example.android.PickFood:tabMaxWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMinWidth com.example.android.PickFood:tabMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabMode com.example.android.PickFood:tabMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPadding com.example.android.PickFood:tabPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingBottom com.example.android.PickFood:tabPaddingBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingEnd com.example.android.PickFood:tabPaddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingStart com.example.android.PickFood:tabPaddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabPaddingTop com.example.android.PickFood:tabPaddingTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.example.android.PickFood:tabSelectedTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextAppearance com.example.android.PickFood:tabTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TabLayout_tabTextColor com.example.android.PickFood:tabTextColor}</code></td><td></td></tr>
            </table>
            @see #TabLayout_tabBackground
            @see #TabLayout_tabContentStart
@@ -9070,17 +9084,17 @@ containing a value of this type.
             0x7f01012e, 0x7f01012f, 0x7f010130, 0x7f010131
         };
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabBackground}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabBackground}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:tabBackground
+          @attr name com.example.android.PickFood:tabBackground
         */
         public static final int TabLayout_tabBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabContentStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabContentStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9092,11 +9106,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabContentStart
+          @attr name com.example.android.PickFood:tabContentStart
         */
         public static final int TabLayout_tabContentStart = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabGravity}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabGravity}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9109,11 +9123,11 @@ containing a value of this type.
 <tr><td><code>fill</code></td><td>0</td><td></td></tr>
 <tr><td><code>center</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:tabGravity
+          @attr name com.example.android.PickFood:tabGravity
         */
         public static final int TabLayout_tabGravity = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabIndicatorColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabIndicatorColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9124,11 +9138,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabIndicatorColor
+          @attr name com.example.android.PickFood:tabIndicatorColor
         */
         public static final int TabLayout_tabIndicatorColor = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabIndicatorHeight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabIndicatorHeight}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9140,11 +9154,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabIndicatorHeight
+          @attr name com.example.android.PickFood:tabIndicatorHeight
         */
         public static final int TabLayout_tabIndicatorHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabMaxWidth}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabMaxWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9156,11 +9170,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabMaxWidth
+          @attr name com.example.android.PickFood:tabMaxWidth
         */
         public static final int TabLayout_tabMaxWidth = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabMinWidth}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabMinWidth}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9172,11 +9186,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabMinWidth
+          @attr name com.example.android.PickFood:tabMinWidth
         */
         public static final int TabLayout_tabMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabMode}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9189,11 +9203,11 @@ containing a value of this type.
 <tr><td><code>scrollable</code></td><td>0</td><td></td></tr>
 <tr><td><code>fixed</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:tabMode
+          @attr name com.example.android.PickFood:tabMode
         */
         public static final int TabLayout_tabMode = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabPadding}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabPadding}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9205,11 +9219,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabPadding
+          @attr name com.example.android.PickFood:tabPadding
         */
         public static final int TabLayout_tabPadding = 15;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabPaddingBottom}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabPaddingBottom}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9221,11 +9235,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabPaddingBottom
+          @attr name com.example.android.PickFood:tabPaddingBottom
         */
         public static final int TabLayout_tabPaddingBottom = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabPaddingEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabPaddingEnd}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9237,11 +9251,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabPaddingEnd
+          @attr name com.example.android.PickFood:tabPaddingEnd
         */
         public static final int TabLayout_tabPaddingEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabPaddingStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabPaddingStart}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9253,11 +9267,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabPaddingStart
+          @attr name com.example.android.PickFood:tabPaddingStart
         */
         public static final int TabLayout_tabPaddingStart = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabPaddingTop}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabPaddingTop}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9269,11 +9283,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabPaddingTop
+          @attr name com.example.android.PickFood:tabPaddingTop
         */
         public static final int TabLayout_tabPaddingTop = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabSelectedTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabSelectedTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9284,21 +9298,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabSelectedTextColor
+          @attr name com.example.android.PickFood:tabSelectedTextColor
         */
         public static final int TabLayout_tabSelectedTextColor = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabTextAppearance}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:tabTextAppearance
+          @attr name com.example.android.PickFood:tabTextAppearance
         */
         public static final int TabLayout_tabTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#tabTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#tabTextColor}
           attribute's value can be found in the {@link #TabLayout} array.
 
 
@@ -9309,7 +9323,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:tabTextColor
+          @attr name com.example.android.PickFood:tabTextColor
         */
         public static final int TabLayout_tabTextColor = 9;
         /** Attributes that can be used with a TextAppearance.
@@ -9327,7 +9341,7 @@ containing a value of this type.
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps Meter_Replacement.Meter_Replacement:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.example.android.PickFood:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -9400,14 +9414,14 @@ containing a value of this type.
         */
         public static final int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name Meter_Replacement.Meter_Replacement:textAllCaps
+          @attr name com.example.android.PickFood:textAllCaps
         */
         public static final int TextAppearance_textAllCaps = 9;
         /** Attributes that can be used with a TextInputLayout.
@@ -9418,20 +9432,20 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
            <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterEnabled Meter_Replacement.Meter_Replacement:counterEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterMaxLength Meter_Replacement.Meter_Replacement:counterMaxLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance Meter_Replacement.Meter_Replacement:counterOverflowTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_counterTextAppearance Meter_Replacement.Meter_Replacement:counterTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorEnabled Meter_Replacement.Meter_Replacement:errorEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_errorTextAppearance Meter_Replacement.Meter_Replacement:errorTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled Meter_Replacement.Meter_Replacement:hintAnimationEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintEnabled Meter_Replacement.Meter_Replacement:hintEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_hintTextAppearance Meter_Replacement.Meter_Replacement:hintTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription Meter_Replacement.Meter_Replacement:passwordToggleContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable Meter_Replacement.Meter_Replacement:passwordToggleDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled Meter_Replacement.Meter_Replacement:passwordToggleEnabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTint Meter_Replacement.Meter_Replacement:passwordToggleTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode Meter_Replacement.Meter_Replacement:passwordToggleTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterEnabled com.example.android.PickFood:counterEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterMaxLength com.example.android.PickFood:counterMaxLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.example.android.PickFood:counterOverflowTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.example.android.PickFood:counterTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorEnabled com.example.android.PickFood:errorEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.example.android.PickFood:errorTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.example.android.PickFood:hintAnimationEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintEnabled com.example.android.PickFood:hintEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.example.android.PickFood:hintTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.example.android.PickFood:passwordToggleContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.example.android.PickFood:passwordToggleDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.example.android.PickFood:passwordToggleEnabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.example.android.PickFood:passwordToggleTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.example.android.PickFood:passwordToggleTintMode}</code></td><td></td></tr>
            </table>
            @see #TextInputLayout_android_hint
            @see #TextInputLayout_android_textColorHint
@@ -9469,7 +9483,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int TextInputLayout_android_textColorHint = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#counterEnabled}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#counterEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9479,11 +9493,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:counterEnabled
+          @attr name com.example.android.PickFood:counterEnabled
         */
         public static final int TextInputLayout_counterEnabled = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#counterMaxLength}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#counterMaxLength}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9493,31 +9507,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:counterMaxLength
+          @attr name com.example.android.PickFood:counterMaxLength
         */
         public static final int TextInputLayout_counterMaxLength = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#counterOverflowTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#counterOverflowTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:counterOverflowTextAppearance
+          @attr name com.example.android.PickFood:counterOverflowTextAppearance
         */
         public static final int TextInputLayout_counterOverflowTextAppearance = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#counterTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#counterTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:counterTextAppearance
+          @attr name com.example.android.PickFood:counterTextAppearance
         */
         public static final int TextInputLayout_counterTextAppearance = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#errorEnabled}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#errorEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9527,21 +9541,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:errorEnabled
+          @attr name com.example.android.PickFood:errorEnabled
         */
         public static final int TextInputLayout_errorEnabled = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#errorTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#errorTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:errorTextAppearance
+          @attr name com.example.android.PickFood:errorTextAppearance
         */
         public static final int TextInputLayout_errorTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#hintAnimationEnabled}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#hintAnimationEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9551,11 +9565,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:hintAnimationEnabled
+          @attr name com.example.android.PickFood:hintAnimationEnabled
         */
         public static final int TextInputLayout_hintAnimationEnabled = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#hintEnabled}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#hintEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9565,21 +9579,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:hintEnabled
+          @attr name com.example.android.PickFood:hintEnabled
         */
         public static final int TextInputLayout_hintEnabled = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#hintTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#hintTextAppearance}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:hintTextAppearance
+          @attr name com.example.android.PickFood:hintTextAppearance
         */
         public static final int TextInputLayout_hintTextAppearance = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#passwordToggleContentDescription}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#passwordToggleContentDescription}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9589,21 +9603,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:passwordToggleContentDescription
+          @attr name com.example.android.PickFood:passwordToggleContentDescription
         */
         public static final int TextInputLayout_passwordToggleContentDescription = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#passwordToggleDrawable}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#passwordToggleDrawable}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:passwordToggleDrawable
+          @attr name com.example.android.PickFood:passwordToggleDrawable
         */
         public static final int TextInputLayout_passwordToggleDrawable = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#passwordToggleEnabled}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#passwordToggleEnabled}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9613,11 +9627,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:passwordToggleEnabled
+          @attr name com.example.android.PickFood:passwordToggleEnabled
         */
         public static final int TextInputLayout_passwordToggleEnabled = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#passwordToggleTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#passwordToggleTint}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9628,11 +9642,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:passwordToggleTint
+          @attr name com.example.android.PickFood:passwordToggleTint
         */
         public static final int TextInputLayout_passwordToggleTint = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#passwordToggleTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#passwordToggleTintMode}
           attribute's value can be found in the {@link #TextInputLayout} array.
 
 
@@ -9648,7 +9662,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:passwordToggleTintMode
+          @attr name com.example.android.PickFood:passwordToggleTintMode
         */
         public static final int TextInputLayout_passwordToggleTintMode = 15;
         /** Attributes that can be used with a Toolbar.
@@ -9659,33 +9673,33 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_buttonGravity Meter_Replacement.Meter_Replacement:buttonGravity}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription Meter_Replacement.Meter_Replacement:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon Meter_Replacement.Meter_Replacement:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd Meter_Replacement.Meter_Replacement:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions Meter_Replacement.Meter_Replacement:contentInsetEndWithActions}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft Meter_Replacement.Meter_Replacement:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight Meter_Replacement.Meter_Replacement:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart Meter_Replacement.Meter_Replacement:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation Meter_Replacement.Meter_Replacement:contentInsetStartWithNavigation}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo Meter_Replacement.Meter_Replacement:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription Meter_Replacement.Meter_Replacement:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight Meter_Replacement.Meter_Replacement:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription Meter_Replacement.Meter_Replacement:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon Meter_Replacement.Meter_Replacement:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme Meter_Replacement.Meter_Replacement:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle Meter_Replacement.Meter_Replacement:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance Meter_Replacement.Meter_Replacement:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor Meter_Replacement.Meter_Replacement:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title Meter_Replacement.Meter_Replacement:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargin Meter_Replacement.Meter_Replacement:titleMargin}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom Meter_Replacement.Meter_Replacement:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd Meter_Replacement.Meter_Replacement:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart Meter_Replacement.Meter_Replacement:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop Meter_Replacement.Meter_Replacement:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins Meter_Replacement.Meter_Replacement:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance Meter_Replacement.Meter_Replacement:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor Meter_Replacement.Meter_Replacement:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_buttonGravity com.example.android.PickFood:buttonGravity}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.example.android.PickFood:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.example.android.PickFood:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.example.android.PickFood:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.example.android.PickFood:contentInsetEndWithActions}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.example.android.PickFood:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.example.android.PickFood:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.example.android.PickFood:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.example.android.PickFood:contentInsetStartWithNavigation}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.example.android.PickFood:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.example.android.PickFood:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.example.android.PickFood:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.example.android.PickFood:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.example.android.PickFood:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.example.android.PickFood:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.example.android.PickFood:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.example.android.PickFood:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.example.android.PickFood:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.example.android.PickFood:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargin com.example.android.PickFood:titleMargin}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.example.android.PickFood:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.example.android.PickFood:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.example.android.PickFood:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.example.android.PickFood:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.example.android.PickFood:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.example.android.PickFood:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.example.android.PickFood:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -9740,7 +9754,7 @@ containing a value of this type.
         */
         public static final int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#buttonGravity}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#buttonGravity}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9753,11 +9767,11 @@ containing a value of this type.
 <tr><td><code>top</code></td><td>0x30</td><td></td></tr>
 <tr><td><code>bottom</code></td><td>0x50</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:buttonGravity
+          @attr name com.example.android.PickFood:buttonGravity
         */
         public static final int Toolbar_buttonGravity = 21;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9767,21 +9781,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:collapseContentDescription
+          @attr name com.example.android.PickFood:collapseContentDescription
         */
         public static final int Toolbar_collapseContentDescription = 23;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:collapseIcon
+          @attr name com.example.android.PickFood:collapseIcon
         */
         public static final int Toolbar_collapseIcon = 22;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9793,11 +9807,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetEnd
+          @attr name com.example.android.PickFood:contentInsetEnd
         */
         public static final int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetEndWithActions}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetEndWithActions}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9809,11 +9823,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetEndWithActions
+          @attr name com.example.android.PickFood:contentInsetEndWithActions
         */
         public static final int Toolbar_contentInsetEndWithActions = 10;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9825,11 +9839,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetLeft
+          @attr name com.example.android.PickFood:contentInsetLeft
         */
         public static final int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9841,11 +9855,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetRight
+          @attr name com.example.android.PickFood:contentInsetRight
         */
         public static final int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9857,11 +9871,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetStart
+          @attr name com.example.android.PickFood:contentInsetStart
         */
         public static final int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#contentInsetStartWithNavigation}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#contentInsetStartWithNavigation}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9873,21 +9887,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:contentInsetStartWithNavigation
+          @attr name com.example.android.PickFood:contentInsetStartWithNavigation
         */
         public static final int Toolbar_contentInsetStartWithNavigation = 9;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:logo
+          @attr name com.example.android.PickFood:logo
         */
         public static final int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9897,11 +9911,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:logoDescription
+          @attr name com.example.android.PickFood:logoDescription
         */
         public static final int Toolbar_logoDescription = 26;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9913,11 +9927,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:maxButtonHeight
+          @attr name com.example.android.PickFood:maxButtonHeight
         */
         public static final int Toolbar_maxButtonHeight = 20;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9927,31 +9941,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:navigationContentDescription
+          @attr name com.example.android.PickFood:navigationContentDescription
         */
         public static final int Toolbar_navigationContentDescription = 25;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:navigationIcon
+          @attr name com.example.android.PickFood:navigationIcon
         */
         public static final int Toolbar_navigationIcon = 24;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:popupTheme
+          @attr name com.example.android.PickFood:popupTheme
         */
         public static final int Toolbar_popupTheme = 11;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9961,21 +9975,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:subtitle
+          @attr name com.example.android.PickFood:subtitle
         */
         public static final int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:subtitleTextAppearance
+          @attr name com.example.android.PickFood:subtitleTextAppearance
         */
         public static final int Toolbar_subtitleTextAppearance = 13;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -9986,11 +10000,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:subtitleTextColor
+          @attr name com.example.android.PickFood:subtitleTextColor
         */
         public static final int Toolbar_subtitleTextColor = 28;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#title}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10000,11 +10014,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:title
+          @attr name com.example.android.PickFood:title
         */
         public static final int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleMargin}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleMargin}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10016,11 +10030,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleMargin
+          @attr name com.example.android.PickFood:titleMargin
         */
         public static final int Toolbar_titleMargin = 14;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10032,11 +10046,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleMarginBottom
+          @attr name com.example.android.PickFood:titleMarginBottom
         */
         public static final int Toolbar_titleMarginBottom = 18;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10048,11 +10062,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleMarginEnd
+          @attr name com.example.android.PickFood:titleMarginEnd
         */
         public static final int Toolbar_titleMarginEnd = 16;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10064,11 +10078,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleMarginStart
+          @attr name com.example.android.PickFood:titleMarginStart
         */
         public static final int Toolbar_titleMarginStart = 15;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10080,11 +10094,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleMarginTop
+          @attr name com.example.android.PickFood:titleMarginTop
         */
         public static final int Toolbar_titleMarginTop = 17;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10096,21 +10110,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleMargins
+          @attr name com.example.android.PickFood:titleMargins
         */
         public static final int Toolbar_titleMargins = 19;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:titleTextAppearance
+          @attr name com.example.android.PickFood:titleTextAppearance
         */
         public static final int Toolbar_titleTextAppearance = 12;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -10121,7 +10135,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:titleTextColor
+          @attr name com.example.android.PickFood:titleTextColor
         */
         public static final int Toolbar_titleTextColor = 27;
         /** Attributes that can be used with a View.
@@ -10132,9 +10146,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd Meter_Replacement.Meter_Replacement:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart Meter_Replacement.Meter_Replacement:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme Meter_Replacement.Meter_Replacement:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.example.android.PickFood:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.example.android.PickFood:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.example.android.PickFood:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -10159,7 +10173,7 @@ containing a value of this type.
         */
         public static final int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10171,11 +10185,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:paddingEnd
+          @attr name com.example.android.PickFood:paddingEnd
         */
         public static final int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -10187,17 +10201,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:paddingStart
+          @attr name com.example.android.PickFood:paddingStart
         */
         public static final int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name Meter_Replacement.Meter_Replacement:theme
+          @attr name com.example.android.PickFood:theme
         */
         public static final int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -10207,8 +10221,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint Meter_Replacement.Meter_Replacement:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode Meter_Replacement.Meter_Replacement:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.example.android.PickFood:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.example.android.PickFood:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -10224,7 +10238,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static final int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10235,11 +10249,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name Meter_Replacement.Meter_Replacement:backgroundTint
+          @attr name com.example.android.PickFood:backgroundTint
         */
         public static final int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link Meter_Replacement.Meter_Replacement.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.example.android.PickFood.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -10255,7 +10269,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name Meter_Replacement.Meter_Replacement:backgroundTintMode
+          @attr name com.example.android.PickFood:backgroundTintMode
         */
         public static final int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.

@@ -255,4 +255,109 @@ C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacem
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.csprojResolveAssemblyReference.cache
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCL.batteries.dll
 C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll.mdb
-C:\Users\Aurelijus\Desktop\4th-Semester-Project\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.pdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Meter_Replacement.Meter_Replacement.apk
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Meter_Replacement.Meter_Replacement-Signed.apk
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLite-net.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCL.batteries.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLPlugin_esqlite3.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Auth.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.Firebase.Common.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\zxing.portable.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\ZXingNetMobile.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\FastAndroidCamera.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLite-net.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\SQLite-net.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.csprojResolveAssemblyReference.cache
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Common.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Firebase.Auth.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.pdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\bin\Meter_Replacement.Meter_Replacement.apk
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\layout\menu.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\layout\main.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\values\strings.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\values\theme.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\values\colors.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\drawable\icon.png
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\R.cs.flag
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\uploadflags.txt
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\mscorlib.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.Core.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.Xml.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\Meter Replacement.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\SQLite-net.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\layout\additem.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\layout\list_item.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\values\styles.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\drawable\ic_new.png
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\menu\menu_main.xml
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\drawable\ic_remove.png
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\drawable\ic_save.png
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\res\drawable\logo.png
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\obj\Debug\Meter Replacement.dll.mdb
+C:\Users\Aurelijus\Desktop\BACKUP\Meter Replacement\Meter Replacement\bin\Debug\Meter Replacement.dll.mdb
